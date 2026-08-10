@@ -24,7 +24,7 @@ import statistics
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "..", "data.json")
 DATA_FILE = os.path.abspath(DATA_FILE)
-MAX_ITEMS = 40
+MAX_ITEMS = 60
 LOOKBACK_HOURS = 72
 UA = "vigia-gta6-bot/1.0 (+https://github.com/)"
 CHANNEL_BASELINE_FILE = os.path.join(os.path.dirname(__file__), "..", "channel_baselines.json")
@@ -34,6 +34,9 @@ HOT_TOP_N = 6
 BASELINE_MAX_AGE_HOURS = 24
 BASELINE_MIN_SAMPLE = 3
 OUTLIER_CHANNEL_MULTIPLIER = 2
+MIN_NEWS = 10
+MIN_VIDEO_LONGO = 10
+MIN_VIDEO_CURTO = 10
 
 NEWS_QUERIES = [
     "GTA 6",
@@ -596,6 +599,41 @@ def recheck_youtube_items(existing_items, key, baselines):
         it["signal"] = score_item(recency_hours, stats["views"], 0, outlier=it["outlier"])
 
 
+def _trim_with_quotas(combined, max_items):
+    """Protege por categoria de alto sinal (comportamento já existente) E por
+    cota mínima de tipo de conteúdo (notícias, vídeo longo, vídeo curto) — sem
+    a cota de tipo, o engajamento sintético do Reddit expulsa sistematicamente
+    notícias e vídeos do corte, porque eles nunca têm engagement tão alto.
+    Nunca força a existir mais itens de um tipo do que realmente há
+    candidatos disponíveis. Reddit não tem cota fixa — preenche o restante do
+    espaço naturalmente."""
+    if len(combined) <= max_items:
+        return combined
+
+    def _top_n(predicate, n):
+        matching = sorted((it for it in combined if predicate(it)), key=lambda x: x["signal"], reverse=True)
+        return matching[:n]
+
+    cat_protected = [it for it in combined if it["cat"] in ("lancamento", "trabalhista", "vendas") and it["signal"] >= 5]
+    news_protected = _top_n(lambda it: it.get("source") == "news", MIN_NEWS)
+    longo_protected = _top_n(lambda it: it.get("source") == "youtube" and it.get("videoType") == "longo", MIN_VIDEO_LONGO)
+    curto_protected = _top_n(lambda it: it.get("source") == "youtube" and it.get("videoType") == "curto", MIN_VIDEO_CURTO)
+
+    protected = []
+    seen_urls = set()
+    for group in (cat_protected, news_protected, longo_protected, curto_protected):
+        for it in group:
+            url = it.get("url")
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            protected.append(it)
+
+    rest = [it for it in combined if it.get("url") not in seen_urls]
+    rest.sort(key=lambda x: x["signal"], reverse=True)
+    return (protected + rest)[:max_items]
+
+
 def main():
     existing = load_existing()
     existing_items = existing.get("items", [])
@@ -609,13 +647,7 @@ def main():
     save_channel_baselines(baselines)
 
     combined = new_items + existing_items
-    # nunca derruba itens de alto sinal em categorias-chave; corta o resto se passar do limite
-    if len(combined) > MAX_ITEMS:
-        protected = [it for it in combined if it["cat"] in ("lancamento", "trabalhista", "vendas") and it["signal"] >= 5]
-        rest = [it for it in combined if it not in protected]
-        rest.sort(key=lambda x: x["signal"], reverse=True)
-        combined = protected + rest
-        combined = combined[:MAX_ITEMS]
+    combined = _trim_with_quotas(combined, MAX_ITEMS)
 
     out = {
         "updated": datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),
