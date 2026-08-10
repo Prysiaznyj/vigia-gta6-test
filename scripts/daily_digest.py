@@ -83,11 +83,11 @@ def select_digest_items(items, sent):
             continue
         try:
             published = datetime.fromisoformat(published_at)
+            if published < cutoff:
+                continue
         except Exception:
             continue
-        if published < cutoff:
-            continue
-        if it.get("signal", 0) < MIN_SIGNAL:
+        if (it.get("signal") or 0) < MIN_SIGNAL:
             continue
         if it.get("url") in sent:
             continue
