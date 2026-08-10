@@ -271,10 +271,16 @@ def get_channel_baseline(channel_id, key, baselines):
 
     entry = baselines.get(channel_id)
     if entry:
-        computed_at = datetime.fromisoformat(entry["calculadoEm"])
-        age_hours = (datetime.now(timezone.utc) - computed_at).total_seconds() / 3600
-        if age_hours < BASELINE_MAX_AGE_HOURS:
-            return entry.get("medianViews"), entry.get("amostra", 0)
+        try:
+            computed_at = datetime.fromisoformat(entry["calculadoEm"])
+        except Exception:
+            # Corrupted or missing calculadoEm — treat as stale, recompute below
+            computed_at = None
+
+        if computed_at:
+            age_hours = (datetime.now(timezone.utc) - computed_at).total_seconds() / 3600
+            if age_hours < BASELINE_MAX_AGE_HOURS:
+                return entry.get("medianViews"), entry.get("amostra", 0)
 
     views = fetch_channel_recent_views(channel_id, key)
     if len(views) < BASELINE_MIN_SAMPLE:
