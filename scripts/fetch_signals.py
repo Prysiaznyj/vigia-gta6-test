@@ -73,8 +73,15 @@ HOOK_TEMPLATES = {
 def load_existing():
     if not os.path.exists(DATA_FILE):
         return {"updated": "", "items": []}
-    with open(DATA_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"[data] falhou ler {DATA_FILE}, começando do zero: {e}", file=sys.stderr)
+        return {"updated": "", "items": []}
+    if not isinstance(data, dict) or "items" not in data:
+        return {"updated": "", "items": []}
+    return data
 
 
 def normalize(text):
@@ -205,8 +212,13 @@ def _parse_iso8601_duration(text):
 def load_channel_baselines():
     if not os.path.exists(CHANNEL_BASELINE_FILE):
         return {}
-    with open(CHANNEL_BASELINE_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(CHANNEL_BASELINE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"[baseline] falhou ler {CHANNEL_BASELINE_FILE}, começando do zero: {e}", file=sys.stderr)
+        return {}
+    return data if isinstance(data, dict) else {}
 
 
 def save_channel_baselines(baselines):
@@ -276,15 +288,14 @@ def get_channel_baseline(channel_id, key, baselines):
             age_hours = (datetime.now(timezone.utc) - computed_at).total_seconds() / 3600
             if age_hours < BASELINE_MAX_AGE_HOURS:
                 return entry.get("medianViews"), entry.get("amostra", 0)
-        except Exception:
+        except Exception as e:
             # Corrupted, missing, or timezone-naive calculadoEm — treat as stale, recompute below
-            pass
+            print(f"[baseline] cache inválido pra {channel_id}: {e}", file=sys.stderr)
 
     views = fetch_channel_recent_views(channel_id, key)
-    if len(views) < BASELINE_MIN_SAMPLE:
-        return None, len(views)
-
-    median_views = statistics.median(views)
+    # Cacheia tanto sucesso quanto amostra insuficiente/falha, com o mesmo TTL de
+    # 24h — evita rebuscar o mesmo canal pequeno/com falha a cada item, toda rodada.
+    median_views = statistics.median(views) if len(views) >= BASELINE_MIN_SAMPLE else None
     baselines[channel_id] = {
         "medianViews": median_views,
         "amostra": len(views),
@@ -443,19 +454,23 @@ def maybe_rewrite_with_gemini(raw_items):
     return None
 
 
-def compute_outliers(items, key, baselines):
+def compute_outliers(items, key, baselines, check_hot=True):
     """Marca item['outlier'] = True/False em cada item (in place). Cada item
     precisa ter as chaves 'url', 'engagement' (views), 'channelId', 'published'
     (datetime). Critério 1: entre os top HOT_TOP_N por views publicados nas
-    últimas HOT_WINDOW_HOURS horas. Critério 2: views >= OUTLIER_CHANNEL_MULTIPLIER
+    últimas HOT_WINDOW_HOURS horas (só avaliado se check_hot=True — itens
+    re-checados de rodadas anteriores nunca são elegíveis pra esse critério,
+    só pra novos itens recém-buscados). Critério 2: views >= OUTLIER_CHANNEL_MULTIPLIER
     vezes a mediana do canal (se houver amostra suficiente)."""
-    now = datetime.now(timezone.utc)
-    hot_candidates = sorted(
-        (it for it in items if (now - it["published"]).total_seconds() / 3600 <= HOT_WINDOW_HOURS),
-        key=lambda it: it["engagement"],
-        reverse=True,
-    )[:HOT_TOP_N]
-    hot_urls = {it["url"] for it in hot_candidates}
+    hot_urls = set()
+    if check_hot:
+        now = datetime.now(timezone.utc)
+        hot_candidates = sorted(
+            (it for it in items if (now - it["published"]).total_seconds() / 3600 <= HOT_WINDOW_HOURS),
+            key=lambda it: it["engagement"],
+            reverse=True,
+        )[:HOT_TOP_N]
+        hot_urls = {it["url"] for it in hot_candidates}
 
     for it in items:
         is_hot = it["url"] in hot_urls
@@ -568,7 +583,7 @@ def recheck_youtube_items(existing_items, key, baselines):
             "channelId": it.get("channelId"),
             "published": datetime.fromisoformat(it["publishedAt"]),
         })
-    compute_outliers(outlier_inputs, key, baselines)
+    compute_outliers(outlier_inputs, key, baselines, check_hot=False)
     outlier_by_url = {oi["url"]: oi["outlier"] for oi in outlier_inputs}
 
     for vid, it in id_to_item.items():
