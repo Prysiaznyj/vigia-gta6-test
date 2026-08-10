@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T06:29:51+00:00",
+  "updated": "2026-08-10T09:24:47+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -170,6 +170,66 @@
       "signal": 5,
       "hook": "\"Marca aí: 6 de agosto\" com tom de contagem regressiva — ótimo pra short curto que pede pra salvar/lembrar. Deixa claro que é especulação.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T07:27:51+00:00",
+      "headline": "Dizem que o GTA 6 vai falhar sem o Dan Houser... mas a verdade é bem diferente!",
+      "desc": "A história principal e o arco do Jason e da Lucia foram finalizados anos atrás, bem antes do Dan Houser sair da Rockstar. O projeto está super seguro e o roteiro principal está intacto.",
+      "signal": 4,
+      "hook": "Muitos fãs surtaram quando o Dan Houser saiu da Rockstar, mas você sabia que a história do GTA 6 já tava pronta antes disso?",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vke17t/why_gta_6_is_safe_without_dan_houser/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T07:09:32+00:00",
+      "headline": "Os próximos 3 meses de marketing do GTA 6 vão ser insanos!",
+      "desc": "O CEO da Take-Two revelou que o que vimos até agora é só uma amostra e que o prato principal vem aí. A Rockstar deve acelerar forte com trailers e gameplays no próximo trimestre.",
+      "signal": 4,
+      "hook": "Prepara o coração porque a Take-Two acabou de dar a entender que o verdadeiro marketing do GTA 6 ainda nem começou!",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vkdq4c/the_next_3_months_of_gta_6_marketing_could_be/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T07:08:45+00:00",
+      "headline": "Desafio dos 100 Dias para Vice City: comunidade decide se preparar até o lançamento!",
+      "desc": "Fãs no Reddit criaram um desafio de foco, treino e saúde para os últimos 100 dias até a chegada do jogo. A ideia é evoluir na vida real enquanto a contagem regressiva roda.",
+      "signal": 4,
+      "hook": "E se você usasse os últimos 100 dias de espera pro GTA 6 pra mudar de vida e ficar no shape?",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vkdpmq/100_days_to_vice_city_anyone_up_for_a/"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCWIL76lst7mXmwPlpdV5K_w",
+      "outlier": false,
+      "date": "09/08/2026",
+      "publishedAt": "2026-08-09T17:35:28+00:00",
+      "headline": "Grandes streamers reagem aos rumores do trailer de GTA 6 na Netflix!",
+      "desc": "Criadores de conteúdo gigantes estão analisando em live as novidades sobre a exibição do trailer na plataforma de streaming. O assunto virou o principal tópico das comunidades gamers nas últimas horas.",
+      "signal": 4,
+      "hook": "Até os maiores streamers do mundo tão chocados com essa história da prévia do GTA 6 passar na Netflix!",
+      "url": "https://youtube.com/watch?v=EPGzsL3hfc4"
     },
     {
       "cat": "lancamento",
@@ -516,56 +576,6 @@
       "signal": 4,
       "hook": "Teve jogador garantindo a edição mais cara do GTA 6 só pelo prazer de ver o choro dos haters!",
       "url": "https://www.reddit.com/r/GTA6/comments/1vk8jjw/i_saw_people_bitching_about_the_pre_order_numbers/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T00:00:07+00:00",
-      "headline": "Faltam 100 dias: a contagem regressiva final do GTA 6 começou!",
-      "desc": "O marco de 100 dias para o lançamento está agitando fóruns e redes sociais no mundo todo. A ansiedade da comunidade atingiu o nível máximo até agora.",
-      "signal": 4,
-      "hook": "Pode marcar no calendário: faltam exatamente 100 dias pro GTA 6 ser lançado!",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vk5bjf/gta6_is_100_days_away/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T23:59:04+00:00",
-      "headline": "Falta pouco: faltam menos de 2.400 horas pro lançamento de GTA 6!",
-      "desc": "Chegamos à marca de 100 dias para o lançamento do produto de entretenimento mais aguardado da história. A contagem em horas mostra o quão perto estamos de jogar.",
-      "signal": 4,
-      "hook": "Você sabia que faltam menos de 2.400 horas pra você colocar a mão no GTA 6?",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vk5aoi/gta_6_will_finally_release_in_100_days/"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T14:34:50+00:00",
-      "headline": "Rumores do novo trailer de GTA 6 dominam discussões na cultura pop!",
-      "desc": "A expectativa pelo novo trailer do game entrou em debates que misturam grandes lançamentos de cinema e entretenimento. O hype em torno da Rockstar está cruzando bolhas no ecossistema geek.",
-      "signal": 4,
-      "hook": "O trailer de GTA 6 virou o assunto principal até nos canais sobre cinema e cultura pop!",
-      "url": "https://youtube.com/watch?v=64uq44kn-tY",
-      "outlier": false
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "10/08/2026",
-      "headline": "ROCKSTAR CONFIRMA NOVO VÍDEO DE GTA 6! SAIBA A DATA!",
-      "desc": "A Rockstar oficializou que teremos um novo trailer ou material em vídeo de GTA 6 muito em breve. A comunidade do Sem Missão já tá surtando pra ver a gameplay real desse projeto.",
-      "signal": 4,
-      "hook": "Se segura na cadeira porque a Rockstar acabou de confirmar a data do próximo vídeo do GTA 6!",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQW5CTHB1SVBhTENlVjBaM1FRamw0MVpJZUhqbG1ydW1ZT3QxOVQyQ1VJeGc0LVBJZWVLS0dJUnExX1JiejRMcTlCNExpVERYVHJtNTVGbXhiRkJmT0dyZEFOdEdkSjJkel93TndCSE8wa0JGLTd0SHkwVjZlWTF6WGVINUxsc01tdFNobm1od2tHMktRZ180czJYRmJUY1U?oc=5"
     }
   ]
 }
