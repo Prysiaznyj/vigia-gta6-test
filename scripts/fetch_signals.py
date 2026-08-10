@@ -153,6 +153,7 @@ def fetch_news():
     items = []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
     for lang, hl, gl, ceid, queries in NEWS_LOCALES:
+        lang_count = 0
         for q in queries:
             url = f"https://news.google.com/rss/search?q={urllib.parse.quote(q)}&hl={hl}&gl={gl}&ceid={ceid}"
             try:
@@ -160,6 +161,8 @@ def fetch_news():
             except Exception as e:
                 print(f"[news] falhou '{q}' ({lang}): {e}", file=sys.stderr)
                 continue
+            if not feed.entries:
+                print(f"[news] '{q}' ({lang}) voltou sem entradas — status={getattr(feed, 'status', '?')} bozo={getattr(feed, 'bozo', 0)} bozo_exception={getattr(feed, 'bozo_exception', None)}", file=sys.stderr)
             for entry in feed.entries[:12]:
                 try:
                     published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
@@ -178,6 +181,8 @@ def fetch_news():
                     "engagement": 0,
                     "keyword_bonus": 1 if re.search(r"confirm|official|oficial", title.lower()) else 0,
                 })
+                lang_count += 1
+        print(f"[news] {lang}: {lang_count} itens dentro da janela de {LOOKBACK_HOURS}h", file=sys.stderr)
     return items
 
 
