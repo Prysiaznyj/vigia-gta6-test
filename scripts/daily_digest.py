@@ -201,7 +201,8 @@ def main():
 
     if notion_token and notion_db:
         notion_tried = True
-        notion_ok = all(send_to_notion(item, notion_token, notion_db) for item in selected)
+        notion_results = [send_to_notion(item, notion_token, notion_db) for item in selected]
+        notion_ok = all(notion_results)
     else:
         print("[digest] NOTION_TOKEN/NOTION_DATABASE_ID não definidos, pulando Notion.", file=sys.stderr)
 
