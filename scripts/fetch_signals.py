@@ -621,7 +621,14 @@ def _trim_with_quotas(combined, max_items):
 
     protected = []
     seen_urls = set()
-    for group in (cat_protected, news_protected, longo_protected, curto_protected):
+    # Ordem importa: as cotas de tipo (news/longo/curto) entram primeiro, e a
+    # proteção de categoria (sem limite de tamanho) entra por último. Cada
+    # cota de tipo é limitada a 10 itens (no máximo 30 no total, bem abaixo de
+    # MAX_ITEMS), enquanto cat_protected pode crescer sem limite. Como o corte
+    # final é (protected + rest)[:max_items], se o conjunto protegido
+    # combinado ultrapassar max_items, é a proteção de categoria (não
+    # limitada) que deve ser truncada — nunca as cotas de tipo garantidas.
+    for group in (news_protected, longo_protected, curto_protected, cat_protected):
         for it in group:
             url = it.get("url")
             if url in seen_urls:
