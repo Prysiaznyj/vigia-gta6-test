@@ -502,6 +502,22 @@ def compute_outliers(items, key, baselines, check_hot=True):
         it["outlier"] = is_hot or is_channel_outlier
 
 
+def _apply_language_safety(classified, rewritten):
+    """Se a reescrita por IA não rodou com sucesso nessa rodada, uma notícia
+    que não é originalmente em português ficaria exibida no idioma original
+    — descarta em vez de mostrar errado (mesma filosofia do resumo diário:
+    silêncio é preferível a exibir algo incorreto). newsLang é sempre um
+    campo interno: nunca deve sobrar no item retornado."""
+    if not rewritten:
+        classified = [
+            it for it in classified
+            if not (it["source"] == "news" and it.get("newsLang") not in (None, "pt"))
+        ]
+    for it in classified:
+        it.pop("newsLang", None)
+    return classified
+
+
 def build_items(existing_items, baselines):
     raw = fetch_news() + fetch_reddit() + fetch_youtube()
     raw.sort(key=lambda x: x["published"], reverse=True)
@@ -535,6 +551,7 @@ def build_items(existing_items, baselines):
             "videoType": it.get("videoType"),
             "channelId": it.get("channelId"),
             "outlier": outlier,
+            "newsLang": it.get("newsLang"),
             "date": it["published"].strftime("%d/%m/%Y"),
             "publishedAt": it["published"].isoformat(timespec="seconds"),
             "headline": it["headline"].strip(),
@@ -552,6 +569,8 @@ def build_items(existing_items, baselines):
             orig["headline"] = new.get("headline", orig["headline"])
             orig["desc"] = new.get("desc", orig["desc"])
             orig["hook"] = new.get("hook", orig["hook"])
+
+    classified = _apply_language_safety(classified, rewritten)
 
     return classified
 
