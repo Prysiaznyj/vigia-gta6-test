@@ -77,6 +77,7 @@ def select_digest_items(items, sent):
     ordena por sinal (desempate por mais recente) e corta em MAX_ITEMS."""
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
     candidates = []
+    seen_urls = set()
     for it in items:
         published_at = it.get("publishedAt")
         if not published_at:
@@ -89,8 +90,10 @@ def select_digest_items(items, sent):
             continue
         if (it.get("signal") or 0) < MIN_SIGNAL:
             continue
-        if it.get("url") in sent:
+        url = it.get("url")
+        if not url or url in sent or url in seen_urls:
             continue
+        seen_urls.add(url)
         candidates.append((published, it))
     candidates.sort(key=lambda pair: (pair[1]["signal"], pair[0]), reverse=True)
     return [it for _, it in candidates[:MAX_ITEMS]]
@@ -135,7 +138,7 @@ TELEGRAM_API_BASE = "https://api.telegram.org"
 
 
 def _escape_html(text):
-    return (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    return (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
 
 def build_telegram_message(items):
@@ -193,21 +196,30 @@ def main():
     telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
     telegram_chat_ids = os.environ.get("TELEGRAM_CHAT_ID", "")
 
+    notion_tried = notion_ok = False
+    telegram_tried = telegram_ok = False
+
     if notion_token and notion_db:
-        for item in selected:
-            send_to_notion(item, notion_token, notion_db)
+        notion_tried = True
+        notion_ok = all(send_to_notion(item, notion_token, notion_db) for item in selected)
     else:
         print("[digest] NOTION_TOKEN/NOTION_DATABASE_ID não definidos, pulando Notion.", file=sys.stderr)
 
     if telegram_token and telegram_chat_ids:
         message = build_telegram_message(selected)
-        send_to_telegram(message, telegram_token, telegram_chat_ids.split(","))
+        telegram_tried = True
+        telegram_ok = send_to_telegram(message, telegram_token, telegram_chat_ids.split(","))
     else:
         print("[digest] TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID não definidos, pulando Telegram.", file=sys.stderr)
 
-    # Marca como enviado assim que SELECIONADO pra rodada, independente de
-    # Notion/Telegram terem tido sucesso individualmente — é só uma trava
-    # anti-duplicata pra janela de 24h sobreposta entre dias, não um retry.
+    if (notion_tried or telegram_tried) and not (notion_ok or telegram_ok):
+        print("[digest] TODOS os canais configurados falharam — nada foi entregue. Itens NÃO marcados como enviados (tentativa de novo na próxima rodada).", file=sys.stderr)
+        sys.exit(1)
+
+    # Marca como enviado assim que SELECIONADO pra rodada (e pelo menos um canal
+    # teve sucesso, ou nenhum canal estava configurado), independente de os dois
+    # canais terem tido sucesso individualmente — é só uma trava anti-duplicata
+    # pra janela de 24h sobreposta entre dias, não um retry completo.
     now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for item in selected:
         sent[item["url"]] = now_iso

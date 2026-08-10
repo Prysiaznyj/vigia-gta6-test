@@ -93,7 +93,8 @@ if [ "$CONFIGURE_DIGEST" = "s" ] || [ "$CONFIGURE_DIGEST" = "S" ]; then
   echo "Notion:"
   echo "1. Abra https://www.notion.so/my-integrations e crie uma integração nova."
   echo "2. Copie o \"Internal Integration Secret\"."
-  read -r -p "Cole o NOTION_TOKEN (ou Enter pra pular): " NOTION_TOKEN || true
+  read -rs -p "Cole o NOTION_TOKEN (ou Enter pra pular): " NOTION_TOKEN || true
+  echo ""
   if [ -n "$NOTION_TOKEN" ]; then
     echo "3. Crie uma database no Notion com as colunas: Headline (title), Categoria (select),"
     echo "   Sinal (number), Data (date), Gancho (text), Link (url)."

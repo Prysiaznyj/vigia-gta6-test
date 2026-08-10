@@ -2,7 +2,7 @@ name: Resumo diário VIGIA GTA VI
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -35,4 +35,5 @@ jobs:
           git config user.email "vigia-bot@users.noreply.github.com"
           git add digest_sent.json
           git diff --cached --quiet || git commit -m "digest: atualiza itens já enviados $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase
           git push
