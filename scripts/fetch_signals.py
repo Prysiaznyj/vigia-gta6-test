@@ -38,13 +38,31 @@ MIN_NEWS = 10
 MIN_VIDEO_LONGO = 10
 MIN_VIDEO_CURTO = 10
 
-NEWS_QUERIES = [
-    "GTA 6",
-    "GTA VI Rockstar",
-    "GTA 6 leak OR rumor",
-    "GTA 6 Take-Two",
-    "Rockstar Games union OR crunch",
-    "GTA 6 preço OR price OR sales",
+NEWS_LOCALES = [
+    ("pt", "pt-BR", "BR", "BR:pt-419", [
+        "GTA 6",
+        "GTA VI Rockstar",
+        "GTA 6 leak OR rumor",
+        "GTA 6 Take-Two",
+        "Rockstar Games union OR crunch",
+        "GTA 6 preço OR price OR sales",
+    ]),
+    ("en", "en-US", "US", "US:en", [
+        "GTA 6",
+        "GTA VI Rockstar",
+        "GTA 6 leak OR rumor",
+        "GTA 6 Take-Two",
+        "Rockstar Games union OR crunch",
+        "GTA 6 price OR sales OR delay",
+    ]),
+    ("es", "es-419", "MX", "MX:es-419", [
+        "GTA 6",
+        "GTA VI Rockstar",
+        "GTA 6 filtracion OR rumor",
+        "GTA 6 Take-Two",
+        "Rockstar Games sindicato OR huelga",
+        "GTA 6 precio OR retraso",
+    ]),
 ]
 
 CATEGORY_RULES = [
@@ -134,30 +152,32 @@ def score_item(recency_hours, engagement, keyword_bonus, outlier=False):
 def fetch_news():
     items = []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
-    for q in NEWS_QUERIES:
-        url = f"https://news.google.com/rss/search?q={urllib.parse.quote(q)}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
-        try:
-            feed = feedparser.parse(url)
-        except Exception as e:
-            print(f"[news] falhou '{q}': {e}", file=sys.stderr)
-            continue
-        for entry in feed.entries[:12]:
+    for lang, hl, gl, ceid, queries in NEWS_LOCALES:
+        for q in queries:
+            url = f"https://news.google.com/rss/search?q={urllib.parse.quote(q)}&hl={hl}&gl={gl}&ceid={ceid}"
             try:
-                published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-            except Exception:
-                published = datetime.now(timezone.utc)
-            if published < cutoff:
+                feed = feedparser.parse(url)
+            except Exception as e:
+                print(f"[news] falhou '{q}' ({lang}): {e}", file=sys.stderr)
                 continue
-            title = re.sub(r"\s*-\s*[^-]+$", "", entry.title)  # tira " - Fonte" do fim
-            items.append({
-                "source": "news",
-                "headline": title,
-                "desc": getattr(entry, "summary", "")[:280],
-                "url": entry.link,
-                "published": published,
-                "engagement": 0,
-                "keyword_bonus": 1 if re.search(r"confirm|official|oficial", title.lower()) else 0,
-            })
+            for entry in feed.entries[:12]:
+                try:
+                    published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                except Exception:
+                    published = datetime.now(timezone.utc)
+                if published < cutoff:
+                    continue
+                title = re.sub(r"\s*-\s*[^-]+$", "", entry.title)  # tira " - Fonte" do fim
+                items.append({
+                    "source": "news",
+                    "newsLang": lang,
+                    "headline": title,
+                    "desc": getattr(entry, "summary", "")[:280],
+                    "url": entry.link,
+                    "published": published,
+                    "engagement": 0,
+                    "keyword_bonus": 1 if re.search(r"confirm|official|oficial", title.lower()) else 0,
+                })
     return items
 
 
