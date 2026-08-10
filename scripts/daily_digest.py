@@ -147,7 +147,7 @@ def build_telegram_message(items):
         lines.append(f"{i}. <b>{headline}</b>")
         lines.append(hook)
         if url:
-            lines.append(f'<a href="{url}">ver fonte</a>')
+            lines.append(f'<a href="{_escape_html(url)}">ver fonte</a>')
         lines.append("")
     return "\n".join(lines).strip()
 
