@@ -202,6 +202,93 @@ def _parse_iso8601_duration(text):
     return h * 3600 + mnt * 60 + s
 
 
+def load_channel_baselines():
+    if not os.path.exists(CHANNEL_BASELINE_FILE):
+        return {}
+    with open(CHANNEL_BASELINE_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def save_channel_baselines(baselines):
+    with open(CHANNEL_BASELINE_FILE, "w", encoding="utf-8") as f:
+        json.dump(baselines, f, ensure_ascii=False, indent=2)
+
+
+def fetch_channel_recent_views(channel_id, key):
+    """Busca views dos últimos uploads de um canal. Retorna lista de ints
+    (lista vazia se o canal não existir ou qualquer chamada falhar)."""
+    if not channel_id:
+        return []
+    try:
+        r = requests.get(
+            "https://www.googleapis.com/youtube/v3/channels",
+            params={"part": "contentDetails", "id": channel_id, "key": key},
+            timeout=15,
+        )
+        r.raise_for_status()
+        items = r.json().get("items", [])
+        if not items:
+            return []
+        uploads_playlist = items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    except Exception as e:
+        print(f"[baseline] falhou channels.list pra {channel_id}: {e}", file=sys.stderr)
+        return []
+
+    try:
+        r2 = requests.get(
+            "https://www.googleapis.com/youtube/v3/playlistItems",
+            params={"part": "contentDetails", "playlistId": uploads_playlist, "maxResults": 15, "key": key},
+            timeout=15,
+        )
+        r2.raise_for_status()
+        video_ids = [it["contentDetails"]["videoId"] for it in r2.json().get("items", [])]
+    except Exception as e:
+        print(f"[baseline] falhou playlistItems pra {channel_id}: {e}", file=sys.stderr)
+        return []
+
+    if not video_ids:
+        return []
+
+    try:
+        r3 = requests.get(
+            "https://www.googleapis.com/youtube/v3/videos",
+            params={"part": "statistics", "id": ",".join(video_ids), "key": key},
+            timeout=15,
+        )
+        r3.raise_for_status()
+        return [int(v.get("statistics", {}).get("viewCount", 0)) for v in r3.json().get("items", [])]
+    except Exception as e:
+        print(f"[baseline] falhou videos.list pra {channel_id}: {e}", file=sys.stderr)
+        return []
+
+
+def get_channel_baseline(channel_id, key, baselines):
+    """Retorna (medianaViews, tamanhoAmostra). Usa cache se tiver menos de
+    BASELINE_MAX_AGE_HOURS; senão recalcula e atualiza `baselines` in place.
+    Retorna (None, amostra) se não houver amostra suficiente."""
+    if not channel_id:
+        return None, 0
+
+    entry = baselines.get(channel_id)
+    if entry:
+        computed_at = datetime.fromisoformat(entry["calculadoEm"])
+        age_hours = (datetime.now(timezone.utc) - computed_at).total_seconds() / 3600
+        if age_hours < BASELINE_MAX_AGE_HOURS:
+            return entry.get("medianViews"), entry.get("amostra", 0)
+
+    views = fetch_channel_recent_views(channel_id, key)
+    if len(views) < BASELINE_MIN_SAMPLE:
+        return None, len(views)
+
+    median_views = statistics.median(views)
+    baselines[channel_id] = {
+        "medianViews": median_views,
+        "amostra": len(views),
+        "calculadoEm": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    }
+    return median_views, len(views)
+
+
 def fetch_youtube():
     key = os.environ.get("YOUTUBE_API_KEY")
     if not key:
