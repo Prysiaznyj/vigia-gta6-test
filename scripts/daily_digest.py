@@ -129,3 +129,50 @@ def send_to_notion(item, token, database_id):
     except Exception as e:
         print(f"[digest] falhou escrever no Notion pra '{item.get('headline', '')[:50]}': {e}", file=sys.stderr)
         return False
+
+
+TELEGRAM_API_BASE = "https://api.telegram.org"
+
+
+def _escape_html(text):
+    return (text or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def build_telegram_message(items):
+    lines = ["<b>🎯 Resumo de hoje — VIGIA GTA VI</b>", ""]
+    for i, item in enumerate(items, start=1):
+        headline = _escape_html(item.get("headline", ""))
+        hook = _escape_html(item.get("hook", ""))
+        url = item.get("url", "")
+        lines.append(f"{i}. <b>{headline}</b>")
+        lines.append(hook)
+        if url:
+            lines.append(f'<a href="{url}">ver fonte</a>')
+        lines.append("")
+    return "\n".join(lines).strip()
+
+
+def send_to_telegram(text, bot_token, chat_ids):
+    """Manda a mesma mensagem pra cada chat_id da lista. Retorna True se
+    pelo menos um envio funcionou; nunca lança."""
+    any_ok = False
+    for chat_id in chat_ids:
+        chat_id = chat_id.strip()
+        if not chat_id:
+            continue
+        try:
+            r = requests.post(
+                f"{TELEGRAM_API_BASE}/bot{bot_token}/sendMessage",
+                json={
+                    "chat_id": chat_id,
+                    "text": text,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": True,
+                },
+                timeout=15,
+            )
+            r.raise_for_status()
+            any_ok = True
+        except Exception as e:
+            print(f"[digest] falhou mandar Telegram pro chat_id {chat_id}: {e}", file=sys.stderr)
+    return any_ok
