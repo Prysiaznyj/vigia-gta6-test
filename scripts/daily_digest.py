@@ -94,3 +94,38 @@ def select_digest_items(items, sent):
         candidates.append((published, it))
     candidates.sort(key=lambda pair: (pair[1]["signal"], pair[0]), reverse=True)
     return [it for _, it in candidates[:MAX_ITEMS]]
+
+
+NOTION_API_BASE = "https://api.notion.com/v1"
+NOTION_VERSION = "2022-06-28"
+
+
+def send_to_notion(item, token, database_id):
+    """Cria uma linha na database do Notion pro item. Retorna True em
+    sucesso, False em falha — nunca lança, quem chama decide o que fazer."""
+    try:
+        r = requests.post(
+            f"{NOTION_API_BASE}/pages",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "Notion-Version": NOTION_VERSION,
+                "Content-Type": "application/json",
+            },
+            json={
+                "parent": {"database_id": database_id},
+                "properties": {
+                    "Headline": {"title": [{"text": {"content": item.get("headline", "")[:2000]}}]},
+                    "Categoria": {"select": {"name": item.get("tagLabel") or item.get("cat") or "Outro"}},
+                    "Sinal": {"number": item.get("signal", 0)},
+                    "Data": {"date": {"start": item.get("publishedAt") or datetime.now(timezone.utc).isoformat(timespec="seconds")}},
+                    "Gancho": {"rich_text": [{"text": {"content": item.get("hook", "")[:2000]}}]},
+                    "Link": {"url": item.get("url") or None},
+                },
+            },
+            timeout=15,
+        )
+        r.raise_for_status()
+        return True
+    except Exception as e:
+        print(f"[digest] falhou escrever no Notion pra '{item.get('headline', '')[:50]}': {e}", file=sys.stderr)
+        return False
