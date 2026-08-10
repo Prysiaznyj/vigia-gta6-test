@@ -443,12 +443,32 @@ def maybe_rewrite_with_gemini(raw_items):
     return None
 
 
-def build_items():
+def compute_outliers(items, key, baselines):
+    """Marca item['outlier'] = True/False em cada item (in place). Cada item
+    precisa ter as chaves 'url', 'engagement' (views), 'channelId', 'published'
+    (datetime). Critério 1: entre os top HOT_TOP_N por views publicados nas
+    últimas HOT_WINDOW_HOURS horas. Critério 2: views >= OUTLIER_CHANNEL_MULTIPLIER
+    vezes a mediana do canal (se houver amostra suficiente)."""
+    now = datetime.now(timezone.utc)
+    hot_candidates = sorted(
+        (it for it in items if (now - it["published"]).total_seconds() / 3600 <= HOT_WINDOW_HOURS),
+        key=lambda it: it["engagement"],
+        reverse=True,
+    )[:HOT_TOP_N]
+    hot_urls = {it["url"] for it in hot_candidates}
+
+    for it in items:
+        is_hot = it["url"] in hot_urls
+        median_views, _sample = get_channel_baseline(it.get("channelId"), key, baselines)
+        is_channel_outlier = bool(median_views) and it["engagement"] >= median_views * OUTLIER_CHANNEL_MULTIPLIER
+        it["outlier"] = is_hot or is_channel_outlier
+
+
+def build_items(existing_items, baselines):
     raw = fetch_news() + fetch_reddit() + fetch_youtube()
     raw.sort(key=lambda x: x["published"], reverse=True)
 
-    existing = load_existing()
-    seen_tokens = [normalize(it["headline"]) for it in existing.get("items", [])]
+    seen_tokens = [normalize(it["headline"]) for it in existing_items]
 
     deduped = []
     for it in raw:
@@ -457,18 +477,26 @@ def build_items():
         seen_tokens.append(normalize(it["headline"]))
         deduped.append(it)
 
+    key = os.environ.get("YOUTUBE_API_KEY")
+    youtube_deduped = [it for it in deduped if it["source"] == "youtube"]
+    if youtube_deduped and key:
+        compute_outliers(youtube_deduped, key, baselines)
+
     classified = []
     for it in deduped:
         cat = classify(it["headline"] + " " + it["desc"])
         if not cat:
             cat = "viral" if it["source"] in ("reddit", "youtube") else "curiosidade"
         recency_hours = (datetime.now(timezone.utc) - it["published"]).total_seconds() / 3600
-        signal = score_item(recency_hours, it["engagement"], it["keyword_bonus"])
+        outlier = it.get("outlier", False)
+        signal = score_item(recency_hours, it["engagement"], it["keyword_bonus"], outlier=outlier)
         classified.append({
             "cat": cat,
             "tagLabel": CAT_TAG_LABEL[cat],
             "source": it["source"],
             "videoType": it.get("videoType"),
+            "channelId": it.get("channelId"),
+            "outlier": outlier,
             "date": it["published"].strftime("%d/%m/%Y"),
             "publishedAt": it["published"].isoformat(timespec="seconds"),
             "headline": it["headline"].strip(),
