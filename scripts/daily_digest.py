@@ -176,3 +176,45 @@ def send_to_telegram(text, bot_token, chat_ids):
         except Exception as e:
             print(f"[digest] falhou mandar Telegram pro chat_id {chat_id}: {e}", file=sys.stderr)
     return any_ok
+
+
+def main():
+    items = load_items()
+    sent = prune_sent(load_sent())
+    selected = select_digest_items(items, sent)
+
+    if not selected:
+        print("[digest] nenhum item qualificado nas últimas 24h, nada a enviar.")
+        save_sent(sent)
+        return
+
+    notion_token = os.environ.get("NOTION_TOKEN")
+    notion_db = os.environ.get("NOTION_DATABASE_ID")
+    telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    telegram_chat_ids = os.environ.get("TELEGRAM_CHAT_ID", "")
+
+    if notion_token and notion_db:
+        for item in selected:
+            send_to_notion(item, notion_token, notion_db)
+    else:
+        print("[digest] NOTION_TOKEN/NOTION_DATABASE_ID não definidos, pulando Notion.", file=sys.stderr)
+
+    if telegram_token and telegram_chat_ids:
+        message = build_telegram_message(selected)
+        send_to_telegram(message, telegram_token, telegram_chat_ids.split(","))
+    else:
+        print("[digest] TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID não definidos, pulando Telegram.", file=sys.stderr)
+
+    # Marca como enviado assim que SELECIONADO pra rodada, independente de
+    # Notion/Telegram terem tido sucesso individualmente — é só uma trava
+    # anti-duplicata pra janela de 24h sobreposta entre dias, não um retry.
+    now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for item in selected:
+        sent[item["url"]] = now_iso
+    save_sent(sent)
+
+    print(f"OK — {len(selected)} item(ns) no resumo de hoje.")
+
+
+if __name__ == "__main__":
+    main()
