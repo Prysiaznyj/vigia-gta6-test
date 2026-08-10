@@ -20,12 +20,20 @@ from datetime import datetime, timedelta, timezone
 
 import feedparser
 import requests
+import statistics
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "..", "data.json")
 DATA_FILE = os.path.abspath(DATA_FILE)
 MAX_ITEMS = 40
 LOOKBACK_HOURS = 72
 UA = "vigia-gta6-bot/1.0 (+https://github.com/)"
+CHANNEL_BASELINE_FILE = os.path.join(os.path.dirname(__file__), "..", "channel_baselines.json")
+CHANNEL_BASELINE_FILE = os.path.abspath(CHANNEL_BASELINE_FILE)
+HOT_WINDOW_HOURS = 4
+HOT_TOP_N = 6
+BASELINE_MAX_AGE_HOURS = 24
+BASELINE_MIN_SAMPLE = 3
+OUTLIER_CHANNEL_MULTIPLIER = 2
 
 NEWS_QUERIES = [
     "GTA 6",
@@ -97,7 +105,7 @@ def classify(text):
     return None  # decidido depois pela origem (reddit/youtube -> viral, senão curiosidade)
 
 
-def score_item(recency_hours, engagement, keyword_bonus):
+def score_item(recency_hours, engagement, keyword_bonus, outlier=False):
     s = 1
     if recency_hours <= 6:
         s += 2
@@ -108,6 +116,8 @@ def score_item(recency_hours, engagement, keyword_bonus):
     elif engagement >= 500:
         s += 1
     s += keyword_bonus
+    if outlier:
+        s += 2
     return max(1, min(5, s))
 
 
@@ -252,6 +262,7 @@ def fetch_youtube():
         items.append({
             "source": "youtube",
             "videoType": video_type,
+            "channelId": snippet.get("channelId"),
             "headline": snippet.get("title", ""),
             "desc": (snippet.get("description") or "")[:280] or f"Vídeo em alta sobre GTA 6 ({views} views).",
             "url": f"https://youtube.com/watch?v={vid}",
