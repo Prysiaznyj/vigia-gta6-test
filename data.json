@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T05:38:34+00:00",
+  "updated": "2026-08-12T09:14:12+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -15,6 +15,21 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T06:55:12+00:00",
+      "headline": "GTA 6 podia ter partido o mercado todo. Mas… Disse não!",
+      "desc": "Fonte: Leak.pt",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'GTA 6 podia ter partido o mercado todo. Mas… Disse não!?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OSVZtbVhLTmg5V1AwRWc4V1BHUzl1MEdYd29CRHFSNG5MMG5QZF9VWXUxZkNoRHBnWFJOZ0NmbU1RT0JFdzZXc05ic2Nsd0d4d3NEaVVpOVVmS09xTGZwbW1PcnVSUjhiOGVVb3hFTGtsWmxpUHZmdDFoR2h4Zw?oc=5"
     },
     {
       "cat": "vendas",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'O que GTA VI e a Netflix estão nos ensinando sobre atenção' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTA1akJRT21KTUw5MXpXd2Y5Zm1oT2pmaWtOMWZWVnZmTEVCZXJHNWFsMC1LLTFSakV2QzdaTU1rV0tLdnpKLUNLYmwtU1JzdmpUTFczTHNWb3JkT2pDQl9Wa1dzTE1OTFBlM3Zjb1c1QldnWkJ6Njc5QUFVNHRqRV9KUXpwQjRtV09oTG95MmxzM1BDZGhtY2Qxaw?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T17:15:00+00:00",
-      "headline": "Versão mais cara de GTA 6 surpreende em pré-venda e lidera pedidos",
-      "desc": "Fonte: Canaltech",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Versão mais cara de GTA 6 surpreende em pré-venda e lidera pedidos' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUEpyX2lTUGdqU2otZFFlVUpkeUxsQ0gxaGkzOGJEQU9meGFBd0FmU3BqNFVDMEVqMlVtbk51bU4tQzdOdWFmT0sxaE1CUUFaWEJMaFB2NHUtNWdvMjFyR1RQTEJNeWM2MUVGRHFqVnhYRW5DNklpaUQ5OVdkVV94Ty1Kc3k3dWZjbXN2Wi0zNDRuX053b0FlaEpsYTdhb1U?oc=5"
     },
     {
       "cat": "viral",
@@ -347,21 +347,6 @@
       "url": "https://youtube.com/watch?v=era8INR-KKQ"
     },
     {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2PtIODS7mFxWEhzGLkSpPg",
-      "outlier": true,
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T02:07:06+00:00",
-      "headline": "Joe Bart &amp; Jynxzi Defend GTA 6 Price Tag 😤",
-      "desc": "joe Bartolozzi, Jynxzi, and Agent-00 debate how much GTA 6 should actually cost and discuss the massive potential of a Netflix ...",
-      "signal": 5,
-      "hook": "Número na cara logo na primeira frase: 'Joe Bart &amp; Jynxzi Defend GTA 6 Price Tag 😤' — formato \"isso é muito ou pouco?\".",
-      "url": "https://youtube.com/watch?v=JW-Rv3xqMb4"
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -422,16 +407,6 @@
       "url": "https://youtube.com/watch?v=cVEGFYRqaos"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -447,6 +422,16 @@
       "url": "https://youtube.com/watch?v=s9eYRDrTv4w"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -460,6 +445,81 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('O Coroa Está Esperando o GTA 6🎮😭') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=oitX_tQej0Q"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T06:55:44+00:00",
+      "headline": "“Why would you pre-order GTA6? What if it’s bad!”",
+      "desc": "One word, Trust.",
+      "signal": 4,
+      "hook": "Número na cara logo na primeira frase: '“Why would you pre-order GTA6? What if it’s bad!”' — formato \"isso é muito ou pouco?\".",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vm6o03/why_would_you_preorder_gta6_what_if_its_bad/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T05:22:45+00:00",
+      "headline": "Honestly what’s their problem?",
+      "desc": "Why are people like this? If you don’t like something just don’t pay it any attention, or do something else. I’m simply stunned by how much negativity I see online in general.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Honestly what’s their problem?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vm511a/honestly_whats_their_problem/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T05:18:46+00:00",
+      "headline": "The most unrealistic part of this is that he's holding a GTA6 disc",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('The most unrealistic part of this is that he's holding a GTA6 disc') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vm4ygn/the_most_unrealistic_part_of_this_is_that_hes/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T05:00:18+00:00",
+      "headline": "Anyone else suspect “An Extended Look” will be displaying more of the environment and ecosystem Rockstar has built, more than the story?",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Anyone else suspect “An Extended Look” will be displaying more of the environment and ecosystem Rockstar has built, more than the story?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vm4lyz/anyone_else_suspect_an_extended_look_will_be/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCNcdPIcXl50_dPhd4Qe-VrA",
+      "outlier": false,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T18:00:11+00:00",
+      "headline": "AFRICANO vs POLIZIA!😱 #gta #gta6 #viral #fyp",
+      "desc": "Vídeo em alta sobre GTA 6 (266060 views).",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('AFRICANO vs POLIZIA!😱 #gta #gta6 #viral #fyp') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=TRlaQJ0hJao"
     },
     {
       "cat": "viral",
@@ -835,66 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('Biggest Flex') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vl8a4i/biggest_flex/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T04:07:43+00:00",
-      "headline": "It looks so satisfying to know that we are 2400 hours away from GTA 6",
-      "desc": "We are getting closer, we just have to continue to lock in 100 days flat left to go.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('It looks so satisfying to know that we are 2400 hours away from GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vl6yh6/it_looks_so_satisfying_to_know_that_we_are_2400/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T04:17:50+00:00",
-      "headline": "99 days left !!!",
-      "desc": "Thats 72 days excluding the weekends! Thats 66 days if you don't count sleeping hours! Thats 48 days if you don't count sleep + weekend!",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('99 days left !!!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vl75h7/99_days_left/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T01:59:41+00:00",
-      "headline": "Anyone else excited about the water?",
-      "desc": "Bodies of water, the Everglades, swamps etc, I’m keen to go swimming in the vast ocean at night! Perhaps hunting at night, also first person walking through the forests shall be spooky",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Anyone else excited about the water?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vl4b1w/anyone_else_excited_about_the_water/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T01:40:37+00:00",
-      "headline": "Took this screenshot 100 days ago",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Took this screenshot 100 days ago') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vl3w6q/took_this_screenshot_100_days_ago/"
     }
   ]
 }
