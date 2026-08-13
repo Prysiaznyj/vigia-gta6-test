@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T02:05:05+00:00",
+  "updated": "2026-08-13T05:42:00+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -552,6 +552,36 @@
       "url": "https://youtube.com/watch?v=oitX_tQej0Q"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T03:26:45+00:00",
+      "headline": "I'd love for a calm game startup after GTA V & RDR 2's loud intros.",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('I'd love for a calm game startup after GTA V & RDR 2's loud intros.') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmzenh/id_love_for_a_calm_game_startup_after_gta_v_rdr/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T01:57:12+00:00",
+      "headline": "Haters stay hating",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Haters stay hating') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmxjao/haters_stay_hating/"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "reddit",
@@ -792,21 +822,6 @@
       "url": "https://www.reddit.com/r/GTA6/comments/1vm7p2q/gta_vi_wait_progress/"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC-A2WBfHTnWkhNvehNo-MaA",
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T03:04:46+00:00",
-      "headline": "He Just Wants To Make it to GTA 6",
-      "desc": "Vídeo em alta sobre GTA 6 (466055 views).",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('He Just Wants To Make it to GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=0v-VB7y8aDQ"
-    },
-    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "reddit",
@@ -880,21 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 has had over 6,000 people working on this game...') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vm4dwu/gta_6_has_had_over_6000_people_working_on_this/"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T03:28:08+00:00",
-      "headline": "Netflix pirates heading to YouTube to upload the GTA trailer 6 hours early",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Abre direto com 'Netflix pirates heading to YouTube to upload the GTA trailer 6 hours early' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vm2tqa/netflix_pirates_heading_to_youtube_to_upload_the/"
     }
   ]
 }
