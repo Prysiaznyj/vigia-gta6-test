@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T05:39:03+00:00",
+  "updated": "2026-08-14T09:07:57+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCfyaRL_uNz34GenfD5hMUkg",
+      "outlier": true,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T19:49:55+00:00",
+      "headline": "Rubius NO cree que GTA 6 llegue a 60 FPS 💀 #rubius #gta6 #fps #30fps #60fps #clips #noticia #parati",
+      "desc": "Vídeo em alta sobre GTA 6 (330383 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Rubius NO cree que GTA 6 llegue a 60 FPS 💀 #rubius #gta6 #fps #30fps #60fps #clips #noticia #parati') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=QksqHQIJKdU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCkBw4Pke3xb_nmeUzvmrwHA",
+      "outlier": true,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T19:14:31+00:00",
+      "headline": "Willyrex le enseñó a IlloJuan el GTA 6 🫣🫣 #TheWillyrex #CajasGTA #IlloJuan #Spok",
+      "desc": "Vídeo em alta sobre GTA 6 (356870 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Willyrex le enseñó a IlloJuan el GTA 6 🫣🫣 #TheWillyrex #CajasGTA #IlloJuan #Spok') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=93Qkgb6sR-k"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCyuq-_XcIFJUXqOPZ33Lj5w",
       "outlier": true,
       "date": "13/08/2026",
@@ -422,6 +452,16 @@
       "url": "https://youtube.com/watch?v=B6bxyRusbqw"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -450,16 +490,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA6 Ep. 9') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ujEMRxG5xPM"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
     },
     {
       "cat": "viral",
@@ -640,6 +670,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('O Coroa Está Esperando o GTA 6🎮😭') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=oitX_tQej0Q"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "14/08/2026",
+      "publishedAt": "2026-08-14T05:58:36+00:00",
+      "headline": "BEST CONSOLE FOR GTA6",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('BEST CONSOLE FOR GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vnywga/best_console_for_gta6/"
     },
     {
       "cat": "viral",
@@ -850,51 +895,6 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'For whoever can’t afford GTA 6 prices' — formato \"isso é muito ou pouco?\".",
       "url": "https://www.reddit.com/r/GTA6/comments/1vnaisx/for_whoever_cant_afford_gta_6_prices/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T12:37:36+00:00",
-      "headline": "We are almost there, gentlemen",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('We are almost there, gentlemen') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vn9iyt/we_are_almost_there_gentlemen/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T11:00:21+00:00",
-      "headline": "Netflix page in Portugal for GTA 6 showed what looks like episode placeholders… (already removed)",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Netflix page in Portugal for GTA 6 showed what looks like episode placeholders… (already removed)') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vn7if8/netflix_page_in_portugal_for_gta_6_showed_what/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T09:23:21+00:00",
-      "headline": "Guess the Extended Look line",
-      "desc": "Let's play a game: guess the line we'll hear in the Extended Look. Let me start \" In Grand Theft Auto VI, extended realism is a choice. Whether you want true-to-life handling and tactical resource management, or dial into pure uninterupted adrenaline, it's up to you - Leonida ada",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Guess the Extended Look line') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vn5stx/guess_the_extended_look_line/"
     }
   ]
 }
