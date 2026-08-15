@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T08:30:33+00:00",
+  "updated": "2026-08-15T12:39:56+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -15,6 +15,36 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T11:03:48+00:00",
+      "headline": "Um ator conhecido de GTA 5 se candidatou a 60 papéis diferentes para GTA 6, mas a Rockstar praticamente o ignorou",
+      "desc": "Fonte: br.ign.com",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Um ator conhecido de GTA 5 se candidatou a 60 papéis diferentes para GTA 6, mas a Rockstar praticamente o ignorou' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWWRxVEF6bzR3RUQwLWpuaUo5OWNaVkFla2F3RVZBZ2VEbVlpOVExcDZqWVA4NGZJa0ZwWHVPNzJlQ1piR3Rpejlsa1BaY0xoeTM3c2tzQUIwU01zTFBxRDM0NmVJaFhlcy1yYjhNdk5zUjZ4b3A1Z1VsUktTcWxZVDJEZkcwZ3FXQ0FuSk5ldU9mMkxrbzZMRWdibHl0X2k3ZEhhYldSZXZuRHowR0xRaVB0WDd4WmdyeWpoT2k1UFJ3QVl4VUdncy1IZVlYOUZ5eEpFVzEydTlsVEg2NnVn?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T10:06:01+00:00",
+      "headline": "GTA VI já leva jogadores a trocar equipamentos antes mesmo da estreia",
+      "desc": "Fonte: Fast Company Brasil",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA VI já leva jogadores a trocar equipamentos antes mesmo da estreia' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTUyTEp2M3JTQVRfbWRWYU11dGh2cWtxV0pqUmtzaFpuVjlOaXRQZm0xMFVMb1dIOEJzQkFtQkVoMF9OaUhJYWE2LUR2Nks0c3BQaHIxRE4zM01TeG9oYWdWZ3hlQkNMcmtxZmZZZXFzZHpFRnJ3Ti1pQm1zbUZlUE1ZdXhtdzY5UlN4T0RkZU94THVMZFF6TWd1Umg2S0JHVmNWcFU5X3hmdw?oc=5"
     },
     {
       "cat": "vendas",
@@ -122,21 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEE0aVBDRExqRzFsZmZ5NFZtOW5uTnJuUXlqbkVBTjJRUlZudjlqUXlJN0R5SmNQSWVRUWdObVZPR25yMVBrN2gxc0pZNldfRUhwcHZ2VjJhSEQyWlAwMExpbzZxb2VqWmJIRGFablpsR0x0WXZ4eUw2RE9mOXVRTXI3MGV5Y0lRRFBGZWVZM2E0MzQ?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T14:15:00+00:00",
-      "headline": "Versão de R$ 550 de GTA 6 é comprada por quase 90% dos jogadores na pré-venda",
-      "desc": "Fonte: tecmundo.com.br",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Versão de R$ 550 de GTA 6 é comprada por quase 90% dos jogadores na pré-venda' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbENHNmhOcEhyUTNPZ1BSWk5pOS1tTmhxM2dJV3VkY2lWb2kyaWNib3hQM3E4b3FObnRHYTY0R2NJNm5qRnJZZjFKMHA5ZDBnS0FkUTNDNnM3akhxSG9FNUJadEJQbG5UOWY4aGgxOGFxQll1TnB4ZkptOE5USEVSRXV0V1lnTm9OOXNCWnA1b2k1TFhCaGR4eGp1Y2R3SDgxdHRnOGN6aUIzZ0swTFJRUEU4aUFYVWZLYklWRw?oc=5"
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -235,11 +250,26 @@
       "outlier": false,
       "date": "14/08/2026",
       "publishedAt": "2026-08-14T18:42:23+00:00",
-      "headline": "Comentários sobre a gameplay de GTA 6 agitam os bastidores da indústria",
-      "desc": "Declarações de executivos sobre o salto de qualidade do jogo geraram comparações com outros lançamentos de peso do mercado. A expectativa em torno da física e do combate segue altíssima.",
+      "headline": "GTA 6 CEO ON GAMEPLAY, PHANTOM BLADE ZERO LOOKS INSANE &amp; MORE",
+      "desc": "Click this link https://boot.dev/?promo=GAMERANX and use my code GAMERANX to get 25% off your first payment for boot.dev.",
       "signal": 4,
-      "hook": "O que os chefões da indústria tão falando da gameplay de GTA 6 prova que a gente não tá preparado pro que vem por aí!",
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 CEO ON GAMEPLAY, PHANTOM BLADE ZERO LOOKS INSANE &amp; MORE') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=RToxO437X5M"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCKvoBRFqMNqvuSvFBiNadgw",
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T13:35:09+00:00",
+      "headline": "He sobrevolado el *SUPUESTO* mapa de GTA 6 ✈️",
+      "desc": "Encontré un mod para Cities Skylines 2 que recrea el proyecto de mapa de GTA 6 que lleva años moldeándose por la comunidad ...",
+      "signal": 3,
+      "hook": "Mostra o clipe/post que tá bombando ('He sobrevolado el *SUPUESTO* mapa de GTA 6 ✈️') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=7M9ma1XW3I8"
     },
     {
       "cat": "viral",
@@ -255,36 +285,6 @@
       "signal": 3,
       "hook": "Mostra o clipe/post que tá bombando ('Et si GTA 6 ÉTAIT NUL?') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=avfsRihjcuw"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T18:00:57+00:00",
-      "headline": "Why GTA 6 Gameplay Is Coming To NETFLIX First",
-      "desc": "Rockstar Games is officially revealing GTA 6 on Netflix on August 27th.. Let's talk about what this means. Subscribe for more: ...",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('Why GTA 6 Gameplay Is Coming To NETFLIX First') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=iNFBj2pr9us"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCY0xFFEc7viwKoPAAdZ6U3Q",
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T16:15:22+00:00",
-      "headline": "GTA 6 — ЭТО ПОСЛЕДНЯЯ GTA ДЛЯ ТЕБЯ",
-      "desc": "Amnezia Premium со скидкой 25% (действует до конца сентября): ...",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 — ЭТО ПОСЛЕДНЯЯ GTA ДЛЯ ТЕБЯ') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=2-iXO1t_7gE"
     },
     {
       "cat": "viral",
@@ -717,6 +717,66 @@
       "url": "https://youtube.com/watch?v=oitX_tQej0Q"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T12:31:29+00:00",
+      "headline": "Feels like watching paint dry",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Feels like watching paint dry') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vp1o40/feels_like_watching_paint_dry/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T11:15:45+00:00",
+      "headline": "GTA VI is on the front page of Netflix now (eu)",
+      "desc": "Sorry if it’s not new to you guys In central/eastern Europe I could only reach GTA 6’s page through the link in Rockstar’s newswire. Now even my Dad and millions of people who thought it was just a little shitty game gonna have to face it every day😂 I love it",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA VI is on the front page of Netflix now (eu)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vp06t7/gta_vi_is_on_the_front_page_of_netflix_now_eu/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T10:43:15+00:00",
+      "headline": "One of my biggest hopes for GTA 6 is to be full of hidden encounters/mission chains that rewards exploration.",
+      "desc": "RDR2 had some of this, but I hope GTA 6 leans even harder into that design philosophy. Having more side missions discovered organically, with minimal guidance, feels like the natural evolution of GTA's world design to me. I’d also love to see missions buried deeper within world a",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('One of my biggest hopes for GTA 6 is to be full of hidden encounters/mission chains that rewards exploration.') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vozlqh/one_of_my_biggest_hopes_for_gta_6_is_to_be_full/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T07:41:47+00:00",
+      "headline": "How long do you think the day and night cycle be in GTA 6 and how long do you actually want it to be?",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('How long do you think the day and night cycle be in GTA 6 and how long do you actually want it to be?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vowlre/how_long_do_you_think_the_day_and_night_cycle_be/"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "reddit",
@@ -824,21 +884,6 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCiZCTVmLShoGu6CGl8-VlTg",
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T11:30:23+00:00",
-      "headline": "Jeffy Trades Tim for GTA 6 🎮😂",
-      "desc": "Jeffy the chihuahua finds a pug with an early copy of GTA 6. Jeffy offers him a huge pile of cash, but the pug does not want the ...",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Jeffy Trades Tim for GTA 6 🎮😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=tFClqo-oGiA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
       "source": "reddit",
       "videoType": null,
       "channelId": null,
@@ -850,51 +895,6 @@
       "signal": 4,
       "hook": "O desespero por GTA 6 chegou num nível que os caras tão recriando o jogo no Paint!",
       "url": "https://www.reddit.com/r/GTA6/comments/1vompag/do_you_like_my_ms_paint_creation_yeah_baby/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T21:41:19+00:00",
-      "headline": "A contagem regressiva pro GTA 6 tá voando e você nem viu",
-      "desc": "Fãs notaram que a marca histórica dos 100 dias pro lançamento já ficou pra trás sem a gente perceber.",
-      "signal": 4,
-      "hook": "Piscou e o tempo passou: você reparou quantos dias faltam pro GTA 6?",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vokfrg/crazy_to_think_that_the_100_day_countdown_was/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T20:55:28+00:00",
-      "headline": "Nova teoria maluca: Jason é inocente e o traidor é outro?",
-      "desc": "Comunidade levantou a hipótese de que Jason não é policial disfarçado, mas sim vítima de uma armadilha armada pelo personagem Raul.",
-      "signal": 4,
-      "hook": "E se a gente passou o tempo todo acusando o Jason de traidor e o verdadeiro vilão for outro?",
-      "url": "https://www.reddit.com/r/GTA6/comments/1voj9l3/new_gta_6_theory/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T20:05:31+00:00",
-      "headline": "A mulher na praia do trailer é realmente a Lucia?",
-      "desc": "Jogadores compararam trajes de banho, cortes de cabelo e detalhes visuais pra cravar se a personagem misteriosa é a própria protagonista.",
-      "signal": 4,
-      "hook": "Será que a Rockstar escondeu a Lucia bem na nossa cara nessa cena da praia e ninguém percebeu?",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vohzaq/could_the_topless_female_be_lucia/"
     }
   ]
 }
