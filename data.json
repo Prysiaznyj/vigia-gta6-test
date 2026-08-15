@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T04:33:22+00:00",
+  "updated": "2026-08-15T08:30:33+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -137,6 +137,21 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbENHNmhOcEhyUTNPZ1BSWk5pOS1tTmhxM2dJV3VkY2lWb2kyaWNib3hQM3E4b3FObnRHYTY0R2NJNm5qRnJZZjFKMHA5ZDBnS0FkUTNDNnM3akhxSG9FNUJadEJQbG5UOWY4aGgxOGFxQll1TnB4ZkptOE5USEVSRXV0V1lnTm9OOXNCWnA1b2k1TFhCaGR4eGp1Y2R3SDgxdHRnOGN6aUIzZ0swTFJRUEU4aUFYVWZLYklWRw?oc=5"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC5Pi8DHUItNgbGVhjh4kVgQ",
+      "outlier": true,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T15:00:21+00:00",
+      "headline": "Liderança da Take-Two promete superar expectativas com GTA 6",
+      "desc": "Em entrevistas recentes, executivos afirmaram que o nível de perfeccionismo e polimento do jogo vai além do que a comunidade imagina. O foco é entregar uma experiência revolucionária.",
+      "signal": 5,
+      "hook": "O presidente da Take-Two garantiu que GTA 6 vai superar até as teorias mais malucas dos fãs!",
+      "url": "https://youtube.com/watch?v=xacoti8GPUI"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -216,6 +231,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
+      "outlier": false,
+      "date": "14/08/2026",
+      "publishedAt": "2026-08-14T18:42:23+00:00",
+      "headline": "Comentários sobre a gameplay de GTA 6 agitam os bastidores da indústria",
+      "desc": "Declarações de executivos sobre o salto de qualidade do jogo geraram comparações com outros lançamentos de peso do mercado. A expectativa em torno da física e do combate segue altíssima.",
+      "signal": 4,
+      "hook": "O que os chefões da indústria tão falando da gameplay de GTA 6 prova que a gente não tá preparado pro que vem por aí!",
+      "url": "https://youtube.com/watch?v=RToxO437X5M"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCjkfbqVQcXyW2OfJm81og7w",
       "outlier": false,
       "date": "13/08/2026",
@@ -255,36 +285,6 @@
       "signal": 3,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 — ЭТО ПОСЛЕДНЯЯ GTA ДЛЯ ТЕБЯ') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=2-iXO1t_7gE"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCKvoBRFqMNqvuSvFBiNadgw",
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T13:35:09+00:00",
-      "headline": "He sobrevolado el *SUPUESTO* mapa de GTA 6 ✈️",
-      "desc": "Encontré un mod para Cities Skylines 2 que recrea el proyecto de mapa de GTA 6 que lleva años moldeándose por la comunidad ...",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('He sobrevolado el *SUPUESTO* mapa de GTA 6 ✈️') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=7M9ma1XW3I8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T23:32:07+00:00",
-      "headline": "&quot;I Want GTA 6 To Fail&quot;",
-      "desc": "Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be a growing division amongst gamers ...",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('&quot;I Want GTA 6 To Fail&quot;') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=gV5MDFa0bfA"
     },
     {
       "cat": "viral",
@@ -422,16 +422,6 @@
       "url": "https://youtube.com/watch?v=D6E3vEi1DXk"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -445,6 +435,16 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('The larpers are pissed😭 #gaming #gamingshorts #gta6 #gtaonline #gta #rockstargames #gamingvideos') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=uodaaju9KZI"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
     },
     {
       "cat": "viral",
@@ -490,21 +490,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('PS4 Users After GTA 6 Said &quot;Not Invited&quot; 💀😭 #gta6memes # #america #usashorts #shorts #shortsfeed') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Sy-EhG8_SOM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCkq8pLPNfKICwiL_pUnVSpA",
-      "outlier": true,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T21:17:55+00:00",
-      "headline": "Moon Turns To Blood Before GTA 6",
-      "desc": "shorts #gta6 #bloodmoon.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Moon Turns To Blood Before GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=XELX4IPbjoI"
     },
     {
       "cat": "viral",
@@ -730,6 +715,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('O Coroa Está Esperando o GTA 6🎮😭') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=oitX_tQej0Q"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T06:38:11+00:00",
+      "headline": "Promoções da Sony acabam bem no dia do novo trailer de GTA 6",
+      "desc": "A comunidade notou que as principais ofertas da PlayStation encerram exatamente na data apontada para o próximo trailer. Isso reacendeu teorias sobre um bundle oficial ou marketing conjunto com a Rockstar.",
+      "signal": 4,
+      "hook": "Reparou que as promoções da Sony acabam exatamente no dia do novo trailer de GTA 6? Coincidência ou tem coisa grande vindo?",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vovi90/sony_promotions_end_on_the_day_of_the_gta_6/"
     },
     {
       "cat": "viral",
