@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T08:30:50+00:00",
+  "updated": "2026-08-16T12:40:30+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -15,6 +15,21 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T12:04:50+00:00",
+      "headline": "Estrela de Fallout, Ella Purnell prefere jogar um título exclusivo da PlayStation quase esquecido a GTA 6",
+      "desc": "Fonte: IGN Brasil",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Estrela de Fallout, Ella Purnell prefere jogar um título exclusivo da PlayStation quase esquecido a GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnd5WUlERzJfZnhlSVBtaWhDWW5fWGxUYTVyX2xmUkZzY2hDOGtVVGFFeGxaRW5lSEszZ2NfbGs2cHpvbVNYUmpDWjZYLVdmckZoZVU4amRNSjlsS2l4SWE2LXFIcVd6Y29qbWI3M0d4Zi1wZlZfUzBybDBOQ0dyUUtibHNNRmVEeTRDaEJlTk1VMHM0ZTlqVk5ESklQV3RFZm01bEx1UU1rOVE4bHpBWUR3R01TYVpiQnZUdnlVNWZCOUpUNjZoT0ppc2JHbFFnYy1MdDh0OA?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Mano, já pensou abrir a Netflix e ter uma série inédita de GTA 6 pra assistir?",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdDdOdF8wdjRiS19xdWdlX2c1YVJBaUVpajhObWx6WlJ2aS1xczV4Znd4UGFQQlA5ZE9oOWpCOVJQSTNkemdCU0N2NUVhcHlMV0JTU1I0QWVhdmZxSmMtT3UzSF9KRVFqTERhbVY1Vk9FSUI1b1gyU0h2UEFHcy1oNnV5Y00wN05fUXE0aEQ4VVhWQUh5SmNFdElUUEY5eGpKcEVOREhiRndNN0pN?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T19:50:00+00:00",
-      "headline": "Recorde histórico: 2 bilhões de dólares antes da estreia",
-      "desc": "Estimativas financeiras mostram que a arrecadação prévia de GTA 6 deve quebrar qualquer recorde já visto no entretenimento.",
-      "signal": 3,
-      "hook": "Nenhum filme, jogo ou álbum na história fez o que o GTA 6 tá prestes a fazer.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUURKdDlMcDF4S19XMzl3N1YzRWF6VXd3akZ3eVlzSU45R29sTVo2bHFmV3IwQ0w1UVVZY0laY1RWaXo2U0tReS1iS1dudUpzdVpHeDNCemt5NURubWFBRWlCRE9BTUE2NVZha3NqTGtxTzJOcUJpc2JST1NEUXpReDVDQjQzTmRPcjdBME43SzNzdmZpc3BqZWlPYV9ybmlaZDdORDhqTEZYV0Jzdnc3TVd0ZGdkRFFWVmF1S1ViYlBweGdVeDVLYQ?oc=5"
     },
     {
       "cat": "viral",
@@ -291,15 +291,15 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UC6C1dyHHOMVIBAze8dWfqCw",
+      "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
       "outlier": false,
       "date": "14/08/2026",
-      "publishedAt": "2026-08-14T15:11:01+00:00",
-      "headline": "Rockstar weiß nicht, was die GTA 6 Vorbestellungen bedeuten | Gaming News",
-      "desc": "Jeden Tag präsentieren wir euch die spannendsten Themen der Gaming-Welt! Das sind unsere Themen am Freitag, den 14.",
+      "publishedAt": "2026-08-14T18:42:23+00:00",
+      "headline": "GTA 6 CEO ON GAMEPLAY, PHANTOM BLADE ZERO LOOKS INSANE &amp; MORE",
+      "desc": "Click this link https://boot.dev/?promo=GAMERANX and use my code GAMERANX to get 25% off your first payment for boot.dev.",
       "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('Rockstar weiß nicht, was die GTA 6 Vorbestellungen bedeuten | Gaming News') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=k-6PU_-R8O0"
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 CEO ON GAMEPLAY, PHANTOM BLADE ZERO LOOKS INSANE &amp; MORE') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=RToxO437X5M"
     },
     {
       "cat": "viral",
@@ -792,6 +792,51 @@
       "url": "https://youtube.com/watch?v=oitX_tQej0Q"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T10:22:36+00:00",
+      "headline": "Why are the subtitles for the Teaser Trailer says \" Heat. Heat.\"?",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Abre direto com 'Why are the subtitles for the Teaser Trailer says \" Heat. Heat.\"?' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vptghu/why_are_the_subtitles_for_the_teaser_trailer_says/"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T08:07:46+00:00",
+      "headline": "Anyone else very surprised we haven’t had a new major leak yet and we’re now 3 months before release?",
+      "desc": "Most video games especially with a lot of hype tend to get many people finding out small details and leaks about the game. I heard rockstar got that kid put in prison after the 2022 leak, do you think that’s deterred many like him from leaking gta 6 info or do you guys just think",
+      "signal": 4,
+      "hook": "Pergunta de abertura: 'Anyone else very surprised we haven’t had a new major leak yet and we’re now 3 months before release??' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vpr971/anyone_else_very_surprised_we_havent_had_a_new/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCoBUSCBNOcUoQnAVRqv1C3A",
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T06:30:04+00:00",
+      "headline": "Mereka Ngumpulin Duit Demi Gamer Ini Bisa Main GTA 6 😭🎮",
+      "desc": "subscribe! #shorts #youtubeshorts #viralshorts #gamingshorts #gaming #roblox #robloxshorts #robloxgaming #robloxindonesia ...",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Mereka Ngumpulin Duit Demi Gamer Ini Bisa Main GTA 6 😭🎮') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=E_HjYbOlq0g"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "reddit",
@@ -850,51 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('I hope we get to see more of the Grassrivers in the Extended Look') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vpk4b2/i_hope_we_get_to_see_more_of_the_grassrivers_in/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T00:40:02+00:00",
-      "headline": "Almost 3 months to go",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Almost 3 months to go') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vpiuqd/almost_3_months_to_go/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T23:47:09+00:00",
-      "headline": "The world is going to be massive and saturated",
-      "desc": "GTA V was a great time, a huge leap for what it was in 2013 (the closest massive release was *AC Black Flag* and *The Last of Us*) and all of those worlds, if you slow down and walk around it's just beautiful, to say the least. There's nothing, in my opinion, coming close to thes",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('The world is going to be massive and saturated') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vphq7q/the_world_is_going_to_be_massive_and_saturated/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T20:53:52+00:00",
-      "headline": "Anyone else hear about this earnings call? Sounding like good news",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Anyone else hear about this earnings call? Sounding like good news') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vpduag/anyone_else_hear_about_this_earnings_call/"
     }
   ]
 }
