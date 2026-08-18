@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T04:36:37+00:00",
+  "updated": "2026-08-18T08:38:11+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCmZeuRfHYowZhf6odtoaNdg",
+      "outlier": true,
+      "date": "17/08/2026",
+      "publishedAt": "2026-08-17T11:35:36+00:00",
+      "headline": "GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리",
+      "desc": "GTA6 #PS5 #스팀 #XSX #게임패스 #기대작 #2026년신작 0:00 자연재해 0:44 귀무자 웨이 오브 더 소드 (플스 엑박 스위치2 스팀) ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=_56rwe2bB70"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
       "outlier": true,
       "date": "15/08/2026",
@@ -290,16 +305,16 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCt_4wzTQqmcUvemNkeO0plA",
-      "outlier": false,
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
       "date": "15/08/2026",
-      "publishedAt": "2026-08-15T23:00:27+00:00",
-      "headline": "GTA 6 VAI QUEBRAR A INDÚSTRIA DOS JOGOS PRA SEMPRE",
-      "desc": "Eleve o nível do seu Canal com o Fórmula Youtube: ...",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 VAI QUEBRAR A INDÚSTRIA DOS JOGOS PRA SEMPRE') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=sEKYherZQDo"
+      "publishedAt": "2026-08-15T22:00:33+00:00",
+      "headline": "How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline",
+      "desc": "There aren't cougars in missions, but there is incredible merch on my store! https://go.darkviper.au/Merch Premium quality, low ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=5emeYR9Rl08"
     },
     {
       "cat": "viral",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=jLr8Tu6s8i4"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCVaaShq2akipUUljGyIVO1Q",
-      "outlier": true,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T22:00:11+00:00",
-      "headline": "Trevor Pushed His Luck... 💀#gta5 #gtav #gta6 #gtavi #gta #gtafunny #gaming #shorts  #gta6news",
-      "desc": "Trevor Pushed His Luck... Don't forget to Like, Comment, and Subscribe for more GTA 6 news, updates, and gaming content!",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Trevor Pushed His Luck... 💀#gta5 #gtav #gta6 #gtavi #gta #gtafunny #gaming #shorts  #gta6news') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=1aIOt1t7bO8"
-    },
-    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "youtube",
@@ -475,6 +475,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCVaaShq2akipUUljGyIVO1Q",
+      "outlier": true,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T22:00:11+00:00",
+      "headline": "Trevor Pushed His Luck... 💀#gta5 #gtav #gta6 #gtavi #gta #gtafunny #gaming #shorts  #gta6news",
+      "desc": "Trevor Pushed His Luck... Don't forget to Like, Comment, and Subscribe for more GTA 6 news, updates, and gaming content!",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Trevor Pushed His Luck... 💀#gta5 #gtav #gta6 #gtavi #gta #gtafunny #gaming #shorts  #gta6news') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=1aIOt1t7bO8"
     },
     {
       "cat": "viral",
@@ -775,21 +790,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Ülkelere Göre GTA 6 İçin Ne Kadar Çalışmanız Gerekiyor?') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=4luGs6lGjz0"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCq9_TVERqIwoGwy16bVp55A",
-      "outlier": true,
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T03:17:55+00:00",
-      "headline": "GTA V मम्मी का चॉकलेट चुरा लिया 😱 #gta5 #gta6",
-      "desc": "GTA V मम्मी का चॉकलेट चुरा लिया #gta5 #gta6.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA V मम्मी का चॉकलेट चुरा लिया 😱 #gta5 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=xKUehaObEJ4"
     },
     {
       "cat": "viral",
