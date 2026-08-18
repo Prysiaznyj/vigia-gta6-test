@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T20:29:26+00:00",
+  "updated": "2026-08-18T01:19:16+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -291,15 +291,30 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCt_4wzTQqmcUvemNkeO0plA",
+      "channelId": "UCtWY35eYO7jI9LnCRJxBGRQ",
       "outlier": false,
       "date": "15/08/2026",
-      "publishedAt": "2026-08-15T23:00:27+00:00",
-      "headline": "GTA 6 VAI QUEBRAR A INDÚSTRIA DOS JOGOS PRA SEMPRE",
-      "desc": "Eleve o nível do seu Canal com o Fórmula Youtube: ...",
+      "publishedAt": "2026-08-15T18:18:49+00:00",
+      "headline": "Я ПОЛУЧИЛ РАННИЙ ДОСТУП к GTA VI! НЕ ВЕРЮ СВОИМ ГЛАЗАМ! КАК ПРЕВРАТИТЬ БИМКУ В ГТА?! (BEAM NG DRIVE)",
+      "desc": "Деловые предложения сюда: delovoy_bulkin@mail.ru WhatsApp +79917065725 Мой Канал про тачки: ...",
       "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 VAI QUEBRAR A INDÚSTRIA DOS JOGOS PRA SEMPRE') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=sEKYherZQDo"
+      "hook": "Mostra o clipe/post que tá bombando ('Я ПОЛУЧИЛ РАННИЙ ДОСТУП к GTA VI! НЕ ВЕРЮ СВОИМ ГЛАЗАМ! КАК ПРЕВРАТИТЬ БИМКУ В ГТА?! (BEAM NG DRIVE)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=f9DhQBGgCDk"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCLiPbjTEuGto_iRasBrfu7w",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T22:00:30+00:00",
+      "headline": "GTA6をPS4でプレイしちゃダメな理由",
+      "desc": "3.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA6をPS4でプレイしちゃダメな理由') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=UvhGqHbjSQQ"
     },
     {
       "cat": "viral",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=1aIOt1t7bO8"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCcIWIHIHoyQi3KKKqYZPG1w",
-      "outlier": true,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T13:10:01+00:00",
-      "headline": "🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral",
-      "desc": "GTA 6 ki news sunte hi Franklin, Michael aur Trevor tension mein aa jaate hain! Ab teenon decide karte hain ki GTA V ko hi ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=dCI5Aw3vICM"
-    },
-    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "youtube",
@@ -475,6 +475,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCcIWIHIHoyQi3KKKqYZPG1w",
+      "outlier": true,
+      "date": "14/08/2026",
+      "publishedAt": "2026-08-14T13:10:01+00:00",
+      "headline": "🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral",
+      "desc": "GTA 6 ki news sunte hi Franklin, Michael aur Trevor tension mein aa jaate hain! Ab teenon decide karte hain ki GTA V ko hi ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=dCI5Aw3vICM"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Já imaginou o Trevor solto no mapa de Vice City no GTA 6? Essa animação de fã ficou genial!",
       "url": "https://youtube.com/watch?v=s9eYRDrTv4w"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC4t3rLg0-xrIcaMRTyEQd8w",
-      "outlier": true,
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T19:00:01+00:00",
-      "headline": "O Coroa Está Esperando o GTA 6🎮😭",
-      "desc": "Um avô esperando GTA 6 como se tivesse todo o tempo do mundo aindakkkkk — meme de fundo “não falamos do Bruno” ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('O Coroa Está Esperando o GTA 6🎮😭') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=oitX_tQej0Q"
     }
   ]
 }
