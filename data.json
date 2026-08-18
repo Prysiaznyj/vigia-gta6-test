@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T08:38:11+00:00",
+  "updated": "2026-08-18T12:49:03+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -15,6 +15,21 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "18/08/2026",
+      "publishedAt": "2026-08-18T10:58:56+00:00",
+      "headline": "Exército dos Estados Unidos dá folga de quatro dias para jogar GTA 6",
+      "desc": "Fonte: Eurogamer.pt",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Exército dos Estados Unidos dá folga de quatro dias para jogar GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHFINFNLSFJrZ0JvWk96UTI4LXE2RFVYXzdnakVYUlduMmRxZG4xWmhwc0VrUFU1eWpnUU1EMU9FN09abGhQbkNJSXpXaU9JVDJVdm9HVHlfNk5PRC1QXzBPU3RxU1NmRlU2ajROOGt4bVM0OHlVc1czRXhiVXBQcDFxeENnRi1YRGNENE5xeXNWVUNsU0pZTg?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'Sony coloca GTA 6, Wolverine e God of War no centro de nova campanha do PS5' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlY0WmNLS0RnNlZsX2FNNkpuZ21xcWFKRW1vRXZUOXl6RUxaQlR1dUVGdkVrSzdDMEctX2xfSW4zLVZlM2QtZElWc3ZBcEJMTHhyOUttd1dycUxwd2liOEZIM2RFVG1palNtY1lXMnlQWUNpdl91RGd6N0wySlA4aUZzUmwxS25QS2JteU9jaEpyNnND0gGaAUFVX3lxTE5MMnRmaDBhcHhTb2I4a0laWF9uYU9Sb1c4dG16cjdFZTc1TElnTG1JVDE3YTFmei0xNjRialNuZjc3N2hNd09tUnVxY04wZUFOcUtxRm5qU0Jka2N3NTBKNmFXbzhBdEs0S0FEeFJFbk9LeGVxVFF0c0trRUVodDA5d2RtU2tyQ0ZpSmdZZGlwOTAzTFZIMTZXVFE?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "17/08/2026",
-      "publishedAt": "2026-08-17T00:43:39+00:00",
-      "headline": "Tá certo isso? Flávio Bolsonaro posta vídeo de IA usando sunga com estética de GTA 6",
-      "desc": "Fonte: Drops de Jogos",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Tá certo isso? Flávio Bolsonaro posta vídeo de IA usando sunga com estética de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWThmQzktVVc1aE1ySUFQTHJUYkpoLU9BbzhUUEVkSXozS2s3ZjNvNEMxY1prRDB5SGc2aVRqSkpKc1BfYzFwUHVOTEhPdFBxWkZxVnZZRnQ0OXJ2OE1fM2F0Vk54eU5lVk84UkhaemhpOHZXMTJyM3BsV1BkYTROcmlfTTBOU0dTLV9EZHVTNUVWWUw1ZkptQ3QxZG12UFRxY2NLRElvZkVkREExbnFQT0hWVEVoNXJPcEZ2bFZLY1dBRk9CQmtyTjBFYzhSOG9y?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCV8xlnYK9sp_Xktv7pvKvpA",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T15:30:38+00:00",
+      "headline": "Pov : si tu perds ce match on t’offre GTA 6…😳",
+      "desc": "Vídeo em alta sobre GTA 6 (346945 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Pov : si tu perds ce match on t’offre GTA 6…😳') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=zPXsNhNFhlM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
       "outlier": true,
       "date": "15/08/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=BbM2-JLi_O0"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCSWRC-nydil8zzfglBMF_XQ",
-      "outlier": true,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T16:17:05+00:00",
-      "headline": "GTA 6 Realization Hit Too Hard 🥹",
-      "desc": "This video features a humorous and emotional meme highlighting how much time has passed between GTA V in 2013 and GTA ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Realization Hit Too Hard 🥹') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=jLr8Tu6s8i4"
-    },
-    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "youtube",
@@ -475,6 +475,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCSWRC-nydil8zzfglBMF_XQ",
+      "outlier": true,
+      "date": "14/08/2026",
+      "publishedAt": "2026-08-14T16:17:05+00:00",
+      "headline": "GTA 6 Realization Hit Too Hard 🥹",
+      "desc": "This video features a humorous and emotional meme highlighting how much time has passed between GTA V in 2013 and GTA ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Realization Hit Too Hard 🥹') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=jLr8Tu6s8i4"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Você tem ideia de quanta grana a Rockstar gastou pra fazer o GTA 6? O valor é simplesmente surreal!",
       "url": "https://youtube.com/watch?v=cVEGFYRqaos"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCDmaoitnSV-Dm_rm1EBZ26g",
-      "outlier": true,
-      "date": "07/08/2026",
-      "publishedAt": "2026-08-07T15:38:18+00:00",
-      "headline": "Trevor no GTA 6? Montagens criadas por fãs mantêm o hype em alta",
-      "desc": "Animações e edições trazendo personagens clássicos de GTA V para o mapa de Vice City acumulam visualizações nas redes.",
-      "signal": 5,
-      "hook": "Já imaginou o Trevor solto no mapa de Vice City no GTA 6? Essa animação de fã ficou genial!",
-      "url": "https://youtube.com/watch?v=s9eYRDrTv4w"
     }
   ]
 }
