@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T04:37:50+00:00",
+  "updated": "2026-08-19T08:39:00+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -15,6 +15,21 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T05:34:53+00:00",
+      "headline": "PS5 Pro em 2026: preço, PSSR 2 e o que GTA 6 muda",
+      "desc": "Fonte: spacemoney.com.br",
+      "signal": 3,
+      "hook": "Número na cara logo na primeira frase: 'PS5 Pro em 2026: preço, PSSR 2 e o que GTA 6 muda' — formato \"isso é muito ou pouco?\".",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0QVJkQl9wcFg4dzlGRnkwN2pkMEs3cWczR013ZHRLRWlqa1h4eE9kbmVUWUdTbHFHY0RfQmFmbmNWQjdGSFFRVHUtOEZGTFJTcVFfcURDd19fZXJLVVV2aGNiNDJyMmh3QVJlenpGNFlSUWZV?oc=5"
     },
     {
       "cat": "boatos",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Pergunta de abertura: 'Vazamento de GTA 6 revela gameplay inédito com basquete, casa na praia e novo HUD?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0w3czRjVGpxODRYeFRNRVdHOFRzM2lrelRVbnhkTTVjbWtXQW9uUnNuMTdMS3hnbFFucWFWa1lORHk0M3RMUXh1dUdNVF80bEtra0QxV3l0THVySzV0Y3JDa1NCb0NxREFWeFQwcnJhOEZrWHltSDg0T2YyNUVhVjBDTWZhNzE4a01uRHM3U1kza29ZYmlCTjNVT0xwdWZzWEppMkxKQVFnUkphV00zQlVR?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "18/08/2026",
-      "publishedAt": "2026-08-18T20:53:32+00:00",
-      "headline": "GTA 6: conheça os lugares que inspiram Leonida, o estado fictício onde o jogo se passa",
-      "desc": "Fonte: Mercado e Eventos",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6: conheça os lugares que inspiram Leonida, o estado fictício onde o jogo se passa' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLXQzMWFGckVIQUdmSVNwQjcxQ3hMMlNJVjZROUotc2o3bXNybk1naXRzYXZDbjlhYzNYYmVYS25LQlpBeXZHMHBvcGZRUnV5VmtfSW0tRkpNNE9FdEdjZmE5aGcxckxGd2FXZXBTc0h0WkFNclM4amZZU3JxUkdIMkxWb2N5VUdhamZqaUFzSFNFMkZibWR5UWpPemJLcC01RXlrNFFHbVV2b20zdFgxc1BCTllJbVdUTW9NQ2l6Q3BUYVhkQ1ctR2hOMTZlMUMyaVo4Z1k2c2lxUEt5akZVWHpFU1VDQnhCd1RhNlNQOHNkZw?oc=5"
     },
     {
       "cat": "boatos",
