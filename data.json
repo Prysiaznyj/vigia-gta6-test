@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:39:00+00:00",
+  "updated": "2026-08-19T12:50:01+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -15,6 +15,51 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T12:28:03+00:00",
+      "headline": "GTA VI: supostos gameplays vazam antes de especial da Netflix",
+      "desc": "Fonte: DOL",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA VI: supostos gameplays vazam antes de especial da Netflix' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlJMejhyNF9jeHJ5STE1SERwbXBnZnlxb3piUWdaSm5SWkg0M09TS0tKQ21pcC1pT1VrdlJjS3JJLWFZNjBTdFVEMnZ3RkJodkVLMVZSQ01jNG1CVThuNGsyRkhFYmZQY0k4T3JWM2Z1czBfT3FHVVV1UlRlVXV1c184WVlYWFNJRkdlSGdtdl9ZVnRaVjBHSWw3X0xoWEJzbkNDelBPSUd6U28yZ1hrVNIBswFBVV95cUxQclB2dXF6YnN1bmF2QW0zbVhLLTJfamVMT3NrRFAwVENrYjBSSjdsUXlZTURzX0I2NG9vTHY3MEU3QXdkR2lxUEpSdDM2Q2YxS3lCQ21iMEphaEJXQUs2SWswOGVIUF9nOXZzWkJoR3ROcGh0bm0xLWV3TUhIcHgxZFE4cFpBN0h2QTlmZk8yYjczTDVUbjNMaXhxM1pGSWdKMEF6Z25uMkU0Zl93ZHVGN2xkcw?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T12:20:12+00:00",
+      "headline": "Take-Two começa a apagar da internet as leaks de GTA 6",
+      "desc": "Fonte: OtakuPT",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Take-Two começa a apagar da internet as leaks de GTA 6?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1hXRF9jTnNwMElpb0M1S3FlNlVtTkxReGUxWTRJZkJKUmwzLVIzMXN0WlZnOEFleUozVHJQOHlFd3d3ZG9Nc0RBLXo1WDBwOFJfLTUyUmZzamlLQXVlcjQxTE5yY3NIejI0eWtrV0twSmZfclhER0dUV3dwLXRWVHJvaktMcnd5S1NYWlpB?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T11:37:44+00:00",
+      "headline": "Funcionários demitidos da Rockstar não querem jogadores boicotando Grand Theft Auto VI, mesmo que não estejam isentando o desenvolvedor",
+      "desc": "Fonte: Gamereactor",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Funcionários demitidos da Rockstar não querem jogadores boicotando Grand Theft Auto VI, mesmo que não estejam isentando o desenvolvedor' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdHRyVVloME1aY2t5T0QyQnJvMThuaWxyTzVGSXljS1lSaENTTm1zOFhnRjUxREE5d2xUUTFnNi13bVhxcHUwbnVLXzlJTDdzRkR0Y2M4SnpBTEluNmZFcGJ2R01Gdk10Rk1YQlppTjJuOFBJNXNQbjBUWEVMdjZnekZMS1RhbVhlZ1RtSERIZndOMzR2V2RLcW1tOG1mdnJIa1FmMm9Fam9ydXhtRUdCMXU3eE1DV2Njd1N4OFo0ZnBhdGh2R2hudjZMVjI1amlVT2ZRYWZrNDdKNW1FZ1dhR21sNHVmSDJUOUExaTlvR180ZDFOdnNjNjRzUkw3U0k?oc=5"
     },
     {
       "cat": "vendas",
@@ -107,49 +152,19 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1JvajVyb1M2Y1ZOZGItcmxCUXZEclN0ME41OHEzVXVPVTNMbmlqdkpjYkF1d3c2QTB0MEJuRUlYaHNGY1F6SThfWmJJQmkzdnBnQ0ZpNEU3N1paa3NjMk1qbHlDbmViVUdaQ19zVnpZcFN6S2V3dldKWjNIU013MXlJb245SlVyT2RtLXNCU1pRUHRRTm9nYzEzTTJmQ2N6SG82cmdzVDZWSGZ5R3FWakUzN1BVSlhqeW1vUVRKT0hPNmZ3WjdEYmQzSTBqWWdPM2MxVkRlb1BOczJkUXpQUkhEbzdBN1R5eEEtZzNKbEdWNmROSWFObkhHaw?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "18/08/2026",
-      "publishedAt": "2026-08-18T21:47:35+00:00",
-      "headline": "Todas as novidades descobertas no novo vídeo de gameplay de GTA 6",
-      "desc": "Fonte: eurogamer.pt",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Todas as novidades descobertas no novo vídeo de gameplay de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWpMUFUycjY1d3lSa2NQTDNzanU2Mi1mWkZYRFlEZG5Cc3k5OGJuU090aGJ0YlhVYng0NWw5UzVrM1Itell6b0Q5alVGV0g0U1YyVV9hdW1acVlaVVExaU00Qmd4RjliQ0k1enlseF9YVU9ab2NkTml2RkZCVGZLUW1MM1l4RXFBQVBiRzMxc0dGUVpa?oc=5"
-    },
-    {
       "cat": "boatos",
       "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCu1JULG6VBu7gUhJRWW6ncQ",
+      "outlier": true,
       "date": "18/08/2026",
-      "publishedAt": "2026-08-18T21:18:58+00:00",
-      "headline": "GTA 6: Cyberleek reivindica vazamentos e critica versão sem disco",
-      "desc": "Fonte: pclabs.com.br",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA 6: Cyberleek reivindica vazamentos e critica versão sem disco?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGp0SmZ1Umd4aG9VTFBhTXpRc1ZsZGpiMXN5YURzLXByTGJuLU5BWHBRMHN2MER0bUJsbFVTQWFkZ3p5aFBGemJsRUpRRnBlVFJuaXVBbm9zX1ZBbmM3a2Y0R2tETHI1YTNwekh3eERzY0I0aWZiVXZucU9qVm9ueHRhWDA1NUc5dmJfVFM4NG4?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "18/08/2026",
-      "publishedAt": "2026-08-18T21:09:00+00:00",
-      "headline": "Vazamento de GTA 6 revela gameplay inédito com basquete, casa na praia e novo HUD",
-      "desc": "Fonte: Canaltech",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Vazamento de GTA 6 revela gameplay inédito com basquete, casa na praia e novo HUD?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0w3czRjVGpxODRYeFRNRVdHOFRzM2lrelRVbnhkTTVjbWtXQW9uUnNuMTdMS3hnbFFucWFWa1lORHk0M3RMUXh1dUdNVF80bEtra0QxV3l0THVySzV0Y3JDa1NCb0NxREFWeFQwcnJhOEZrWHltSDg0T2YyNUVhVjBDTWZhNzE4a01uRHM3U1kza29ZYmlCTjNVT0xwdWZzWEppMkxKQVFnUkphV00zQlVR?oc=5"
+      "publishedAt": "2026-08-18T23:31:27+00:00",
+      "headline": "PLANTÃO GTA 6: VAZOU GAMEPLAY DE GTA 6 E ISSO É BIZARRO, ROCKSTAR DERRUBANDO TUDO!!",
+      "desc": "Cross atualizando voces sobre os VAZAMENTOS recentes de gameplay do GTA 6, náo teremos imagens ou colocaremos nada ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'PLANTÃO GTA 6: VAZOU GAMEPLAY DE GTA 6 E ISSO É BIZARRO, ROCKSTAR DERRUBANDO TUDO!!?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=GK17S7Pz1Cs"
     },
     {
       "cat": "boatos",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=xacoti8GPUI"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
-      "outlier": true,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T16:15:07+00:00",
-      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
-      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
+      "videoType": "curto",
+      "channelId": "UCfJwE50lo_hwCXD8vgTS7dA",
+      "outlier": false,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T08:00:36+00:00",
+      "headline": "ГТА 6 слили?",
+      "desc": "Vídeo em alta sobre GTA 6 (571596 views).",
       "signal": 5,
-      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
+      "hook": "Mostra o clipe/post que tá bombando ('ГТА 6 слили?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=7_zgaovDQF0"
     },
     {
       "cat": "viral",
@@ -437,19 +452,19 @@
       "url": "https://youtube.com/watch?v=EQpftoBdeJc"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
+      "videoType": "longo",
+      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
       "outlier": true,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T17:29:11+00:00",
-      "headline": "¿Cuánto tiempo tendremos GTA 6? #gta #gta5 #gta6 #gta7 #shorts",
-      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T16:15:07+00:00",
+      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
+      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('¿Cuánto tiempo tendremos GTA 6? #gta #gta5 #gta6 #gta7 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=mdzT524huEQ"
+      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
     },
     {
       "cat": "lancamento",
@@ -490,6 +505,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
+      "outlier": true,
+      "date": "14/08/2026",
+      "publishedAt": "2026-08-14T17:29:11+00:00",
+      "headline": "¿Cuánto tiempo tendremos GTA 6? #gta #gta5 #gta6 #gta7 #shorts",
+      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('¿Cuánto tiempo tendremos GTA 6? #gta #gta5 #gta6 #gta7 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=mdzT524huEQ"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('This Reveal Steals the Show Before GTA 6 | The First Descendant #thefirstdescendant #ps5pro #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=eBdWnuVktO4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2P27LKR28JcfIe5HWNpCEw",
-      "outlier": true,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T15:20:05+00:00",
-      "headline": "CHAT GPT CREÓ GTA 6 DESDE 0",
-      "desc": "Vídeo em alta sobre GTA 6 (893603 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('CHAT GPT CREÓ GTA 6 DESDE 0') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=9DgxUtztl1g"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCGfEq3plmOnjxhGlVLSjrcw",
-      "outlier": true,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T07:33:07+00:00",
-      "headline": "Ülkelere Göre GTA 6 İçin Ne Kadar Çalışmanız Gerekiyor?",
-      "desc": "Peki yeni çıkan GTA 6'yı satın almak için ülkeler bazında ne kadar çalışmanız gerekiyor? #gta6 Beğendiyseniz, bu videoya like ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Ülkelere Göre GTA 6 İçin Ne Kadar Çalışmanız Gerekiyor?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=4luGs6lGjz0"
     }
   ]
 }
