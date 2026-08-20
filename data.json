@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T04:38:52+00:00",
+  "updated": "2026-08-20T08:40:01+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -15,6 +15,21 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "20/08/2026",
+      "publishedAt": "2026-08-20T06:30:47+00:00",
+      "headline": "GTA 6 pode cair na Internet… De borla. Seria o caos!",
+      "desc": "Fonte: Leak.pt",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'GTA 6 pode cair na Internet… De borla. Seria o caos!?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KcjRHWXd5RDRDRzlENFQzOXZtcG1iX183ckZ1dHU4QzFLZFA5UkJ2ZzlrUWdkLVpLVXdZRUEzMW5LQUFEZDByVzRKVTZTZHFmM3d3VzM4QmFnSHNrVmcyVk5kYkY4RlppQ0VSWEcwSWJtbEQxSVZqRXlR?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Pergunta de abertura: 'Isto é completamente ridículo. GTA 6 já fez 500 milhões?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWM4dlJlQlFURDUyQWpjcGY4RFhCRmJhSzdrZ0VJZWhRRU1YWE1uRkc4dXFIQ25hRUtOZ3cyd19FYUZaR1FZb29kZEpzTDV6MjRPUjVMVUZkQWM5bkswQ1NHYkl5S1pUWl80OU1JeVAzc0QweEpwMWdpbGNCc0VUTg?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "19/08/2026",
-      "publishedAt": "2026-08-19T18:32:43+00:00",
-      "headline": "Batalhão do Exército dos EUA estaria concedendo folga aos soldados para jogar GTA 6 em troca da renovação do alistamento",
-      "desc": "Fonte: IGN Brasil",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Batalhão do Exército dos EUA estaria concedendo folga aos soldados para jogar GTA 6 em troca da renovação do alistamento' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRnhfLXJ0WEh5eUtqVzl4cUdlSTZUel9ZakVGQU5jb3VMWEZDUUNpSkpXLTAwZ3hsUjVnRGhZcFlyMVZuQTNEemU4ZGs3bUh1aFVwRW5ZbXJvZUtnQVFLMjJ3TklHQXBlNzhQREw1WUZ4Q0F1bHRwVmloa3hKc3VsWGQ4MW12SGhRblNkendkc0ZnSFBjWk1JS2R5akgwbXVzS1BhQmZzWWtaR0lwaWs3WUlXendMMnljWkQ5dFFNaGVPM25HeG83dzFWcmI0dWNkTjlkaDJXYm04QjgtY1dZ?oc=5"
     },
     {
       "cat": "boatos",
