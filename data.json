@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T01:21:25+00:00",
+  "updated": "2026-08-21T04:39:13+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -30,6 +30,21 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "20/08/2026",
+      "publishedAt": "2026-08-20T14:15:38+00:00",
+      "headline": "Gameplay e mapa de GTA 6 vazam antes de apresentação oficial na Netflix",
+      "desc": "Fonte: Fast Company Brasil",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Gameplay e mapa de GTA 6 vazam antes de apresentação oficial na Netflix' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSmMwczZkWjg3Qk1GQmNCb3liRkQ2UFBIZEtPWHNvdzBQWjNtZ0FsNjFadHZxMGhhOHUyN2tHWjh0bjVycFNuelNYb1JMc3lzeVpMUU1XdVRTek5taG0yc3lzR29iN1NqTDRwM2V5X21xNVROYVVna1FxelVhcUdYVUhzUHp5VWxnSHFqMjdCaHp0c1B3Y2c?oc=5"
     },
     {
       "cat": "boatos",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'Cyberleek: o misterioso grupo hacker que vazou GTA 6 e movimentou quase US$ 20 milhões em cripto' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEEyYnI0NS11RDBmV19hWi1BMVZxOGUyeTdpLV9id1BWS2M4UU5YN3MxWHRLS0Etdm13S0haRHl4MzJxTURwR3Z0NDVORGdSb21Pb1YxZXctbGNHdE1CQW83ZzZJSmZxU3BJcVo1b0ZfTG5ySnczdy1mXzctbWdscUhxVlBsQUFjRlJHSWlCN1ZUcFF6c1Q1RDQ5MjZZRUl3RjFSZE5ZbXQzTGVoM0F5T2V1cEVUMl9TY1VvdDJzRkNhYXpBZDRYUEY4RDNRdHh0d3JPMXNR?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "20/08/2026",
-      "publishedAt": "2026-08-20T19:21:54+00:00",
-      "headline": "Hackers voltam a vazar gameplay de GTA 6",
-      "desc": "Fonte: ultracombo.com.br",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Hackers voltam a vazar gameplay de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IX1hZaFRRNlZzTUZvM2RtdVRqLWNXM040REwyMHNLbGVmTC1WSlVsLWdWcUVXRnc5Z2c5OEExTVg3c080LWZZblVrbDI0VUNtTmZhdi1ZX2JWMVNMaEZxdjJpQjRsaF9HeWcxdkhFNkpHdUlpb0E?oc=5"
     },
     {
       "cat": "boatos",
