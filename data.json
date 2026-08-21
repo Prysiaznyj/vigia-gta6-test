@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T12:50:00+00:00",
+  "updated": "2026-08-21T16:38:22+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -156,6 +156,21 @@
       "tagLabel": "Boatos",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC1PhTs67PPip_Ys0_xmk8Bg",
+      "outlier": true,
+      "date": "20/08/2026",
+      "publishedAt": "2026-08-20T20:10:18+00:00",
+      "headline": "The GTA 6 Leak Situation Just Took a VERY BAD Turn!",
+      "desc": "The GTA 6 leaker may have a build of the game in his hands as things take a turn for the worse... Get 3 Months of the #1 rated ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'The GTA 6 Leak Situation Just Took a VERY BAD Turn!?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=EHvZ39igXpI"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
       "outlier": true,
       "date": "19/08/2026",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=xasTAoW62JU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCGaZ3EBwVWEBfA5cHDWPiqA",
-      "outlier": true,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T00:39:20+00:00",
-      "headline": "🎮 Can My Audience Teach Me GTA 5?! 😳 GTA 6 Secret Easter Eggs, Chaos &amp; Maybe a Workout LIVE 💪",
-      "desc": "Join this channel to get access to perks: https://www.youtube.com/channel/UCGaZ3EBwVWEBfA5cHDWPiqA/join Can My ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🎮 Can My Audience Teach Me GTA 5?! 😳 GTA 6 Secret Easter Eggs, Chaos &amp; Maybe a Workout LIVE 💪') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=I6W6IBuSYwA"
     },
     {
       "cat": "boatos",
@@ -520,6 +520,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCGaZ3EBwVWEBfA5cHDWPiqA",
+      "outlier": true,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T00:39:20+00:00",
+      "headline": "🎮 Can My Audience Teach Me GTA 5?! 😳 GTA 6 Secret Easter Eggs, Chaos &amp; Maybe a Workout LIVE 💪",
+      "desc": "Join this channel to get access to perks: https://www.youtube.com/channel/UCGaZ3EBwVWEBfA5cHDWPiqA/join Can My ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('🎮 Can My Audience Teach Me GTA 5?! 😳 GTA 6 Secret Easter Eggs, Chaos &amp; Maybe a Workout LIVE 💪') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=I6W6IBuSYwA"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('The larpers are pissed😭 #gaming #gamingshorts #gta6 #gtaonline #gta #rockstargames #gamingvideos') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=uodaaju9KZI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCTYyDuYWFNGDP24BM-8eqIQ",
-      "outlier": true,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T17:39:07+00:00",
-      "headline": "Angry birds irl before GTA 6 🥀✌️",
-      "desc": "We got angry birds in real life now ✌️ #funny #funnyshorts #memes.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Angry birds irl before GTA 6 🥀✌️') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=kNoX1skpjmc"
     }
   ]
 }
