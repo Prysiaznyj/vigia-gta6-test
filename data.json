@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T01:24:34+00:00",
+  "updated": "2026-08-23T04:38:25+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -45,6 +45,21 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T01:00:00+00:00",
+      "headline": "GTA 6: sétimo vazamento mostra hypercar e boate",
+      "desc": "Fonte: einerd.com",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'GTA 6: sétimo vazamento mostra hypercar e boate?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nNnFVci1UMTRzVWlnbU8zcE9rZklRWUpYRThuNXo2cDYzWTFGOUZXRlgxU29KendBM1dPcTlzQzdiSlFfNnI3blRwbE1LcUZibmdrTlhpQk1OWkFCTHlfX0ZRRnVndGIyRV9xcnZLWmxFcGM?oc=5"
     },
     {
       "cat": "boatos",
@@ -139,17 +154,17 @@
     {
       "cat": "boatos",
       "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T15:00:00+00:00",
-      "headline": "Justiça dos EUA autoriza empresa de 'GTA 6' a buscar origem de vazamentos",
-      "desc": "Fonte: Folha de S.Paulo",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Justiça dos EUA autoriza empresa de 'GTA 6' a buscar origem de vazamentos?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVU80YjhwUlROelhoX2xoOGRWM3JwUm9aX0djRnd0cm02YmRWSnV0ZVBTd0YzTGwzM01nU0lSMFRPOWppVlc2V0JsRFhNVlNIUlB2dFVZMmxlTXdrY0FhVzJfUnJRYWlSblFRNEl0UElueWZlZXhfaUExa0VpSjBsc0E3bW1XZXVLODUxelBuMmhWMmpmN2VpUmVxMmhCWGNnSjlwTVRCNWJoS3JjNFE4d0RWSEVUc3FEWlFnaDdnOUxYUjQ?oc=5"
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "outlier": true,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T01:15:03+00:00",
+      "headline": "GTA 6 Leak Situation Got Even Crazier",
+      "desc": "Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'GTA 6 Leak Situation Got Even Crazier?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=aMZDKcIFFSM"
     },
     {
       "cat": "boatos",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=_56rwe2bB70"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "boatos",
+      "tagLabel": "Boatos",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T00:31:22+00:00",
-      "headline": "GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv O CEO da Take-Two Strauss Zelnick deu ...",
+      "videoType": "curto",
+      "channelId": "UCRFSF9WS_g0wqm32kjJ-jNw",
+      "outlier": false,
+      "date": "22/08/2026",
+      "publishedAt": "2026-08-22T22:43:59+00:00",
+      "headline": "GTA 6 LEAKER HAS SET DEAD MAN&#39;S SWITCH #shorts",
+      "desc": "RIP ROCKSTAR #gta6 #gta #ps5 #playstation #xboxseriesx #xbox #steam #gaming #skit #fyp #funny #shorts.",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=xasTAoW62JU"
+      "hook": "Pergunta de abertura: 'GTA 6 LEAKER HAS SET DEAD MAN&#39;S SWITCH #shorts?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=pxR6kVxqAQI"
     },
     {
       "cat": "boatos",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=NIwUsysyqQI"
     },
     {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCDf_sFInHr3xAF2BKcnPa8Q",
-      "outlier": true,
-      "date": "19/08/2026",
-      "publishedAt": "2026-08-19T02:12:21+00:00",
-      "headline": "NEW GTA 6 Leaks Are CRAZY 🔥😲 in 2026 #gta6 #leaks #fyp",
-      "desc": "NEW GTA 6 LEAKS ARE CRAZYYY #gta6 #leaks #gaming.",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'NEW GTA 6 Leaks Are CRAZY 🔥😲 in 2026 #gta6 #leaks #fyp?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=n0myFl1eBgs"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T00:31:22+00:00",
+      "headline": "GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240",
+      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv O CEO da Take-Two Strauss Zelnick deu ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=xasTAoW62JU"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCDf_sFInHr3xAF2BKcnPa8Q",
+      "outlier": true,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T02:12:21+00:00",
+      "headline": "NEW GTA 6 Leaks Are CRAZY 🔥😲 in 2026 #gta6 #leaks #fyp",
+      "desc": "NEW GTA 6 LEAKS ARE CRAZYYY #gta6 #leaks #gaming.",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'NEW GTA 6 Leaks Are CRAZY 🔥😲 in 2026 #gta6 #leaks #fyp?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=n0myFl1eBgs"
     },
     {
       "cat": "boatos",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Alemã reage ao Kenji - Quando Lançar GTA 6 😂') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=9K2pYB7uWEQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCxqtu7xpmhbJoGXdYdKay6Q",
-      "outlier": true,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T13:36:59+00:00",
-      "headline": "GTA 6 COMMUNITY RAISED $65,000 FOR THIS FAN!!!",
-      "desc": "Jerry Fort, a 25-year-old GTA fan known online as Void Only, has received overwhelming support from the Grand Theft Auto ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 COMMUNITY RAISED $65,000 FOR THIS FAN!!!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=_qrSKtbuwOA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC3krGUKnSOOmM27WXlQYj3Q",
-      "outlier": true,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T07:30:33+00:00",
-      "headline": "GTA 6 makes countries look tiny 🌍😭",
-      "desc": "This video compares Vatican City's size of 0.49 km² with the GTA 6 map size of 142.19 km², making the joke that the game world is ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 makes countries look tiny 🌍😭') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=lLHM3RuuDgw"
     }
   ]
 }
