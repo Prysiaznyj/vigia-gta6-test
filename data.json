@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T12:41:34+00:00",
+  "updated": "2026-08-23T16:27:31+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -47,6 +47,66 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
     },
     {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T15:22:00+00:00",
+      "headline": "Exército oferece 4 dias de folga para soldados jogarem GTA 6, mas faz uma exigência para liberar benefício",
+      "desc": "Fonte: Diário do Comércio",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Exército oferece 4 dias de folga para soldados jogarem GTA 6, mas faz uma exigência para liberar benefício' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQalh5bzRqS2VXWGI1WlVUc2xWYlNEcnVQd0dSWUhObU1GOHpFM3BxcTRrNGcxdHZWbld0bVVjS0k3NVIzcmJvemF4MVF6bmNycUlQTk9XRjhWT3p4VFQzOG9XQ1loS3ByM2tYY2l2Y0M1T01wLVZlMWN6OTZXaUVuWHg1MENsOG5MRHpOaW5DUmFjemZ4bjBNQUNvTjAwcnBtUVFIaWF4aUxydDF3eXM0TE11bU1BaHIzckJwa1hFajl6Q1hkZWU3TFB4N3R0cVFfNGNlaVVHZHZqNzMwRllDcTNZR0VMNVhmWHIyMVBRVkxQUUdBRkNvOQ?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T14:26:46+00:00",
+      "headline": "Abre o olho! ISO falsa de GTA 6 circula na internet com malware",
+      "desc": "Fonte: TudoCelular.com",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Abre o olho! ISO falsa de GTA 6 circula na internet com malware' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHVOSC1OY1dIVlIwVEsyOW5PcVo5SHphWlNOUnk5NENMaF9KeWRhUVNKOXdaMnBoRDRVbjJUS3E0UGM5VXl2UkNpeU1yQ2NKVWFlMlVVMVhTQ2lQTWdlSkJGVkoxTy1Bak9oMVp2S044SWdiRDZFZVZHVHRveGkyLUpRamEzYkNYclBTVnlCRlpYclVZc0dTV0EwY3I3NW9wR205UjY4LWMzUQ?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T14:04:45+00:00",
+      "headline": "GTA VI: Take-Two intima Microsoft e Discord para encontrar vazadores",
+      "desc": "Fonte: CartaCapital",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA VI: Take-Two intima Microsoft e Discord para encontrar vazadores' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHZxVTFOczZEWUkyT3RNN1pJRmxMWkt5Um5Ma1N0NVF3RTZBQWZLRXU1clpPc1ZZaV9TTEhNMmMzdjU5c3IwUGFwUTUwYVZFZFlRZWdLWVVZZDVKWDMzdi1rYkw0VGk4by15UUdHdFN1RmZITV93eTVCV25Ha2xndU9mdUFMVVJrRGlDU0VLakFVTkNLQ1l1OFoyOEdPY0FhQ0JCMnQ5bEp4Q2UxWlE?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T12:43:58+00:00",
+      "headline": "Hackers ameaçam Rockstar Games com vazamento da versão completa de GTA VI",
+      "desc": "Fonte: O Vício",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Hackers ameaçam Rockstar Games com vazamento da versão completa de GTA VI?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmhTR3psX09GYU8xSmFvNE8yNi1adkp2UWsyX3VsQWltZUxXSnJFbUN5NFJMZUpGUjhHMHJ5TWljUzl0cWhabXliV1lKeUh0dlBFbWkwR2ExR1A5d2RUZzE4NDYyVEc4TVZ2aFZETVBETHdKUlR4RUFwbzJCM1h6WDF6R2ZoS0lyS0N2ekhfMjZhdkQwUDBFNWVrME_SAaIBQVVfeXFMT2thc1kyLXNPVmhIcHRTZmh3bm1OQlVOcm95d3lLbDI4VWVxNFpWUGVnN3BDUzVma2wyTFRDcG1rNzB6dEgzRHRxQU5kQzcyZ181TWwwLS1pa1VzMmZNbjI1MHk1SlVES09paTlFcERKbURhRko0eFBKWC1DZ21HWnduT1lWMUZXTTFVa0V2czJvWWF2ZVpQamNEX2x0WElTczJ3?oc=5"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "news",
@@ -92,64 +152,19 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNldXSTdIcU95XzhJNThmRWxUXzE2UDh3QW5UcVRVWmZqRklwOEJQMkNlRE1xeHlTcUpSdl9GZ0M1UHdsa0Njb2pDOHlqVzlHZWFkN0Z4cmFZTVlOZGNqbndpSlhVX1NEVE95ek9aUUtJNXkzV0pEUmxtSGNfSmhnaktkVFZCSGpaUkV5aQ?oc=5"
     },
     {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T01:00:00+00:00",
-      "headline": "GTA 6: sétimo vazamento mostra hypercar e boate",
-      "desc": "Fonte: einerd.com",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA 6: sétimo vazamento mostra hypercar e boate?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nNnFVci1UMTRzVWlnbU8zcE9rZklRWUpYRThuNXo2cDYzWTFGOUZXRlgxU29KendBM1dPcTlzQzdiSlFfNnI3blRwbE1LcUZibmdrTlhpQk1OWkFCTHlfX0ZRRnVndGIyRV9xcnZLWmxFcGM?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCiikkFUtuKydgDndEPWIFAw",
+      "outlier": true,
       "date": "22/08/2026",
-      "publishedAt": "2026-08-22T23:21:32+00:00",
-      "headline": "GTA 6 tem 8º vazamento: Jason entra em strip club e vídeo revela novos detalhes de Vice City",
-      "desc": "Fonte: pclabs.com.br",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA 6 tem 8º vazamento: Jason entra em strip club e vídeo revela novos detalhes de Vice City?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hR2hlQjZ4bmhENWNRdVI2TTBOYzZ2elpPcWY1S1Y0M2ViMExuN1NOU0lzWUpITWM3d2dnN0NpXzczaDN6UHZhUE5TQ3pqSzZORzRmLTVURXF2QURZWUtrY18zUkRQY0Fn?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T22:52:20+00:00",
-      "headline": "Rockstar ainda não sabe como Cyberleek obteve material de GTA VI; funcionários estariam frustrados",
-      "desc": "Fonte: pclabs.com.br",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Rockstar ainda não sabe como Cyberleek obteve material de GTA VI; funcionários estariam frustrados' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwQjNlbEs1VXRRZnBHVzdHSmpVREdjZWotd0IyR01Rd01Vc01Vd0FTU25hRmQ1Ylg2blMtZXVXTFMyOThVRUcxc0l1R19Gei1FRXNHcy1Ed3gwLUZJd2dacUNtRlFOcXQx?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T21:04:59+00:00",
-      "headline": "Rockstar não vai adiar o vídeo de GTA 6 na Netflix por causa dos leaks",
-      "desc": "Fonte: Eurogamer.pt",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Rockstar não vai adiar o vídeo de GTA 6 na Netflix por causa dos leaks?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRFNlMXotN21qUHB6dWI3SlBUbUt2XzUzM1RjaDJCZ3VDT2ZENzgzWURVZ2JQWGUxdjAzUGZXUWlrUWY5X1pGLTdfTUR1TTEyX1BtUEg2OVBvU3pWRzJkS1NuNGFXRlZ2Q0tTaWFubnNGdHBTbUpJVlpSeklKMWd6X2ZONS1CNHRWZnpJNUVqZzd5Z01MajFCVXdyTQ?oc=5"
+      "publishedAt": "2026-08-22T17:26:59+00:00",
+      "headline": "AQUI ESTA el Video Filtrado justo ahora !!   GTA 6 GAMEPLAY",
+      "desc": "NUEVO GAMEPLAY FILTRADO DE GTA 6! Hoy, 22 de agosto, aparecieron nuevos clips filtrados de GTA 6 y en este video ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('AQUI ESTA el Video Filtrado justo ahora !!   GTA 6 GAMEPLAY') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=2aM-iHFlzz4"
     },
     {
       "cat": "boatos",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('TÁ CHEGANDO O GRANDE DIA! GTA 6 na Netflix') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=KWbIY_IbJeM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCmZeuRfHYowZhf6odtoaNdg",
-      "outlier": true,
-      "date": "17/08/2026",
-      "publishedAt": "2026-08-17T11:35:36+00:00",
-      "headline": "GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리",
-      "desc": "GTA6 #PS5 #스팀 #XSX #게임패스 #기대작 #2026년신작 0:00 자연재해 0:44 귀무자 웨이 오브 더 소드 (플스 엑박 스위치2 스팀) ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=_56rwe2bB70"
     },
     {
       "cat": "boatos",
@@ -535,6 +535,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCmZeuRfHYowZhf6odtoaNdg",
+      "outlier": true,
+      "date": "17/08/2026",
+      "publishedAt": "2026-08-17T11:35:36+00:00",
+      "headline": "GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리",
+      "desc": "GTA6 #PS5 #스팀 #XSX #게임패스 #기대작 #2026년신작 0:00 자연재해 0:44 귀무자 웨이 오브 더 소드 (플스 엑박 스위치2 스팀) ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=_56rwe2bB70"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Fan in ICU Special Request to Rockstar Games! 🙏 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=9cIbXeW3gBg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnnzfu2z51nMUuxdOVRBjZQ",
-      "outlier": true,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T20:00:33+00:00",
-      "headline": "Alemã reage ao Kenji - Quando Lançar GTA 6 😂",
-      "desc": "Vídeo em alta sobre GTA 6 (466430 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Alemã reage ao Kenji - Quando Lançar GTA 6 😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=9K2pYB7uWEQ"
     }
   ]
 }
