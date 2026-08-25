@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T08:44:35+00:00",
+  "updated": "2026-08-25T12:50:37+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -45,6 +45,51 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T12:11:27+00:00",
+      "headline": "Novos leaks de GTA 6 e uma mensagem de apoio ao esquema",
+      "desc": "Fonte: IGN Portugal",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Novos leaks de GTA 6 e uma mensagem de apoio ao esquema?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFZDaUVmdzNPc0ZDRHpuT1ZvdW5TQ3lWWHZuNkxSX3kzYmg4NFdyaTI5Um5VclBPRW9pclJYRHQ2SW03VWNpLXhSWVdINVMxOVVuMW9kUldRM1FodWlMMXRnWUVOZXZOLUdmM25zOXhHZkxKS2hQeE1UUzVXT1hudGFEek9qeWtRS1JhbTFXZXZUT0FYam1ZVlZBX1JRR3J6Wmc?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T12:09:55+00:00",
+      "headline": "GTA VI: 13º vazamento mostra praia lotada e multidão enorme em Vice City",
+      "desc": "Fonte: pclabs.com.br",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'GTA VI: 13º vazamento mostra praia lotada e multidão enorme em Vice City?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KMFUwbWFPSk1vQTZYbHlNUk5icDhwbjU2ZW4xdE1oR19DdURXbHFuZFdYOHlodDQzRzRrMVQ2eDM3N3VIVGIyMWtDamZfem92allwWTVJVFdJem1NUmNWbzRCZGRvSDNBNGc?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T11:53:57+00:00",
+      "headline": "Discord atenta à situação de GTA 6",
+      "desc": "Fonte: Eurogamer.pt",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Discord atenta à situação de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOZm5SQW9sWlI1cHlHS0k5TktsWTQwZjhVMUVQUTNZdEExR0pMWWN1NHgycWZUMWdNRERIcmExOXp1YlN3dk4yTFNNWTNDWWIzTlBSRFJJbGRINDFLQzU0YjdvUjkyMmd5VlhN?oc=5"
     },
     {
       "cat": "boatos",
@@ -105,51 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'Olhar Estendido de GTA 6 com gameplay acontece nesta semana! Veja horário e onde assistir' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0tZZDUzVVRfLWRRd19Ca0lQdTFRYjBTcnk2eW1YWmJNWnoyVEFNRWE5dGFNSVRYX1JzRUxEc1B4R3lxRFdESnF5VklCWkVxX09ySWtGRFN6XzZUZXZ0d05XeEVFY1ZWMW9FV3pRRjktX201Y2dtckZSSDJraUlXM3NPWjc2Y1VoQ3lwMkZzWE4yTjNhR0ZTc3Q1M055elNCU3J4ZmFYOU5wQjA3eThWeHlKalU3MS1fVURiN0MzYlhzaFRLQklucXdvNGxxZw?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T17:48:23+00:00",
-      "headline": "GTA 6 tem suposta área de nudismo exibida em novo vazamento",
-      "desc": "Fonte: O TEMPO",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA 6 tem suposta área de nudismo exibida em novo vazamento?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRjRlX051R29JdEhoWFVnNHNQQlJBNWkwR0VlSzFYZ2wwWU5OOEJzUE9pdlVyazAwZ3lsZGNwci04WTNQc3pCSVZ0bS1YZHFJMDNOOTJnUUFjV3NPcGNEZWE3N1o3UzczWFIxeWpkY3lhcjNxRzNpRmtLM0NRMjlzbEFLTnJXT0FRVU1LZG5QNGtXY1BrV1NwQ0xuSUs4OFQyR0VBTGhrdTVNWXM0YUNvYmVDb3bSAboBQVVfeXFMTlpESkNyeFRCUGlzVFFBTHJXY25WWjJUR2hlZDNpTUxqcWVwUVpld1dHcUNIVl9XbWZVZ3pybTVybXlOQVhrWkRyUm44d2w5N2pvNVNhMDhJM2hsdVB3TFRLQ21wbXJETlJtalpxbktCVFVuUlZGakliU2hCSGhGcWRIRV81c2tfUnRDeFd4Tk00Y01ZempyT2pJelhieGpRRVFiMTRqTXpOd3RtNXI5UU96OGp6Smo3cjZ3?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T17:07:00+00:00",
-      "headline": "GTA 6 | hacker divulga mais um vídeo do jogo",
-      "desc": "Fonte: ACidade ON",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6 | hacker divulga mais um vídeo do jogo' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHNYOU8yVjVYZlRnZGJmNy13THdMNWJSQUVoS25mLXJ1WjlJQnFtcWpoUmtQdHE5QmZSV1FuUXkzSEJJaENNbXhXWlU4d3JfWDUyQzBiaktvSXVHeFBITzNzck10b3ZHX28xd0pzQXVUT1RUaDU2dnVmZlBsODVHa0YzcFIxeHNxVFJ2d3hvTERpTk40dWNjYdIBngFBVV95cUxQZ0ZYSVNBTFNNMmxySkV4eXBwdmxGNWtGSU1XVzdfZVZwTURNb0EySlY3eFpfd0o0Z1ZFT3FNNEQ5ZEdEWVJWcGMwUlIweTZQcnJZR3BqcGxYZ2xkV3l0c0gycXZ1U1JpdFJjaEIzejZwb2llaktreUU2ZFkwQzZQNTZ3NE1NNnBsUGNOZnlrcUtrai1ubnhDRnRmRmNVUQ?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T16:55:14+00:00",
-      "headline": "Novo leak de GTA 6 mostra imensa nudez e leva a apelo a protesto",
-      "desc": "Fonte: IGN Portugal",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Novo leak de GTA 6 mostra imensa nudez e leva a apelo a protesto?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMURjWHJIZ0kwWFpzSG5mNUxTYVRtMU9XbUdCY1VqNlZ1ZGx0NkFqS3czS040Sm9qV1g2U3B6VFBHQTdmQ3FqSHlQaE5mdVJYSGNGdl91b0NLLTFVSXNJWXF5azdubF9iSm5GTWxRNDhnNkM4WExPdi1sLUFpV0NpQzhaYWNGUEFSVVdQbE1Xd3BxZXViWFlEOHVROUU2cThQU3dKSzBONGRiTGVWMGc?oc=5"
     },
     {
       "cat": "boatos",
@@ -302,6 +302,21 @@
       "url": "https://youtube.com/watch?v=GK17S7Pz1Cs"
     },
     {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCwwRzW41YdhO2O0klNkttUA",
+      "outlier": true,
+      "date": "22/08/2026",
+      "publishedAt": "2026-08-22T21:27:17+00:00",
+      "headline": "GTA6 LEAKED!",
+      "desc": "Vídeo em alta sobre GTA 6 (895935 views).",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'GTA6 LEAKED!?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=6130nGBZoRU"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=cpLVBAAPXg0"
     },
     {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCe4_UPAmhz2sqorGbF8oZHA",
-      "outlier": true,
-      "date": "20/08/2026",
-      "publishedAt": "2026-08-20T22:10:40+00:00",
-      "headline": "The GTA 6 leaks are getting crazy… #gta #rockstargames #gamingnews",
-      "desc": "Vídeo em alta sobre GTA 6 (574512 views).",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'The GTA 6 leaks are getting crazy… #gta #rockstargames #gamingnews?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=qSf98bwKMjQ"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCe4_UPAmhz2sqorGbF8oZHA",
+      "outlier": true,
+      "date": "20/08/2026",
+      "publishedAt": "2026-08-20T22:10:40+00:00",
+      "headline": "The GTA 6 leaks are getting crazy… #gta #rockstargames #gamingnews",
+      "desc": "Vídeo em alta sobre GTA 6 (574512 views).",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'The GTA 6 leaks are getting crazy… #gta #rockstargames #gamingnews?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=qSf98bwKMjQ"
     },
     {
       "cat": "boatos",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Jon Vlogs virou NPC no GTA 6 😮 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=YNTp-c_ng70"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCcIWIHIHoyQi3KKKqYZPG1w",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T05:58:16+00:00",
-      "headline": "🔥 GTA V × GTA 6 – Michael Ka Secret Vice City Plan! 😱😂 #shorts",
-      "desc": "Michael, Franklin aur Trevor ko GTA 6 ki Vice City dekhkar ek crazy idea aata hai! Michael secret plan banata hai, lekin Trevor ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🔥 GTA V × GTA 6 – Michael Ka Secret Vice City Plan! 😱😂 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=EQpftoBdeJc"
     }
   ]
 }
