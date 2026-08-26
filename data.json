@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T16:50:22+00:00",
+  "updated": "2026-08-26T22:49:40+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -77,19 +77,49 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
       "source": "news",
       "videoType": null,
       "channelId": null,
       "outlier": false,
       "date": "26/08/2026",
-      "publishedAt": "2026-08-26T15:19:53+00:00",
-      "headline": "Take-Two Interactive pode subir com trailer de GTA 6",
-      "desc": "Fonte: Webitcoin",
+      "publishedAt": "2026-08-26T21:22:36+00:00",
+      "headline": "Como assistir 'GTA 6: Um olhar estentido' na Netflix? Veja se precisa de assinatura",
+      "desc": "Fonte: Exame",
       "signal": 3,
-      "hook": "Abre direto com 'Take-Two Interactive pode subir com trailer de GTA 6' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVS1pdlpFVHVBRW9GaENMc3RUVk9JbGhCLVFHTnBsSGdJckhVSzc3cFAtV1ZuR0dkWEFTa1hQa3I2LUVtckdyVzFuZVpUa2JjaTV2dWV4czB6czhfRGR5ZldsVTFTLXFXUlZveks5VjV3V0l0MU9DdWQ4WFlFMzJWcFR4azk?oc=5"
+      "hook": "Curiosidade rápida: 'Como assistir 'GTA 6: Um olhar estentido' na Netflix? Veja se precisa de assinatura' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFAtdTgxbFdwMU04dExtNU9CanBzVU9jallkSnJBRjFRMnpHN1V6dk9UdDRjcmVQSXlmY3NGT1NnaUZjNE9yb09vTkdLWE5GQkI4OVJBUTBRV0JobDVWRjB2aHVsSkV5bTItZmlrSlVWYzJxZ05Jc2RsU1EtVW5aVmxRSjB2X1htTWNnME9rbUtPUzhTSzF1Z0szcEI2bnQycGhlTA?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T20:31:32+00:00",
+      "headline": "Rockstar detalha como jogador fará troca entre Jason e Lucia em GTA 6",
+      "desc": "Fonte: Canaltech",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Rockstar detalha como jogador fará troca entre Jason e Lucia em GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tsQnNXYWUxMmZ1dWFWSy02dS1kUkJEVHV5YXJWS2RZWEZoU3htanhpWnc0OXl2dXNkMnhZY0xrb0ZHN2RvcW5rUlhhRGktTm4wNDJ3YjBqUnBpNURvbVkzTDluUXNJSHZyUUN6S3gyR0lJRkJHb1ZEenlpZVA0Xzh5M3oyY0dtLXZWaVBvbzJvQXA5Z04xdGdJWWVyZC1sSWpv?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T19:44:56+00:00",
+      "headline": "GTA 6: Rockstar conversou com ex-criminosos e vendedores de armas para fazer um jogo mais detalhado, revela Dazed",
+      "desc": "Fonte: GameBlast",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA 6: Rockstar conversou com ex-criminosos e vendedores de armas para fazer um jogo mais detalhado, revela Dazed' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRnhQNXJ1dkF3UkV1TC15LVpubzRQT3hOZDF6RXpPVVdXUVdwTDZ3M0dVTFRyNlJ0OHVRalBEX2NwQjk0Z0I3aFZFR01UVjMtSU9JN0tOZnpnMG5NVUdJc1M5dGxzZHc4eGE2WkNnWGpra0ZybEtxTnBKd2NBS0FIMUxmREFhVjlYRTBhcmliWmdQRWRvX1BfN2Qtc1lQTWtuUHVGSjh1LV9JRHlOM0ZZVlVNeng5emR1bU9HQk1QLUtfT18zQVhUeVhxVkFsNFZ6Qmx6RkhYRXVsQjB6OXNtaU90cTJTWnM?oc=5"
     },
     {
       "cat": "boatos",
@@ -99,12 +129,12 @@
       "channelId": null,
       "outlier": false,
       "date": "26/08/2026",
-      "publishedAt": "2026-08-26T14:46:31+00:00",
-      "headline": "Novo vazamento de GTA 6 mostrando Lucia e vida noturna de Vice City surge pouco tempo depois do pronunciamento da Rockstar",
-      "desc": "Fonte: IGN Brasil",
+      "publishedAt": "2026-08-26T19:05:00+00:00",
+      "headline": "GTA 6 | Tudo o que saiu dos vazamentos até o momento",
+      "desc": "Fonte: Omelete",
       "signal": 3,
-      "hook": "Pergunta de abertura: 'Novo vazamento de GTA 6 mostrando Lucia e vida noturna de Vice City surge pouco tempo depois do pronunciamento da Rockstar?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcXpuWVZPMTlZcEdOY2w1OXNYNFJkQnhnY1lIMkdQTS1YNElPTEIwX0JRNUlxRzczbW5jbkd2R2U1ZzhGdjFERTN6QVZmVDVZREN3bFBWTENiR3NmbktwUk9pQ1dkVVhTa0I2SHBQOTM5LTlrMUxSbE1xX3VsUklqX1dXOWlUVnZkVnNFSlpCZUxwd3B2NVZnMVA4ZENZWWU1Zl96N2pFQnR5TlQ0SW41YVNkU2gwWFRfdEdJZldjS3hQaDI0Y3V4S3RScGhPTnJJUzYwMWs1RnYtcVc3MkFN?oc=5"
+      "hook": "Pergunta de abertura: 'GTA 6 | Tudo o que saiu dos vazamentos até o momento?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNby1fM2l2ajJDcUc2T3VkVTZkaWhmUVk5cnJCOHBOYnZFOFlXWktzNG84YzB2YVNsZnVyMl9qaWNCSVI5U1pOUEpENGxmdlAzWFFzMUItTHNkX1VwdVN6LXdTOXAzX216SG9RbXNGYTB0OHFPajZMZG5HaVR3RTlpLXdQWThyQQ?oc=5"
     },
     {
       "cat": "boatos",
@@ -114,42 +144,12 @@
       "channelId": null,
       "outlier": false,
       "date": "26/08/2026",
-      "publishedAt": "2026-08-26T13:55:23+00:00",
-      "headline": "Rockstar Games diz que lamenta vazamentos de imagens de 'GTA 6'",
-      "desc": "Fonte: G1",
+      "publishedAt": "2026-08-26T18:59:38+00:00",
+      "headline": "GTA 6: Rockstar se pronuncia pela primeira vez após vazamentos: 'Devastador'",
+      "desc": "Fonte: TechTudo",
       "signal": 3,
-      "hook": "Pergunta de abertura: 'Rockstar Games diz que lamenta vazamentos de imagens de 'GTA 6'?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHdTUlBORWVBUTVHS3VWMUFxd21hbkJFdF94anNUUzNZVENVOWZVMnJVcG1lZkVoeDB6SmxwcndZVmN3cEM3VklZS25lTXBrcHN6RlE3LXJfY3J6RUM2WllRbExSYjhmY0VuOUE4NWNhUFBjR2gtbldvNUkyZ1VaWWIxdHpaRm4wVGZ2bU04allNeGRsQUppSEJGTWtkSS1YbThvbGZhNWx4R3Iwd2N3amljMXXSAcMBQVVfeXFMTXhfdXdPQWozMko3UWxobndjdXR6VFE4SGtvSm15R3YxLS1wUGpMR3NPeE12MV8xUlJ5UjJlYmJtYWVPSGtOV1dTODJBV3dzLVYwd19pcHRlMC1mc0NCUXllQXRCckZoeU9WSl9iMzBtVXYzNjlIa21KdDdEWEZxV09fSWpBMUpjSHBQMjh0dDNHU3QwekstWlV4NWdNYnhvSFBwcDNoTTZZbFNhSVlEQXNIM29Ha0JrUjZZTG5mTEhtT01V?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T13:21:00+00:00",
-      "headline": "Rockstar pede desculpa aos fãs por vazamentos de GTA VI",
-      "desc": "Fonte: Adrenaline",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Rockstar pede desculpa aos fãs por vazamentos de GTA VI?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHFKYnNSMHJVUjV5cVEyalBCU3hOMzhVaHF1NkU5QWJtYllxc05Gek5rWEliVlluVXFIcG9STlFvOHFCX3dscjJkcUg0LV94SDc2blp0MHpqS2poN3Z6eUcyaGNSaTM4ZVI0Q3BvbFpUb084dUhNR3hPcGZNSGw1LU9oMDltYlh3ZENhSUg5UFl5R3h4LTVn?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T13:20:00+00:00",
-      "headline": "Rockstar Games se pronuncia sobre vazamentos de 'GTA VI' | Diário do Grande ABC - Notícias e informações",
-      "desc": "Fonte: Diário do Grande ABC",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Rockstar Games se pronuncia sobre vazamentos de 'GTA VI' | Diário do Grande ABC - Notícias e informações?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSDk2QTktZ2tVSXdwTFU2YWo0WERtM1BDNnNPSHpnZHd6UEctZlZWRHk2ZkpxVmxVM3FJQlJ6cE1nTWQ0U2FnZUlYV0FYMnc4M2RfcHFJN0FFMGdhM0JqZ3dxX0pHS0ZaTWYtdlRiRjdKX1lhMC1VczJwNUdHTm5UT1NWTjBmUWFXa05wS2JVUEkxaVhzZE1keHdDYw?oc=5"
+      "hook": "Pergunta de abertura: 'GTA 6: Rockstar se pronuncia pela primeira vez após vazamentos: 'Devastador'?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajNsdkVKV2J3ZVNGdTBMM1pRTkJ6Nkh0OFo5TGVMZEVYSXhkZUFfWmk1Vl8wV25TTFhEekpGbEZpVTNENFEzdjhoa1RibUY0V1d6dzRVWk02SGxkREdVelk2TFpQMFctcGpsVXpOSWJxS3g1di1TbUhnRU8wNW12MnFUNFVSdFN6VTJuQkc0OHQ0cDFXaGFWZjFXNmtCVGotV2x2d2h6aVQ4cWttZTVJUGRscEpZbGN5WkUzY9IBywFBVV95cUxOdmxMRV9NblNOLXdBNHhSb2xVSk96ODQwV0JEbDR2MVJ1U0VnMUloanpEMTllNHA2OTdMYmZSamJrandZM2VUQ05HNlBYdWMxWlhoYmF2ZjEyVUtEODFnMEc0LUNlR0t2Z2gwdlJEWVZjak50YW9MekdOZUtySGlqLWk3SHplTVJ2QUpZQmVBN0ZINE5NT2NxWWxqZDlVbElJakRfQ1ZyZkR5Q3B2bVQ2dTFkWDdBU2hWSzZxc1BSNFBTWHctZVZnMlpERQ?oc=5"
     },
     {
       "cat": "viral",
