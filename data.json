@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T08:45:49+00:00",
+  "updated": "2026-08-26T12:54:54+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -62,19 +62,19 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "boatos",
+      "tagLabel": "Boatos",
       "source": "news",
       "videoType": null,
       "channelId": null,
       "outlier": false,
       "date": "26/08/2026",
-      "publishedAt": "2026-08-26T07:00:00+00:00",
-      "headline": "Gamescom começa com grandes lançamentos e trailer de 'GTA 6' no radar",
-      "desc": "Fonte: Folha de S.Paulo",
+      "publishedAt": "2026-08-26T12:45:33+00:00",
+      "headline": "GTA 6: Rockstar se pronuncia pela primeira vez sobre vazamentos do game",
+      "desc": "Fonte: Rolling Stone Brasil",
       "signal": 3,
-      "hook": "Abre direto com 'Gamescom começa com grandes lançamentos e trailer de 'GTA 6' no radar' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnhlcXJJdV9DRkM4SEc5UDBhR1VTUkNaS1VuRHBteGdZYnZ0NndfQ2lvSHl0T3JNR3BvazE1YTMzRlpKNmNkZy0zRTh2MG9VSmdHbnVDOE0wanZPNmZYWlB5LU5JZGR1SGUtMy1JZ29zNXJFY3drWm5JX3VOc3BHaXFWZ0hsOGhKaG42LXVTZU80QUtjRGVId0dLeXg2aVAxUWQ5Q011Yzg0cFV0V2RUb01JM2tPZw?oc=5"
+      "hook": "Pergunta de abertura: 'GTA 6: Rockstar se pronuncia pela primeira vez sobre vazamentos do game?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmQ1aGZlcmt4cDY5NzI5ZW5SLVpyT3JCaUlJcDVlVmdSYkMxcldvMlBSZ0ZRYlRxUlk0QWxBT3AwUmQwN3UwYXd3VTZRdlhGek9lV2pQY3RQMVg2TDNZODU0NjZndmVNTlFfLWM2QXJpbDlZWmRveWhTc0ZxTzA2bVFua2cxM0w2d0lka1R6Z1JKTXFFUE5qZnZrNWVKb3hGbTFaRXlHUjAxZUhQZXc?oc=5"
     },
     {
       "cat": "boatos",
@@ -83,13 +83,13 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T22:46:26+00:00",
-      "headline": "Após novo vazamento do GTA 6, Rockstar faz forte pronunciamento",
-      "desc": "Fonte: Crusoé",
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T12:32:47+00:00",
+      "headline": "“Devastador”: a reação da Rockstar após vazamento de 15 vídeos de GTA 6",
+      "desc": "Fonte: Diário do Centro do Mundo",
       "signal": 3,
-      "hook": "Pergunta de abertura: 'Após novo vazamento do GTA 6, Rockstar faz forte pronunciamento?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWpSVjVWcXBoYmQ3TXh5RXMzLW9WTnZNUUw1U2IzUWQyWjVVd0pfVHdsQ0Q3R294cTJieGYxMnNjd1oyTmwyOS1zME5xd3R4X21LNlRkMXE3c3AzT2d5OEw3TmZXRWtFdGlJMGZaSHh5ZHdQYkxuOWtlMk1VbDhEZUJPUGFJa1g2TkpyeGFpWktzSTh6dF92OTd3ZXZYdEFDc2tMMmN3?oc=5"
+      "hook": "Pergunta de abertura: '“Devastador”: a reação da Rockstar após vazamento de 15 vídeos de GTA 6?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeS15d243VlZXNUczZjgxUWdyRk52ZDVnSDdyN0xvZVpKdlhVNi1WVWRDWWFIdkVYeHBWblhILXZfb1ZvbWlINC1FdWd3dnpTMEpMWEZPTHViQ3F6ZHV0MGY0ZDFJSTN5TVh5OGtOSzVFZlpYaDY1aFlvLWh1SEZzcGI3c0Y5WmcyZWV2VTFSbkRoVnkxZ2ZGVkRFbXdwSl9pUy1kaHZpMHVtd1l4?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -98,13 +98,43 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T22:01:49+00:00",
-      "headline": "GTA 6: vídeo do posto teria circulado no Discord 5 dias antes de Cyberleek",
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T12:26:00+00:00",
+      "headline": "Benchmark reafirma recomendação para ações da Take-Two antes da apresentação de GTA VI - Investing.com Brasil",
+      "desc": "Fonte: Finanças, Câmbio e Investimentos",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Benchmark reafirma recomendação para ações da Take-Two antes da apresentação de GTA VI - Investing.com Brasil' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMTh4SFR1djgzTlZvTnNtdU9ZZmtTbng3M2RJcERCNXZKV3dBOE1CZW9WM21uQlhFT2JTelEwbG9aZm5jclJ0OHIzWGh0Q185MnNxWjQyUW1sRXdtTF9hcTByWEozaWFiUHBnNGVQSDRnSFV4UmFNNGp4dmlPUXRXWEtmM3hoLTZMenJES2diYlh4U0podmU4dlFLbFlEdjNON2xucUlVWkdjbGNQNXo3dmZiUWJJemRuV0UzOVlsTjhET0JCN283REZWOHQ2WERVWjkyS3JWbnM1QWdN?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T12:16:00+00:00",
+      "headline": "Rockstar quebra silêncio sobre vazamentos de GTA 6: ‘desolador para nossa equipe’",
+      "desc": "Fonte: Rede 98",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Rockstar quebra silêncio sobre vazamentos de GTA 6: ‘desolador para nossa equipe’?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzFXNzZwTlRKTklPcXctX3BRbmkxeDltS1FJWHdZMXhlZ1FrWTA5aUQycFlCb2NXQnhaQ2RuRnc4VXNJcTFsZlgwQ0N5R3RsZVNTSGt6NTc5bFR5eExfVzhoX3BJNTkwWmxmUUNqT3F2VHVXNTZEWElNX1FPb09TTUhTYld5MU05YWxObUJRQlRnSTJ0akdvRjNFNDhyLUwta1dLRGNHakYxWXd6V0VXQmtJeU9lSFJkYzRnd1ZYMUZfLXJ1NHJ3?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T12:04:26+00:00",
+      "headline": "GTA 6 tem 15º vazamento: Rideout Customs aparece e Lucia surge no fim do vídeo",
       "desc": "Fonte: pclabs.com.br",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6: vídeo do posto teria circulado no Discord 5 dias antes de Cyberleek' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OZjN0cUZialE5d1kzZGM4M2NBcTFNSGVYU1hPSlROaDRTbm4xS0MySldta21sV1A2ajRxdXBCZGpNUjFFUTQzNXFMbjlsNE1aRGUyc01sVmc1UVc1TEhKcEd2NXAwLTFoTEE?oc=5"
+      "hook": "Pergunta de abertura: 'GTA 6 tem 15º vazamento: Rideout Customs aparece e Lucia surge no fim do vídeo?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BLVJtaXJtR2Vjbl94RDBFZ0NDMVl5SWVmNU1EZWRiVXlFLUsweG5rdmxQUUxYSHM3dW5fRTVPUmZVUzJJeTFpcU1EX0lTcGU5MnV1cVdoX2tGbjZvWms4Wk1ra0JEdC1tZUx3V2pLSUs?oc=5"
     },
     {
       "cat": "boatos",
@@ -113,43 +143,13 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T19:21:00+00:00",
-      "headline": "GTA 6: empresa intima Discord e Microsoft após vazamentos do jogo",
-      "desc": "Fonte: Portal iG",
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T12:01:35+00:00",
+      "headline": "GTA VI: Rockstar lamenta vazamentos em massa em pronunciamento",
+      "desc": "Fonte: O Vício",
       "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA 6: empresa intima Discord e Microsoft após vazamentos do jogo?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzYwZjh1ZnozVzA5blFCQ2E2b0YzcW5rckRSeWo4LV9ONWNIQ3ZrVm52NjZwTzdxVG94a2Y5Q05iY2doZWN6aENUV1dIaEZ6MHgtVFhtekhkemFNRFpBOGU4bnZUODZ6bHNPTkxaZzlhTldfSGVDVm5DSlNidGNBZl9BeDlscVFCQUZvckp4X0g1aVZ3aHVpQmJLV1M5OXExc0xudHg1aGtzcUtmUFNz0gG0AUFVX3lxTE1abTlYSExEdmpsSlVoSGtOR3hPanVjMXpOUmlXd2haV3ptSm9BUGplaWJQVnBrQXl2WHU2U245UmdTTUpxZWZNdEk5MlI1RFJxbGhndHc2aHprVkJEOHhidEZ4a3hka3diT0ZLVmlJNWxPMklGNTdsNVUyWWV5eUFSQ2toU3hfVFFsRzBTVmFLQU5pTk9qY1FGMGhRTGN2QVBTdWhhblp2UG5XaXp6ZUJ5cW9RMg?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T17:30:44+00:00",
-      "headline": "NBA 2K27 sugere evento temático de GTA 6 em colaboração com a Rockstar Games",
-      "desc": "Fonte: IGN Brasil",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'NBA 2K27 sugere evento temático de GTA 6 em colaboração com a Rockstar Games' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUFBQnZtNjJTblprdXl2Ykw5UFFxSFUybnhfVUcxdTJnLVNOQk1reldvcldnZUZkanlkcWFpcVRYQzdoZ3ctYkRJRlE1OWpmMFppOXdTQ2hybml0WklxU2Z0MG00RW02b0U5ZmM4SlZ4TklHdFVJOFVkcnE5Z2d4TS13WmFBSmx3R3lmTWh5YW1DZ0RPNFJIcWR6VHVLaHQ2QlVKa19JWFFnREpIdTYwcnVsMUV1OGRsZG1JTDdKUQ?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T15:53:22+00:00",
-      "headline": "Novos vídeos de GTA 6 surgem e revelam mais de Vice City",
-      "desc": "Fonte: Pichau Arena",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Novos vídeos de GTA 6 surgem e revelam mais de Vice City' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMkJBSWpUWm4wYV93NE1QdU5SQ0I0OXRva0xGSlpQV1BrZHBTX0JvOEpEZ2wzVnBSbHJlYUJieGg0eklmczhIb0tvR2JzNWZnRTlNUnRHeVprQ0dtMlZab21MaEhxXzhlMDcwMWNYcmpPNVFB?oc=5"
+      "hook": "Pergunta de abertura: 'GTA VI: Rockstar lamenta vazamentos em massa em pronunciamento?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2I5OFd1bjNmNy1Dd2pJa2M0OFZOS3AwdWZTRGxTbjFaaWJZSW9CME1HMXhQTWZVaUFBeVZGTkNEX0JMY1hJNzd0S3dQVGNPVGdvNHpMRDdBNFF6d2ZSQU1wRTFKdDFOT3M1NDdDUEptVENsUnVkU0p4Y2NQaGRaSVlmQVdlWHBkc1BTQdIBkgFBVV95cUxNNzdVTERvRUphZC14cHZ2ZDZ3OFF5OHFGaHk1TVF5WklERXNHV1liQmhBQmRuUV91clVCbnBRem50Vms0XzJwWFdsQ2pHajFSVXFJWkFMdUVNTUZCeDNlQ3ZHUDNTUDNlcFNIU2J3RUNRWWQzMGVzTTBQWnlwSm92cGZtUDZ5a1hBUjZjSlZFTWROdw?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T12:00:08+00:00",
+      "headline": "Is CyberLeek Stupid? #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Is CyberLeek Stupid? #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=7msciYBeXeQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCFOSg71CRAJ58IPuV_-jMbw",
       "outlier": true,
       "date": "24/08/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=ZyW6qUiTCdg"
     },
     {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCHQh9m3wbt1PT1VDpIpTjbg",
-      "outlier": true,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T15:00:22+00:00",
-      "headline": "O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation",
-      "desc": "Flow Games comenta sobre o principal problema com os recentes vazamentos de GTA 6! #games #gta6 #ps5 #gta ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=l6IIFEtk8tM"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T11:29:20+00:00",
+      "headline": "Message from Rockstar Games",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Message from Rockstar Games') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vyuf05/message_from_rockstar_games/"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCHQh9m3wbt1PT1VDpIpTjbg",
+      "outlier": true,
+      "date": "22/08/2026",
+      "publishedAt": "2026-08-22T15:00:22+00:00",
+      "headline": "O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation",
+      "desc": "Flow Games comenta sobre o principal problema com os recentes vazamentos de GTA 6! #games #gta6 #ps5 #gta ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=l6IIFEtk8tM"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'NEW GTA 6 Leaks Are CRAZY 🔥😲 in 2026 #gta6 #leaks #fyp?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=n0myFl1eBgs"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCxBQrm7lOT66b5g-fb0ohsA",
-      "outlier": true,
-      "date": "18/08/2026",
-      "publishedAt": "2026-08-18T19:58:46+00:00",
-      "headline": "GAME LEAK OR AI? GTA 5+1 beta?  [EPILEPSY WARNING]",
-      "desc": "[EPILEPSY WARNING] This video contains flashing lights, strobe effects, and visual patterns that may affect viewers with ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'GAME LEAK OR AI? GTA 5+1 beta?  [EPILEPSY WARNING]?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=IqdZo0h8mjU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV8xlnYK9sp_Xktv7pvKvpA",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T15:30:38+00:00",
-      "headline": "Pov : si tu perds ce match on t’offre GTA 6…😳",
-      "desc": "Vídeo em alta sobre GTA 6 (346945 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Pov : si tu perds ce match on t’offre GTA 6…😳') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=zPXsNhNFhlM"
     }
   ]
 }
