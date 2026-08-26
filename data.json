@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T04:40:59+00:00",
+  "updated": "2026-08-26T08:45:49+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -60,6 +60,21 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T07:00:00+00:00",
+      "headline": "Gamescom começa com grandes lançamentos e trailer de 'GTA 6' no radar",
+      "desc": "Fonte: Folha de S.Paulo",
+      "signal": 3,
+      "hook": "Abre direto com 'Gamescom começa com grandes lançamentos e trailer de 'GTA 6' no radar' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnhlcXJJdV9DRkM4SEc5UDBhR1VTUkNaS1VuRHBteGdZYnZ0NndfQ2lvSHl0T3JNR3BvazE1YTMzRlpKNmNkZy0zRTh2MG9VSmdHbnVDOE0wanZPNmZYWlB5LU5JZGR1SGUtMy1JZ29zNXJFY3drWm5JX3VOc3BHaXFWZ0hsOGhKaG42LXVTZU80QUtjRGVId0dLeXg2aVAxUWQ5Q011Yzg0cFV0V2RUb01JM2tPZw?oc=5"
     },
     {
       "cat": "boatos",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'Novos vídeos de GTA 6 surgem e revelam mais de Vice City' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMkJBSWpUWm4wYV93NE1QdU5SQ0I0OXRva0xGSlpQV1BrZHBTX0JvOEpEZ2wzVnBSbHJlYUJieGg0eklmczhIb0tvR2JzNWZnRTlNUnRHeVprQ0dtMlZab21MaEhxXzhlMDcwMWNYcmpPNVFB?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T15:52:16+00:00",
-      "headline": "GTA VI: Rockstar diz que vazamentos não chegam perto do evento",
-      "desc": "Fonte: DOL",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA VI: Rockstar diz que vazamentos não chegam perto do evento?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEh2YjdZTXdYSjhIbUJ4MUM2SzR2LVJYSzZNUlVSODVVT19jeXBSd2pCRnFWd2liWjRGQXRwbGpQQ2JLRVV0T1RHWU9nY0Rjd3ljR19qYy1jamZJbU9YdWVqYkFRaV8yRmVKNm1EMjlGVktmUkRvZURBY1cyYWkyNTZyelAtNmpyOHlWTjJsOS1SVS1JcTR2RUpkTFZhdW5qZHFReWZIUi0yR1Zv0gG0AUFVX3lxTE5SRnZnUl9lWXZBVnVSOTV3M045VXd4MkN3cWxUQWxYVFFKcmtnOWk0eDZ2Y2NMNHZmTkx2T1JzUXB5d2hIQWFVYTJ5Wmx0ZWFGTkc2VzJQZWNYOGNQS2wxYzVjTG1ueVF5THVOZFNDcWhpSnVlUTMycDFjZThfa182a3lnanp1dHdUVnFwRFdQSXJzbzlQWnNRcDRHYUZobVVYOTZfcF9BYk44RkZxbUdtdlJXZg?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCFOSg71CRAJ58IPuV_-jMbw",
+      "outlier": true,
+      "date": "24/08/2026",
+      "publishedAt": "2026-08-24T20:45:23+00:00",
+      "headline": "HAN ROBADO al GTA 6!!!",
+      "desc": "Vídeo em alta sobre GTA 6 (763834 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('HAN ROBADO al GTA 6!!!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=55HGHHs-UlY"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCvQ35id6_d0uUNUzPqAWqvg",
+      "outlier": true,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T09:45:12+00:00",
+      "headline": "Kai Cenat Wants To Be The First To 100% GTA 6! 😳🔥",
+      "desc": "Kai Cenat Wants To Be The First To 100% GTA 6! Subscribe For More!",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Kai Cenat Wants To Be The First To 100% GTA 6! 😳🔥') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=cgOUdDjo2Wg"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
       "outlier": true,
       "date": "25/08/2026",
@@ -422,36 +452,6 @@
       "url": "https://youtube.com/watch?v=l6IIFEtk8tM"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T13:45:19+00:00",
-      "headline": "E SE O HACKER VAZAR A HISTÓRIA DO GTA 6? 😱😱😱",
-      "desc": "gta6 #gta6leaks #rockstar #flowgames.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('E SE O HACKER VAZAR A HISTÓRIA DO GTA 6? 😱😱😱') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=4UZViqdbDFs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T05:00:35+00:00",
-      "headline": "We Got GTA 5 Bugs In GTA 6 Before GTA 6 #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('We Got GTA 5 Bugs In GTA 6 Before GTA 6 #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=G7-7m-ZaX4I"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T13:45:19+00:00",
+      "headline": "E SE O HACKER VAZAR A HISTÓRIA DO GTA 6? 😱😱😱",
+      "desc": "gta6 #gta6leaks #rockstar #flowgames.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('E SE O HACKER VAZAR A HISTÓRIA DO GTA 6? 😱😱😱') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=4UZViqdbDFs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T05:00:35+00:00",
+      "headline": "We Got GTA 5 Bugs In GTA 6 Before GTA 6 #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('We Got GTA 5 Bugs In GTA 6 Before GTA 6 #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=G7-7m-ZaX4I"
     },
     {
       "cat": "boatos",
@@ -822,21 +852,6 @@
       "url": "https://youtube.com/watch?v=_56rwe2bB70"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T00:31:22+00:00",
-      "headline": "GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv O CEO da Take-Two Strauss Zelnick deu ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=xasTAoW62JU"
-    },
-    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Pov : si tu perds ce match on t’offre GTA 6…😳') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=zPXsNhNFhlM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T22:00:33+00:00",
-      "headline": "How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline",
-      "desc": "There aren't cougars in missions, but there is incredible merch on my store! https://go.darkviper.au/Merch Premium quality, low ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=5emeYR9Rl08"
     }
   ]
 }
