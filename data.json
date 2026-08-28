@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T21:54:45+00:00",
+  "updated": "2026-08-28T10:04:43+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -156,15 +156,15 @@
       "tagLabel": "Lançamento",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "channelId": "UCQeRaTukNYft1_6AZPACnog",
       "outlier": true,
       "date": "27/08/2026",
-      "publishedAt": "2026-08-27T19:42:52+00:00",
-      "headline": "REACTING TO THE NEW GTA 6 TRAILER! LIVE🔴",
-      "desc": "tts donations here/ https://streamlabs.com/ishowspeed GTA 6 EXTENDED CUT LIVE REACTION GTA 6 EXTENDED GAMEPLAY ...",
+      "publishedAt": "2026-08-27T19:50:01+00:00",
+      "headline": "GTA 6 trailer just broke the internet..",
+      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
       "signal": 5,
-      "hook": "Abre direto com 'REACTING TO THE NEW GTA 6 TRAILER! LIVE🔴' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=miGclAow9KI"
+      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
       "cat": "boatos",
@@ -302,36 +302,6 @@
       "url": "https://youtube.com/watch?v=7QlaZZOCqik"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T13:36:39+00:00",
-      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T18:00:12+00:00",
-      "headline": "GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)",
-      "desc": "Twitch: https://www.twitch.tv/tgg_gta Get Official (Signed by the Voice Actors) GTA 5 Merch: https://tidd.ly/49654es Get SIGNED ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=BTfzszKgRKc"
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -455,21 +425,6 @@
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
-      "outlier": true,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T16:15:07+00:00",
-      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
-      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
       "videoType": "curto",
       "channelId": "UCHneQmxpuMcL3SGSmIb9aNQ",
       "outlier": true,
@@ -495,6 +450,36 @@
       "signal": 5,
       "hook": "Abre direto com 'POV: It&#39;s GTA 6 Launch Day!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=iZJHQr47Imk"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T13:36:39+00:00",
+      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
+      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
+      "outlier": true,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T16:15:07+00:00",
+      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
+      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
     },
     {
       "cat": "vendas",
@@ -535,6 +520,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T18:00:12+00:00",
+      "headline": "GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)",
+      "desc": "Twitch: https://www.twitch.tv/tgg_gta Get Official (Signed by the Voice Actors) GTA 5 Merch: https://tidd.ly/49654es Get SIGNED ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=BTfzszKgRKc"
     },
     {
       "cat": "viral",
@@ -795,21 +795,6 @@
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCu1JULG6VBu7gUhJRWW6ncQ",
-      "outlier": true,
-      "date": "18/08/2026",
-      "publishedAt": "2026-08-18T23:31:27+00:00",
-      "headline": "PLANTÃO GTA 6: VAZOU GAMEPLAY DE GTA 6 E ISSO É BIZARRO, ROCKSTAR DERRUBANDO TUDO!!",
-      "desc": "Cross atualizando voces sobre os VAZAMENTOS recentes de gameplay do GTA 6, náo teremos imagens ou colocaremos nada ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'PLANTÃO GTA 6: VAZOU GAMEPLAY DE GTA 6 E ISSO É BIZARRO, ROCKSTAR DERRUBANDO TUDO!!?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=GK17S7Pz1Cs"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
       "videoType": "curto",
       "channelId": "UCe4_UPAmhz2sqorGbF8oZHA",
       "outlier": true,
@@ -895,6 +880,21 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'Further Clarification Regarding the Rules for the 2026 Leaks?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vxbmh4/further_clarification_regarding_the_rules_for_the/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "28/08/2026",
+      "publishedAt": "2026-08-28T09:26:05+00:00",
+      "headline": "The closing montage is a message to us",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('The closing montage is a message to us') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1w0lou2/the_closing_montage_is_a_message_to_us/"
     }
   ]
 }
