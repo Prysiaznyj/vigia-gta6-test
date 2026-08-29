@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T21:47:42+00:00",
+  "updated": "2026-08-29T06:04:33+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -77,6 +77,51 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "29/08/2026",
+      "publishedAt": "2026-08-29T05:02:16+00:00",
+      "headline": "GTA 6 tem easter egg de Red Dead Redemption 2 revelado no trailer; veja",
+      "desc": "Fonte: TechTudo",
+      "signal": 3,
+      "hook": "Abre direto com 'GTA 6 tem easter egg de Red Dead Redemption 2 revelado no trailer; veja' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFQwSlRxY25tY29hUkZDOV9maTE4akxVTGJQcHpDSjFGcmdBZ1RLd3F2TkNEZHhweUhNU1VOYUVUZUtFbHVfVy15aGFwQmhGaTdTODZ4ZUVObE56ci1na0xmSzdlZThCTS1SUFFyWVc0X1EzQWQwUmt5eVBBWEdhWEdjQUthYTBhcXFhZmhYaUpibFRDM1V6TVRfN0hCRzZDSHYtYmM0bTVoaUlQUkRHUnp6aGItQTdubHBCWHB1bmpKWUotaVZlOdIB1wFBVV95cUxQcHljeXZHazl0SXdWSlhvWmJSajVMaE8zOXU1eHNBZ3BmZW9pR05SbVhXSWpJakRSMmdubVYwVFo1dUMtVzNReFlVc3lrbnBwdEcweTk3Z2pCLV9URFR4UXJlLU0tZjQ5STFTM3pXS3NuU19reFB4LUxLOG9kZ0JnYXdYcmhZS3k0WG5wZENnNmVuMXJ4c0ktUTZKZHdHMVJuc0hFMDF5clc3eWdhR2tVbEdZdHhzMzNOVjFKaF9TRExSSVkxcWRpSm5tT2tYeG53Sl9ZZkRvNA?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "28/08/2026",
+      "publishedAt": "2026-08-28T12:46:10+00:00",
+      "headline": "GTA 6 roda a 30 FPS no PS5 e XBOX \"por enquanto\", confirma Rockstar",
+      "desc": "Fonte: TudoCelular.com",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA 6 roda a 30 FPS no PS5 e XBOX \"por enquanto\", confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGN0QS1kazY5TXFhcUJpeFZsajNNNnJJSnl6UHBKdVl6aHgzcE03Y2ZCeHNxYjZuUlIwLVgwSV9feHFfR3RTYUZyb3pOYmNULTR3TkhYLVZNbE5TQzQ0UXR1a21ETW5LQVRLWGFlSXFCNmVBOGpCdlR4a29XektUQ1g3NEZ2OUgweFVDWnBLNHItU04zQWt1Z3lqSTRhZFA5cUE?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "28/08/2026",
+      "publishedAt": "2026-08-28T12:34:04+00:00",
+      "headline": "Take-Two sobe no pré-mercado após prévia de GTA VI na Netflix e confirmação de data",
+      "desc": "Fonte: ADVFN",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Take-Two sobe no pré-mercado após prévia de GTA VI na Netflix e confirmação de data' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONG5NXzdha0dSZm1UNHFXNmI2YU15VXE3NXJvbWJzMmdaTE96cUVZR0k2d0Z6dElmTUlSRUpvOE8zb1Yza3BHdlVXWXBQNHF4QkQ3Y19OUXpqM0YtcHoxbnp2dEpBNF9IdWg1QWtFNTBfdGRuVkp4MWJwR2o5OHN6UV94OGhqd3JITlAwSjdBQQ?oc=5"
+    },
+    {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
       "source": "news",
@@ -105,51 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'IMDB e Netflix apontam quem são os atores de Jason e Lucia no GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHBYVnF5dmJRVXhoRHM3dVN1T1FTVkpfUTJsOEY2UTV4SE5xYWdOOTNXOTUwTW1QX0VveDAzZEJwcjVkRXVkNEQwZURaaUdYOTB5ZjY0c01kc2lOQmNEdlRQVGxiUEhVbkRLOXVTaFN0cEljWjFGSHpPWk5ud3VSRXhtYWtCQ0UtRzRz?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T19:18:03+00:00",
-      "headline": "Preço de GTA 6 para PS5 cai na pré-venda; saiba como comprar",
-      "desc": "Fonte: tmc.com.br",
-      "signal": 3,
-      "hook": "Número na cara logo na primeira frase: 'Preço de GTA 6 para PS5 cai na pré-venda; saiba como comprar' — formato \"isso é muito ou pouco?\".",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQREIycFgySzV5XzhoYXZzd01IOEhodjRZQ0dnLU94N3p2YmtIbXFRa0RBMmlKWnV6ajVxYThRYUNtbkoyWk1lcW1kUFJlMk9ZSEQzLVItanR5SDFJNUd1aGhrZFVJMDc4M08yQURSYWpUY051VGlCbW9vbHJsZw?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T18:19:42+00:00",
-      "headline": "GTA 6: o investimento bilionário da Rockstar Games no jogo",
-      "desc": "Fonte: VEJA",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6: o investimento bilionário da Rockstar Games no jogo' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjZiTTNMQ2R0NExNcFBoTFRNdUUwVURnUUNEZFZFVUx1d00xZlZxOEU2M2dvMHFncTJoSHpvY2lJSkFVN05GdEY0X2o0TkdlbFlrUVYySFh1QVdhUG5Ec29XZUQ4ZGNXbmtKbHBZSUxpX0hrZW1kQzlqOGwydi11ZXpRVVl1WGl6UmdVUk00NEZaUUhXQW8xYg?oc=5"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T18:11:01+00:00",
-      "headline": "\"GTA VI\" alavanca ações da Take-Two após lançamento de trailer estendido",
-      "desc": "Fonte: CNN Brasil",
-      "signal": 3,
-      "hook": "Abre direto com '\"GTA VI\" alavanca ações da Take-Two após lançamento de trailer estendido' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOU5lbUNsTDFqRWVoRElNMzJRcUVkUnV6cEdzTU5LTFRKT1lxNU02RW4wbEI4MDh1S2FyQnRncElLSWpPRkk0LUtDTzlhY3ZGZTZjbjdnVzI3VkR0cjBBYXVGYUFJVXh0ZFhMeGMzaDYybXBYZFYzYlJaQ1ZXeXNEU2hmT2N4WDAwRTV4V0ZtUHpDUFNpZ1N6NFpHMmZDNmF6ejkzMWVmRUNzYS1ETU01R3FuaFJ2Sm5ncmx5c2FrUk9Ib2pK?oc=5"
     },
     {
       "cat": "viral",
@@ -242,21 +242,6 @@
       "url": "https://youtube.com/watch?v=KzsStyJEDUw"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
-      "outlier": true,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T22:58:23+00:00",
-      "headline": "The GTA 6 Hacker Is Outsmarting Rockstar Games...",
-      "desc": "Hello guys and gals, it's me Mutahar again! This time the biggest video game hack in history gets even wilder as more and more ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('The GTA 6 Hacker Is Outsmarting Rockstar Games...') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=DxFuFPK2Ym8"
-    },
-    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -300,6 +285,21 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'Holy f*ck.. this is bad..?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=Ntyt_-yKFSU"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T13:36:39+00:00",
+      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
+      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
     },
     {
       "cat": "viral",
@@ -450,21 +450,6 @@
       "signal": 5,
       "hook": "Abre direto com 'POV: It&#39;s GTA 6 Launch Day!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=iZJHQr47Imk"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T13:36:39+00:00",
-      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
     },
     {
       "cat": "lancamento",
@@ -895,6 +880,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 СЛИЛИ ЗА ТРИ МЕСЯЦА ДО РЕЛИЗА') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=rGnzGSCOnuk"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "29/08/2026",
+      "publishedAt": "2026-08-29T03:49:03+00:00",
+      "headline": "The Extended Look really is just an Extended Look.",
+      "desc": "Some of the scenes shown in the new trailer really are just extensions of scenes they have already shown us in previous trailers. which is one way to interpret the title of the trailer. So I thought I would compare both side by side. It's very interesting seeing how much of the g",
+      "signal": 4,
+      "hook": "Abre direto com 'The Extended Look really is just an Extended Look.' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1w1bu6e/the_extended_look_really_is_just_an_extended_look/"
     }
   ]
 }
