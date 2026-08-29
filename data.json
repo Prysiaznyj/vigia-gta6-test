@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T19:16:05+00:00",
+  "updated": "2026-08-29T22:28:22+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -84,6 +84,36 @@
       "channelId": null,
       "outlier": false,
       "date": "29/08/2026",
+      "publishedAt": "2026-08-29T18:43:00+00:00",
+      "headline": "GTA 6 | Versão online do jogo pode demorar para ser lançada; entenda",
+      "desc": "Fonte: Omelete",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA 6 | Versão online do jogo pode demorar para ser lançada; entenda' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aRU05OElod0N2aEJ1SS0xOVA5Nzd2cmd0SnQzMWZSZ0szTUdrX2txRi1TMXhJaWpJUHlHd3M5WTY1a2tJQV82ZzhiUGJwSjV4bmxONjR6M1ZneDBtSFRpbnVVYnRoaGNoRGE4VFZmZUZaSVZCU2JXMlliekpqSWM?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "29/08/2026",
+      "publishedAt": "2026-08-29T18:30:01+00:00",
+      "headline": "Por que GTA 6 pode demorar mais que qualquer outro jogo para chegar ao PC?",
+      "desc": "Fonte: Canaltech",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Por que GTA 6 pode demorar mais que qualquer outro jogo para chegar ao PC?' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUd2VzVjU3lXVWE1QjVHSmxRa285SkRueTA3ZGc5SEFITVVzOTJTWU4zMXNWR1NMMkJRRTMwTUY4VVVCcVFVdjI2SFVGMDFkSmYxSXZYcS1kbTZOd2xXajVxNkRxejZ6STdwT3I1YkR6R1VqSjZ4eGIyUWFGVWQyOWVB?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "29/08/2026",
       "publishedAt": "2026-08-29T17:55:27+00:00",
       "headline": "GTA 6: conheça as 14 músicas que são apresentadas em 'Olhar Estendido'",
       "desc": "Fonte: Exame",
@@ -120,36 +150,6 @@
       "signal": 3,
       "hook": "Abre direto com 'GTA 6 tem easter egg de Red Dead Redemption 2 revelado no trailer; veja' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFQwSlRxY25tY29hUkZDOV9maTE4akxVTGJQcHpDSjFGcmdBZ1RLd3F2TkNEZHhweUhNU1VOYUVUZUtFbHVfVy15aGFwQmhGaTdTODZ4ZUVObE56ci1na0xmSzdlZThCTS1SUFFyWVc0X1EzQWQwUmt5eVBBWEdhWEdjQUthYTBhcXFhZmhYaUpibFRDM1V6TVRfN0hCRzZDSHYtYmM0bTVoaUlQUkRHUnp6aGItQTdubHBCWHB1bmpKWUotaVZlOdIB1wFBVV95cUxQcHljeXZHazl0SXdWSlhvWmJSajVMaE8zOXU1eHNBZ3BmZW9pR05SbVhXSWpJakRSMmdubVYwVFo1dUMtVzNReFlVc3lrbnBwdEcweTk3Z2pCLV9URFR4UXJlLU0tZjQ5STFTM3pXS3NuU19reFB4LUxLOG9kZ0JnYXdYcmhZS3k0WG5wZENnNmVuMXJ4c0ktUTZKZHdHMVJuc0hFMDF5clc3eWdhR2tVbEdZdHhzMzNOVjFKaF9TRExSSVkxcWRpSm5tT2tYeG53Sl9ZZkRvNA?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T12:46:10+00:00",
-      "headline": "GTA 6 roda a 30 FPS no PS5 e XBOX \"por enquanto\", confirma Rockstar",
-      "desc": "Fonte: TudoCelular.com",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6 roda a 30 FPS no PS5 e XBOX \"por enquanto\", confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGN0QS1kazY5TXFhcUJpeFZsajNNNnJJSnl6UHBKdVl6aHgzcE03Y2ZCeHNxYjZuUlIwLVgwSV9feHFfR3RTYUZyb3pOYmNULTR3TkhYLVZNbE5TQzQ0UXR1a21ETW5LQVRLWGFlSXFCNmVBOGpCdlR4a29XektUQ1g3NEZ2OUgweFVDWnBLNHItU04zQWt1Z3lqSTRhZFA5cUE?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T12:34:04+00:00",
-      "headline": "Take-Two sobe no pré-mercado após prévia de GTA VI na Netflix e confirmação de data",
-      "desc": "Fonte: ADVFN",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Take-Two sobe no pré-mercado após prévia de GTA VI na Netflix e confirmação de data' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONG5NXzdha0dSZm1UNHFXNmI2YU15VXE3NXJvbWJzMmdaTE96cUVZR0k2d0Z6dElmTUlSRUpvOE8zb1Yza3BHdlVXWXBQNHF4QkQ3Y19OUXpqM0YtcHoxbnp2dEpBNF9IdWg1QWtFNTBfdGRuVkp4MWJwR2o5OHN6UV94OGhqd3JITlAwSjdBQQ?oc=5"
     },
     {
       "cat": "viral",
@@ -300,6 +300,21 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'I’m Being Investigated by Take-Two (GTA 6 Leaker)?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=e6OLy2wvHvw"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC1v5FJSZw5oSqxeSId2eraw",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T14:46:06+00:00",
+      "headline": "Bought GTA 6 Stock Instead of the Game 😳",
+      "desc": "Title Bought GTA 6 Stock Instead of the Game Description Instead of buying the GTA 6 game, I invested the same amount of ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Bought GTA 6 Stock Instead of the Game 😳') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Gaps8Rs0wWc"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'THE BIGGEST LEAK IN GAMING #shorts?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=iWs7r_nNRew"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T17:05:10+00:00",
-      "headline": "HACKERS JÁ ESTÃO JOGANDO GTA 6 😱 #ps5 #davyjones #gta6",
-      "desc": "Vídeo em alta sobre GTA 6 (706305 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('HACKERS JÁ ESTÃO JOGANDO GTA 6 😱 #ps5 #davyjones #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=ojVgCjtpFmA"
     }
   ]
 }
