@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T06:04:33+00:00",
+  "updated": "2026-08-29T13:41:22+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -77,6 +77,21 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
     },
     {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "29/08/2026",
+      "publishedAt": "2026-08-29T12:55:00+00:00",
+      "headline": "GTA VI: por que fenômeno nunca virou filme?",
+      "desc": "Fonte: NaTelinha",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA VI: por que fenômeno nunca virou filme?' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0cyMnV3dzRnV1VwdlNNdTBQQThWVENmeGoyTU1KM0RfLVpnSXZ5RUU3SmczV2lObl9uWGJKejU4b0U2MVhkbVVzLU5xRlE4QnVnWjhSc01BSWppdHJSUDhkTTNtMnlPVWhKU1I3QmlMMVFPZzdKYUFXQjdOOTZFQkljbi1LUmFOQmlFbjhKZ3BIS0NISDRQblZoMmtKWTNzQTVmUUJWLVE5cHBIWFJJVGFmVWFKSUpvMENEbzZQTjPSAcYBQVVfeXFMTklLOWs0WGtGVDVCUExvX2I1RXQ2dXYxVlRCN0tESzlyN3ZnOG0teGUwbk56ZDI3eUdsYks4ck5iX21iZndTV1JDT1FsRXd3dXlSQjdoOWZVTHFMSXlrNmVnQldRcXpzYUhXdTVSSkc2R2xiSHNXdDlRQTctaWpUMlZ0aWtfOV9ncE5aVXZTRVNfd3pqRWJHV3ZZd2RPY1B6TzJuSWNFdV9PLTFsZ0VQLWhJUnFJUjNrZm5NNFd2TE56NVg1dGhR?oc=5"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "news",
@@ -137,19 +152,34 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQclA1SFp6TW9DZFYyUTY1clVLM29MUnZrMm5JY3RnSEpHWE9aam1pNHJwUzhQNkVsRjN2dUgzaGE1NmwzVzd5aXk0ZV9JX3RzYTFBYjZvMjR2YmxLTS03VXBiRElST0hJWDhiOXpFZmk4OHc0ZVAwSWo2ZGZxUHVhT0FKVC1uSUlzS3lmdEozbjFlaVo1Y3NKZ29IWGMwRTFtdUVFOVk2U2c0elZmWnBXOVJFY0c3YXRRNTllckxseFJnb0N3RWpZ0gHWAUFVX3lxTE9VOXU4Q2NEX0xDSXNwRmNlWVFidUx4S0VaR3VzWVBQR21mTzN0ajlTVUhCcGdKSUxIb1FmZlBoYUFKb0FZQVdPb3FYX3EyWl84WTM5TzJRMlJ0bnRPd3RWR0pSelUwSGpWZlI4ZWdJUE56bzNIdGw3VlBpS1hsaHNpalFDTWhQQXh6Wmd2UFU0eHJDZl9wSTZXcENnYlVEQ0RhcFJWQ2E5S2JRMUhhNUUxaGl5cGhMcXB0YWc4YUxxR194aU5zOXR0VVQ2ZzA4LVBHNWxHT1E?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
       "date": "28/08/2026",
-      "publishedAt": "2026-08-28T19:41:46+00:00",
-      "headline": "IMDB e Netflix apontam quem são os atores de Jason e Lucia no GTA 6",
-      "desc": "Fonte: tmc.com.br",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'IMDB e Netflix apontam quem são os atores de Jason e Lucia no GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHBYVnF5dmJRVXhoRHM3dVN1T1FTVkpfUTJsOEY2UTV4SE5xYWdOOTNXOTUwTW1QX0VveDAzZEJwcjVkRXVkNEQwZURaaUdYOTB5ZjY0c01kc2lOQmNEdlRQVGxiUEhVbkRLOXVTaFN0cEljWjFGSHpPWk5ud3VSRXhtYWtCQ0UtRzRz?oc=5"
+      "publishedAt": "2026-08-28T10:23:38+00:00",
+      "headline": "GTA 6: Every New Gameplay Feature &amp; Mechanic YOU MISSED",
+      "desc": "0:00 – Intro 0:23 – What makes this breakdown different (Rob Nelson quotes/context) 0:59 – Opening mission & Booby Ike 1:17 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Every New Gameplay Feature &amp; Mechanic YOU MISSED') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=4Z_4yqWGRjQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T19:30:30+00:00",
+      "headline": "I Saw 3 Hours of GTA 6 at Rockstar North - First Impressions (Exclusive Info)",
+      "desc": "0:00 Yes, This is Real 1:20 Inside Rockstar North 2:51 The Big Takeaway 5:29 Criminal Profile (Not Honor) 7:59 Relationships ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('I Saw 3 Hours of GTA 6 at Rockstar North - First Impressions (Exclusive Info)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Mfx1B_LBSV0"
     },
     {
       "cat": "viral",
@@ -216,21 +246,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T15:00:29+00:00",
-      "headline": "EU FUI na Rockstar, por causa do GTA 6",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA EU FUI na Rockstar, por causa do GTA 6 #gta6 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('EU FUI na Rockstar, por causa do GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=asZaamVJs-I"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UC0IWRLai-BAwci_e9MylNGw",
       "outlier": true,
       "date": "24/08/2026",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'Holy f*ck.. this is bad..?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=Ntyt_-yKFSU"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T13:36:39+00:00",
-      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
     },
     {
       "cat": "viral",
@@ -450,6 +450,21 @@
       "signal": 5,
       "hook": "Abre direto com 'POV: It&#39;s GTA 6 Launch Day!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=iZJHQr47Imk"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T13:36:39+00:00",
+      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
+      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
     },
     {
       "cat": "lancamento",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 СЛИЛИ ЗА ТРИ МЕСЯЦА ДО РЕЛИЗА') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=rGnzGSCOnuk"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T03:49:03+00:00",
-      "headline": "The Extended Look really is just an Extended Look.",
-      "desc": "Some of the scenes shown in the new trailer really are just extensions of scenes they have already shown us in previous trailers. which is one way to interpret the title of the trailer. So I thought I would compare both side by side. It's very interesting seeing how much of the g",
-      "signal": 4,
-      "hook": "Abre direto com 'The Extended Look really is just an Extended Look.' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1w1bu6e/the_extended_look_really_is_just_an_extended_look/"
     }
   ]
 }
