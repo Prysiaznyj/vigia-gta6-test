@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-30T13:38:07+00:00",
+  "updated": "2026-08-30T19:06:51+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "30/08/2026",
+      "publishedAt": "2026-08-30T18:40:45+00:00",
+      "headline": "Desenvolvimento de GTA VI começou há 11 anos, confirma executivo da Rockstar",
+      "desc": "Fonte: O Vício",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Desenvolvimento de GTA VI começou há 11 anos, confirma executivo da Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGI0OXhsNkxVTGV3RGcwS0xVY3hGYVZqdTJsLWFZZDRweTExZnhtazRKdkJmOHR4ZFpHMzZrS2JOdmsyQ3NVUXhocEdsUS1sSEFuZjBUNjZNUUdpRlpDeTl2SVNuWEVoRFJuLXliYld4VWtaNjY0N1RVci01bi1hNmp3bkxmTWNvZGlwZTZha0JlRnpxRFZEYTNtSHp2OHfSAaQBQVVfeXFMTTEzR0ZTb2FPRHhiUmNJUmVqeEFIa0lwdkdBTUZRZVBEZVJBQk1Rbng1cmxaTDZzQlhja3pBUVVXaFludnZuQzNIZ3Y5ZlZJZXhnc2NiRkJWX1FLVVp6ZS1rRkNhWVFUTmkwT01Cb25qeHUycnZ1dmRsWlFYQUlMLTRJS0YweVJONDZ4dk10Q0pTN3l1UmNTNmwyblAwZFRzNmQ1UFo?oc=5"
+    },
     {
       "cat": "boatos",
       "tagLabel": "Boatos",
@@ -84,6 +99,36 @@
       "channelId": null,
       "outlier": false,
       "date": "30/08/2026",
+      "publishedAt": "2026-08-30T18:30:01+00:00",
+      "headline": "Quais serão as especificações para rodar GTA 6 em um PC gamer?",
+      "desc": "Fonte: Canaltech",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Quais serão as especificações para rodar GTA 6 em um PC gamer?' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUtzSWpyNC04eXpNUElHYjhiY0NwWGEwWUUzcmEtdTUxV05MQUl2UGVYOTBqZndVVFl6Y3k1Qm0ydkx2OEFjWHc1dXprQU4tcE1lNGViZm5sREUyMTQtZGc5SWFiMkJwdFF2NmI3LWNIRGkxenFobkdNUkM1aTZsaA?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "30/08/2026",
+      "publishedAt": "2026-08-30T15:19:00+00:00",
+      "headline": "GTA 6 bate quase 4 milhões de espectadores em transmissões ao vivo",
+      "desc": "Fonte: Terra",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA 6 bate quase 4 milhões de espectadores em transmissões ao vivo' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZVB4Z1lfX2UxNFBncVFGZjJJYmxlSzdFREQ0TkUzREp6OWFBZ3lJMENEV3dBNE1nWVlmajg4OFRWcEJfRHJnZ3dlUDlVUDhrNE9XckFwcUZSMmh0YllzYTFHN255OFVJYzBLTENTckR2Wm9ERm0zNTRldmhPSzJ1MnpzampOWkx4bmUxbFJ1R0JLdHFUSkJGajBUTEdkVE9oWTJZaHF4Q29nZ0hwQjFqVzVuR2FVUmpESGI0RzExZFlsVmpxTXl0UzQ0R1dYeXRCNDBucWxndlNqVzZ0SmtQZkFOYkY4OTdtNXdRRUpRbFFoOS1XZEU0ZUs3VQ?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "30/08/2026",
       "publishedAt": "2026-08-30T09:15:00+00:00",
       "headline": "Entenda por que GTA VI já é o maior produto da história do Entrenimento",
       "desc": "Fonte: Bonde",
@@ -105,51 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'GTA 6: 5 mecânicas de GTA San Andreas que gostaríamos de ver de volta' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdU1raFF0dWtmdkJoZ2RiOXBuZmMwSUxkeUhRREpuUjBIYkh2bm5iQzhiUXZJQzZscXgtaHBvbUFzN3hNdk4wdXB0Z3BkUzZhc0Zkaks5YVVIcng4bFVkTnB0cFU1MWxSQm9waU1QTXFxT1B3TVp2QXhGNW5kRXdPXy1pS2pTUTczRkZGdVNfUUhWN2VnWUpiQkJES0dfZGhmMGZDRHhWaDl0d2ZGMlZnWWliWVlqYlE1Q295VF81ZDctTlnSAdIBQVVfeXFMTl82NkJ6NHlYSWFBVlJVMURkNjctT1V6RTBqM3ZFdGVnMkkxTllOLVNGQWRua2stenFPV0lqNlpOcDR4cUd1UFQ4VHFvcWlCTXVmUGFIWmNIclhlXzUxbGFKeTN3a0FtekpWYk1NRVBtNlBhSXI4aS1ob05FN0FualNqa2lFQ2xnX1F6TFY4SnVUT3FCSkxWa1VSb3RwM2M0aGMza1JCTWdVZl9GdjBDd3RkTEpraktPSXZpVHBuRnZZT1h2UUl0ZWowRzZkaHU3Zi1n?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T18:43:00+00:00",
-      "headline": "GTA 6 | Versão online do jogo pode demorar para ser lançada; entenda",
-      "desc": "Fonte: Omelete",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6 | Versão online do jogo pode demorar para ser lançada; entenda' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aRU05OElod0N2aEJ1SS0xOVA5Nzd2cmd0SnQzMWZSZ0szTUdrX2txRi1TMXhJaWpJUHlHd3M5WTY1a2tJQV82ZzhiUGJwSjV4bmxONjR6M1ZneDBtSFRpbnVVYnRoaGNoRGE4VFZmZUZaSVZCU2JXMlliekpqSWM?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T18:30:01+00:00",
-      "headline": "Por que GTA 6 pode demorar mais que qualquer outro jogo para chegar ao PC?",
-      "desc": "Fonte: Canaltech",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Por que GTA 6 pode demorar mais que qualquer outro jogo para chegar ao PC?' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUd2VzVjU3lXVWE1QjVHSmxRa285SkRueTA3ZGc5SEFITVVzOTJTWU4zMXNWR1NMMkJRRTMwTUY4VVVCcVFVdjI2SFVGMDFkSmYxSXZYcS1kbTZOd2xXajVxNkRxejZ6STdwT3I1YkR6R1VqSjZ4eGIyUWFGVWQyOWVB?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T17:55:27+00:00",
-      "headline": "GTA 6: conheça as 14 músicas que são apresentadas em 'Olhar Estendido'",
-      "desc": "Fonte: Exame",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6: conheça as 14 músicas que são apresentadas em 'Olhar Estendido'' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkNOd3JQVnlzSTNuTDBDYlRnQlg4QkQzcmhDNzE4M2xkQjduV3Vxb0ZMa3JfZGdUQTEzWHhoM2Q5VzRmTkd2RkpuUW01Sl9PZ0EyRXhwVnhUN082NDFDUVBEb0E2eVFzZ0EtTzE2UUdua29Ybjc0QkhEU3hQZzdZWjNxZFdUaXVVMXpLbnhtM1ZvTS10?oc=5"
     },
     {
       "cat": "viral",
@@ -300,6 +300,21 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'The GTA 6 Leaker Just Triggered a Doom Switch &amp; Rockstar has Responded?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=8VlaOV2J5CY"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCwJJxcke-uBJcLJ58HqrdSw",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T20:53:35+00:00",
+      "headline": "Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥",
+      "desc": "Kai Cenat Got Hyped For 6 Stars In Gta 6! #kaicenat #gta6 #shorts.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=97i9zSJsKSs"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'More clarification and notes on future leaks, including Netflix previews?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vxsr3s/more_clarification_and_notes_on_future_leaks/"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCRFSF9WS_g0wqm32kjJ-jNw",
-      "outlier": true,
-      "date": "20/08/2026",
-      "publishedAt": "2026-08-20T17:22:47+00:00",
-      "headline": "THE BIGGEST LEAK IN GAMING #shorts",
-      "desc": "Rockstar is COOKED with these GTA 6 leaks #gta6 #ps5 #playstation #xboxseriesx #xbox #gaming #skit #fyp #funny #shorts.",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'THE BIGGEST LEAK IN GAMING #shorts?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=iWs7r_nNRew"
     }
   ]
 }
