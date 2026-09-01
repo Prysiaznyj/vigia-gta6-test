@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-01T19:15:18+00:00",
+  "updated": "2026-09-01T22:26:51+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T20:34:00+00:00",
+      "headline": "GTA 6 terá troca de personagens limitada em missões, confirma Rockstar",
+      "desc": "Fonte: Omelete",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA 6 terá troca de personagens limitada em missões, confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQak9ldmdCMnpQZHF3ZVBRRmlfbE85Z1JzT1FnZWhsY2daanFvZFlxZ1YtWHROUFdSMmhBQ3VmNzEyMTk4Y3M4UDJfbFpiYVZSbDFYcl81NDFiZnBpWldiMGVpcTFyN0Z4Vmp0QTZkRUZDb0E4R1hlYU9TektkRzBna0d3SVdsUUhWS3c2Tw?oc=5"
+    },
     {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
@@ -129,27 +144,12 @@
       "channelId": null,
       "outlier": false,
       "date": "01/09/2026",
-      "publishedAt": "2026-09-01T18:47:07+00:00",
-      "headline": "GTA V ganhará novo servidor que mostra o fim da construção de um prédio após 13 anos",
-      "desc": "Fonte: TudoCelular.com",
+      "publishedAt": "2026-09-01T21:35:18+00:00",
+      "headline": "De Tom Petty a Phil Collins: As 5 melhores músicas na trilha de ‘GTA 6′",
+      "desc": "Fonte: Estadão",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA V ganhará novo servidor que mostra o fim da construção de um prédio após 13 anos' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1FuV0REY2d3aHpiLXY4bnA1Tl9pc3pEYktZcURjaWFpeW1LVDU3a1hSRkdDcHBPemgyUGZaUzA4Z2tCT3VJVnVvQ2R1bGwxc1VFZEo1ajRTY2Jra1IyemtCamJjMDV6OGtJTWtqNklETUNsazV1SUxEMy1ZSVphUnI0WnhmTndjdlA4U3lTNTh2MXMwbkRF?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T16:55:01+00:00",
-      "headline": "Mais sangrento da franquia, GTA 6 terá mecânica de desmembramento realista",
-      "desc": "Fonte: Canaltech",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Mais sangrento da franquia, GTA 6 terá mecânica de desmembramento realista' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmh0amRzMF80TXN1Z1VjTHpEQXFTSVlkOWdqSERMazIwS1V0UXhGcnlHTVdrYlRiTmk5UjB4ak5pUEtSQTFLejlCTHpNbmhLT01XeXJiUTJXa09BQ0JQSVQzZWY4YThUR1g4aUpJYy1oWTRRUko4eUpHRlZ0c1FmVWJsVzdEQmxKY2FvT19NaERpcXlEU0hFT3FiNFphSGNURFNYUDJwY2g?oc=5"
+      "hook": "Curiosidade rápida: 'De Tom Petty a Phil Collins: As 5 melhores músicas na trilha de ‘GTA 6′' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXZqMF9QYmsta05KZm92Qk1vdmNmbEpiN3ZXaXpJT1ZaeG9aQS1ybVg5aEZTVElqenFIdGJ6a2N4WFdUZ2hvOTZ4VkdTV3pQVVZvb04tQ3ZmNVN2Smx0MmY1R2FrNGUtX2VuMlhyUUw4M1JsQW13OUNXdGtrZ0F5Nmhaa01Hd3I4ZGtkQ2F6MmZGeGVuRE5HdUxFWGV3NEtpV2wzX3pIVG1Hek1HTVotWGZJeU9kaWpPdS16ZEdIbGN6QQ?oc=5"
     },
     {
       "cat": "lancamento",
