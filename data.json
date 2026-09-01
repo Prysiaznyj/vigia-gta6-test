@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-01T13:11:34+00:00",
+  "updated": "2026-09-01T19:15:18+00:00",
   "items": [
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T17:15:00+00:00",
+      "headline": "GTA 6 não terá microtransações ou IA generativa no lançamento, confirma Rockstar",
+      "desc": "Fonte: TecMundo",
+      "signal": 4,
+      "hook": "Abre direto com 'GTA 6 não terá microtransações ou IA generativa no lançamento, confirma Rockstar' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRTk0MVAzdjB4V3gyNjFKaTNBLVlKT2MwOG90TTk2bFB4ODh5ZUJSZG5EOTJSVVBzdVE0OTZybUhKeFZ1UzRQS3Zfam1rOVV6R3lsaUR2dC1aVFlUTW94dVhjam1wdUQ0czdST1JlQXlEVHZUcUpoeXlEZmlNT2k1a09mbllpdnU3bGVHMDJld3BYYXk3bUpSWmR2QXExbEZvVFRJVlpGVFF0Y1Z2SEpuc0pCOWMxWHZWbkxabnZJeWtjdw?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -114,27 +129,12 @@
       "channelId": null,
       "outlier": false,
       "date": "01/09/2026",
-      "publishedAt": "2026-09-01T12:22:43+00:00",
-      "headline": "GTA 6: Rockstar libera dezenas de imagens novas após apresentação na Netflix",
+      "publishedAt": "2026-09-01T18:47:07+00:00",
+      "headline": "GTA V ganhará novo servidor que mostra o fim da construção de um prédio após 13 anos",
       "desc": "Fonte: TudoCelular.com",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6: Rockstar libera dezenas de imagens novas após apresentação na Netflix' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjdqSHBhLURLS0Y5Q1BuQWhWZVZhZktVVFlUem5wSWNJSnRlY3J6Vl9Sd05xcHBzOEx5YU9CT3hNWjlXTmpIVXRaNUZTNmVMczVOWnVoV1kzaUlDcWFPRGZaQWZwOE52bTdkZUdoclBYbG1QQWVNQkg3TEZ6UkRvZ19fb1hiOEd3VTJZaXMxbmRVX3FtYm8zclhPLTVuUQ?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T01:13:00+00:00",
-      "headline": "Pré-vendas de GTA 6 disparam 436% em um dia após anúncio da Netflix",
-      "desc": "Fonte: Adrenaline",
-      "signal": 3,
-      "hook": "Número na cara logo na primeira frase: 'Pré-vendas de GTA 6 disparam 436% em um dia após anúncio da Netflix' — formato \"isso é muito ou pouco?\".",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkJ0LVVoVXlfZXE1ZGFRODJ5V2FVWktiU2JlUlVITE5sTnVfcE9PdFRwVXE3X1g5T2tiWDc1WUoxMlc3NHRSS1hZLTF1XzQzTGYzUnVSeU1fN1doXzU3QkpiVThvbTF6VF9ESTFoM2VuN3BBNGR6cEtZV2VqbHNqemtvRDBjX3dDOWFRRkhodHpMY2VYMlNhN0pWOVh6d2pGeldkWDRn?oc=5"
+      "hook": "Curiosidade rápida: 'GTA V ganhará novo servidor que mostra o fim da construção de um prédio após 13 anos' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1FuV0REY2d3aHpiLXY4bnA1Tl9pc3pEYktZcURjaWFpeW1LVDU3a1hSRkdDcHBPemgyUGZaUzA4Z2tCT3VJVnVvQ2R1bGwxc1VFZEo1ajRTY2Jra1IyemtCamJjMDV6OGtJTWtqNklETUNsazV1SUxEMy1ZSVphUnI0WnhmTndjdlA4U3lTNTh2MXMwbkRF?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -143,13 +143,13 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T22:19:00+00:00",
-      "headline": "Pré-venda de GTA 6 explode 436% após evento na Netflix; PS5 atropela o XBOX",
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T16:55:01+00:00",
+      "headline": "Mais sangrento da franquia, GTA 6 terá mecânica de desmembramento realista",
       "desc": "Fonte: Canaltech",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Pré-venda de GTA 6 explode 436% após evento na Netflix; PS5 atropela o XBOX' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeG5ka3dndllMeTRJcGFpZWgtNHVHYmxoa1lLRjNRY1dIdFpfZWZBd3BiaEFrRlhZWEppN0F4X2Z1V29NYWxrVGpKdVIxdnp2Qi1GRXRxSnZCMk9mVjN5bnpKQ0lKbmxRM25RaUt4Z0xPeVNEcmZwMVVOQzRLLTAzbWJqNjJxWWNXb0o4OUlCaXRMV21KSXpCaG1nSk9HVVlMXzNENTNweVE?oc=5"
+      "hook": "Curiosidade rápida: 'Mais sangrento da franquia, GTA 6 terá mecânica de desmembramento realista' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmh0amRzMF80TXN1Z1VjTHpEQXFTSVlkOWdqSERMazIwS1V0UXhGcnlHTVdrYlRiTmk5UjB4ak5pUEtSQTFLejlCTHpNbmhLT01XeXJiUTJXa09BQ0JQSVQzZWY4YThUR1g4aUpJYy1oWTRRUko4eUpHRlZ0c1FmVWJsVzdEQmxKY2FvT19NaERpcXlEU0hFT3FiNFphSGNURFNYUDJwY2g?oc=5"
     },
     {
       "cat": "lancamento",
@@ -302,6 +302,21 @@
       "url": "https://youtube.com/watch?v=4Z_4yqWGRjQ"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCgk6w5geIeViruUQKaEpqwQ",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T13:58:20+00:00",
+      "headline": "GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes &amp; Water Pits #beamng",
+      "desc": "GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes & Water Pits #gta6 #lucia #beamng.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes &amp; Water Pits #beamng') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=UTYsk_FFqfs"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=97i9zSJsKSs"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC1v5FJSZw5oSqxeSId2eraw",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T14:46:06+00:00",
-      "headline": "Bought GTA 6 Stock Instead of the Game 😳",
-      "desc": "Title Bought GTA 6 Stock Instead of the Game Description Instead of buying the GTA 6 game, I invested the same amount of ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Bought GTA 6 Stock Instead of the Game 😳') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Gaps8Rs0wWc"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -565,6 +565,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC1v5FJSZw5oSqxeSId2eraw",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T14:46:06+00:00",
+      "headline": "Bought GTA 6 Stock Instead of the Game 😳",
+      "desc": "Title Bought GTA 6 Stock Instead of the Game Description Instead of buying the GTA 6 game, I invested the same amount of ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Bought GTA 6 Stock Instead of the Game 😳') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Gaps8Rs0wWc"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'The GTA 6 Leak Situation Just Took a VERY BAD Turn!?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=EHvZ39igXpI"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCwwRzW41YdhO2O0klNkttUA",
-      "outlier": true,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T21:27:17+00:00",
-      "headline": "GTA6 LEAKED!",
-      "desc": "Vídeo em alta sobre GTA 6 (895935 views).",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'GTA6 LEAKED!?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=6130nGBZoRU"
     }
   ]
 }
