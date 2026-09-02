@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T03:22:37+00:00",
+  "updated": "2026-09-02T08:31:25+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -143,13 +143,13 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T22:15:00+00:00",
-      "headline": "Após 25 anos, GTA VI fará mudança em comando tradicional da franquia",
-      "desc": "Fonte: O Vício",
+      "date": "02/09/2026",
+      "publishedAt": "2026-09-02T06:03:16+00:00",
+      "headline": "GTA 6 remove mecânica polêmica da franquia após 25 anos; entenda",
+      "desc": "Fonte: TechTudo",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Após 25 anos, GTA VI fará mudança em comando tradicional da franquia' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTNrVVZfeXMyc19KaVlIY0NyZS0ycDZJOURpWDRRX2FUdEg2ZFBTYVdDbkZmVHoxcS1YMzgwTjYxS0hkRDJHTnZQdk0wTkdOeGJOS2FLOE5JVmFSbXF5ZjhZOE1TWWxzLXFPdmt6X2VpazJHOVJCcWF2TXdmdUNHZzdmNnkzTGM0TTJqX1g5WkF1Qjhp0gGaAUFVX3lxTE90ZU50YV8yQ1Z3VjVjVDM5Q3hjVEpFeHNTQmczMFI3Ymk0eUkzZHdidmhUWDBrZ0h3MnpNWUs2Rm9PWmRpRExkMXE0TXBsaC1vdDAtVDVXX0ZqX2dobWU4a1o2MkJpemN5REJ1MndoSUdJdEJZWDQ3QlFlTzByWUEzaWMza0hPX3ljZmUtZlZTNFhoQzliTkNLaEE?oc=5"
+      "hook": "Curiosidade rápida: 'GTA 6 remove mecânica polêmica da franquia após 25 anos; entenda' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTB1em9NeVduZkllcWpRbnpXRVpNVXNpbUpjMjdvVXg5b1BXanhVajRnSk04cDhwMHVhMFhmNTJRU0E5SHR2NnJ0dWtUN1FSRURaQ29NUl9XeG9jYVYzUmE0M3V3R2xnaUN2NUdxSHV1LUd1QzBuYUZ0dFV6V1Bldzk5UjNSVV9hNjl4RlF6VjItbnZZUlVCaUNSTlNBUGhOQ0FXYWxvN1VfbGxydlhaWFBkYTRQMjliVXhjMWdKUdIBzgFBVV95cUxOdEVOdURYMWFtS3NPYjhBZmV6NE4yMUhoalVNQ3JMSVdNZXY4R19JNjRmWDVFT2lMY2stTHpiQVVfaFVXR0ZMcEFpbGJxTXJsMjJ1ekVtUTVONy1ZZW5zV19qb1pLV0YwOHp4WHM0cVNKQ2J5XzZEbVVJaDFqY1RxWVA4QTVXT0laWVNxRzk0UjkxUlFKSzVNcTBkOWxTVnEzLW9vZ2VWV2I2LTQ3UExJb3NkSnFGb1VIc0RHSmxhYzRKWV9jQmFNLVhtYUh5UQ?oc=5"
     },
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T11:00:40+00:00",
+      "headline": "How CyberLeak Turned GTA 6 Into A Crypto Scam",
+      "desc": "Everyone assumed the CyberLeak hackers targeted Rockstar just to show off early GTA 6 gameplay to the world. But the entire ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('How CyberLeak Turned GTA 6 Into A Crypto Scam') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=3AVvtznvvcs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCRxomyX-D1ePtsZL6nTID4g",
       "outlier": true,
       "date": "31/08/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=lj5iBdb4ycQ"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCcmud-fRHG0E9Z2uuihOeYg",
-      "outlier": true,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T12:39:00+00:00",
-      "headline": "В GTA 6 нашли локацию из RDR 😳 | Pop news!",
-      "desc": "Vídeo em alta sobre GTA 6 (1263123 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('В GTA 6 нашли локацию из RDR 😳 | Pop news!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=pzaGX9-OAp8"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -565,6 +565,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCcmud-fRHG0E9Z2uuihOeYg",
+      "outlier": true,
+      "date": "28/08/2026",
+      "publishedAt": "2026-08-28T12:39:00+00:00",
+      "headline": "В GTA 6 нашли локацию из RDR 😳 | Pop news!",
+      "desc": "Vídeo em alta sobre GTA 6 (1263123 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('В GTA 6 нашли локацию из RDR 😳 | Pop news!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=pzaGX9-OAp8"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=BTfzszKgRKc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T19:00:18+00:00",
-      "headline": "Claim Your Extended Look OG Flair HERE!",
-      "desc": "For the next 24 hours only you can claim the Extended Look OG limited time flair designed by u/BCGeorge . Thanks so much, it's awesome! - https://preview.redd.it/4sd582gzrylh1.png?width=1280&format=png&auto=webp&s=928985ee40e051792ef8034772e8b8cb8db39550 - All you have to do to c",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Claim Your Extended Look OG Flair HERE!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1w031go/claim_your_extended_look_og_flair_here/"
     }
   ]
 }
