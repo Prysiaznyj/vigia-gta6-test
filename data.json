@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T03:22:46+00:00",
+  "updated": "2026-09-04T08:34:01+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -290,16 +305,31 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCXazgXDIYyWH-yXLAkcrFxw",
+      "videoType": "curto",
+      "channelId": "UCFZMLTd5mrCxwLsuTilYAiQ",
       "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T21:04:30+00:00",
-      "headline": "Esto es GTA VI (GAMEPLAY + EXCLUSIVA)",
-      "desc": "Like si la IGUANA ES REAL Mi otro canal: @elrubius Animación by @MenchoYTAN Mi Tienda: https://madkat.net/ Twitch: ...",
+      "date": "03/09/2026",
+      "publishedAt": "2026-09-03T12:42:33+00:00",
+      "headline": "POV: Jason When the Controller Dies (GTA 6) 💀 | #shorts #gta",
+      "desc": "grandtheftauto #gta #gta6 #shorts #gaming #pov #reels #funny #viral #memes.",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Esto es GTA VI (GAMEPLAY + EXCLUSIVA)') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=3nVF2EY_iHg"
+      "hook": "Mostra o clipe/post que tá bombando ('POV: Jason When the Controller Dies (GTA 6) 💀 | #shorts #gta') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=6bRf6nnjyUU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2vDShW1slAiTm9lkPWt-EQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T16:30:36+00:00",
+      "headline": "24h Comendo Com As Letras De Lucia Do GTA 6",
+      "desc": "Todo mundo muito hypado por causa do gta 6 no ps5 e xbox, então eu quis fazer um desafio com a Lucia, a grande protagonista ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('24h Comendo Com As Letras De Lucia Do GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=_1c6L9j9hIw"
     },
     {
       "cat": "viral",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 VS RDR 2 - Detail Comparison') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=RFYhMtf1ens"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCgk6w5geIeViruUQKaEpqwQ",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T13:58:20+00:00",
-      "headline": "GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes &amp; Water Pits #beamng",
-      "desc": "GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes & Water Pits #gta6 #lucia #beamng.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes &amp; Water Pits #beamng') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=UTYsk_FFqfs"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCGdPm5Aq081vVD7ih9jZf6Q",
-      "outlier": true,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T13:30:38+00:00",
-      "headline": "10 Years Hardwork WASTED in 10 Hours - GTA 6 Footage Leak - Rockstar Games #shorts",
-      "desc": "Rockstar Calls GTA 6 Gameplay Leaks “Heartbreaking” for Development Team Rockstar Games has responded to the recent leak ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: '10 Years Hardwork WASTED in 10 Hours - GTA 6 Footage Leak - Rockstar Games #shorts?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=WB5Zd8Qxzso"
     },
     {
       "cat": "lancamento",
@@ -580,6 +580,51 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCXazgXDIYyWH-yXLAkcrFxw",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T21:04:30+00:00",
+      "headline": "Esto es GTA VI (GAMEPLAY + EXCLUSIVA)",
+      "desc": "Like si la IGUANA ES REAL Mi otro canal: @elrubius Animación by @MenchoYTAN Mi Tienda: https://madkat.net/ Twitch: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Esto es GTA VI (GAMEPLAY + EXCLUSIVA)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=3nVF2EY_iHg"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCgk6w5geIeViruUQKaEpqwQ",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T13:58:20+00:00",
+      "headline": "GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes &amp; Water Pits #beamng",
+      "desc": "GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes & Water Pits #gta6 #lucia #beamng.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Lucia vs Mercedes of Different Sizes + Lava Spikes &amp; Water Pits #beamng') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=UTYsk_FFqfs"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCGdPm5Aq081vVD7ih9jZf6Q",
+      "outlier": true,
+      "date": "29/08/2026",
+      "publishedAt": "2026-08-29T13:30:38+00:00",
+      "headline": "10 Years Hardwork WASTED in 10 Hours - GTA 6 Footage Leak - Rockstar Games #shorts",
+      "desc": "Rockstar Calls GTA 6 Gameplay Leaks “Heartbreaking” for Development Team Rockstar Games has responded to the recent leak ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: '10 Years Hardwork WASTED in 10 Hours - GTA 6 Footage Leak - Rockstar Games #shorts?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=WB5Zd8Qxzso"
     },
     {
       "cat": "boatos",
@@ -850,51 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Rockstar&#39;s Terrifying GTA 6 Manhunt') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=YkfcGLtBtCE"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC6nnck7d4ejXNO2CZwJJxeA",
-      "outlier": true,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T15:40:13+00:00",
-      "headline": "El hacker de GTA 6 es atrapado por rockstar pero resultó ser un bromista 🤡🤔 #videojuegos #gamer",
-      "desc": "Vídeo em alta sobre GTA 6 (987182 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('El hacker de GTA 6 es atrapado por rockstar pero resultó ser un bromista 🤡🤔 #videojuegos #gamer') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=hqLKntHFG5U"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCu5GsoYfPniC64xNLHNF2rQ",
-      "outlier": true,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T23:26:25+00:00",
-      "headline": "CYBERLEEK TODAY LEAKED GTA 6 All Clips Full Videos Leaks Gameplay - No Commentary #gta6leaks",
-      "desc": "Vídeo em alta sobre GTA 6 (764488 views).",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'CYBERLEEK TODAY LEAKED GTA 6 All Clips Full Videos Leaks Gameplay - No Commentary #gta6leaks?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=hdDrx9fRAhI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC0IWRLai-BAwci_e9MylNGw",
-      "outlier": true,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T19:43:01+00:00",
-      "headline": "PREPPING FOR GTA 6 | NO PROMOTION",
-      "desc": "CarryMinati teams up with Techno Gamerz, known for his GTA 5 storytelling, and GamerFleet, one of Minecraft's biggest creators, ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('PREPPING FOR GTA 6 | NO PROMOTION') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=KzsStyJEDUw"
     }
   ]
 }
