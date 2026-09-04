@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T15:55:03+00:00",
+  "updated": "2026-09-04T18:52:32+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCZ8WxJH8WhG3S-88x9rZjGA",
+      "outlier": true,
+      "date": "02/09/2026",
+      "publishedAt": "2026-09-02T14:31:05+00:00",
+      "headline": "Bro really thought he was playing GTA 6 😭💀Real life now has cheat codes fr#viral #fyp #gta6 #ps5",
+      "desc": "Real life now has a PS5 controller Bro really thought he was playing GTA 6 in real life This has to be the most insane crash ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Bro really thought he was playing GTA 6 😭💀Real life now has cheat codes fr#viral #fyp #gta6 #ps5') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=pG2gwAEKlP0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCi1Tln5CFg1yExpz8djyxjA",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T22:17:05+00:00",
+      "headline": "RDR2 es más Realista en Algunos detalles que GTA 6 #gta #rdr2",
+      "desc": "Vídeo em alta sobre GTA 6 (2060667 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('RDR2 es más Realista en Algunos detalles que GTA 6 #gta #rdr2') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=05vICm8xQ3o"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
       "outlier": true,
       "date": "02/09/2026",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('O streamer da vida real que foi parar no GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=-AVih2RK2HY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCTbbJU7XIQcgt8llXTBlu6A",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T21:00:08+00:00",
-      "headline": "Please Rockstar fix this before GTA 6 release😭 Jason not steering wheel #gta6 #gta6leaks #rockstar",
-      "desc": "Vídeo em alta sobre GTA 6 (1782456 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Please Rockstar fix this before GTA 6 release😭 Jason not steering wheel #gta6 #gta6leaks #rockstar') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=tr2-5nhWlQU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T11:00:40+00:00",
-      "headline": "How CyberLeak Turned GTA 6 Into A Crypto Scam",
-      "desc": "Everyone assumed the CyberLeak hackers targeted Rockstar just to show off early GTA 6 gameplay to the world. But the entire ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('How CyberLeak Turned GTA 6 Into A Crypto Scam') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=3AVvtznvvcs"
     },
     {
       "cat": "lancamento",
@@ -580,6 +580,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCTbbJU7XIQcgt8llXTBlu6A",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T21:00:08+00:00",
+      "headline": "Please Rockstar fix this before GTA 6 release😭 Jason not steering wheel #gta6 #gta6leaks #rockstar",
+      "desc": "Vídeo em alta sobre GTA 6 (1782456 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Please Rockstar fix this before GTA 6 release😭 Jason not steering wheel #gta6 #gta6leaks #rockstar') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=tr2-5nhWlQU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T11:00:40+00:00",
+      "headline": "How CyberLeak Turned GTA 6 Into A Crypto Scam",
+      "desc": "Everyone assumed the CyberLeak hackers targeted Rockstar just to show off early GTA 6 gameplay to the world. But the entire ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('How CyberLeak Turned GTA 6 Into A Crypto Scam') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=3AVvtznvvcs"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('O GTA 6 CONTINUA SENDO VAZADO NA INTERNET! #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=3rafPdaJGYM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T12:00:08+00:00",
-      "headline": "Is CyberLeek Stupid? #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Is CyberLeek Stupid? #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=7msciYBeXeQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T23:40:11+00:00",
-      "headline": "GTA 6: Gameplay DETAILS WE FOUND",
-      "desc": "Rockstar has finally revealed gameplay for Grand Theft Auto 6, featuring car chases, romance, crime, and a detailed world.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Gameplay DETAILS WE FOUND') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=HQA7fxZ-_r0"
     }
   ]
 }
