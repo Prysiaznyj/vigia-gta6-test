@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T17:58:35+00:00",
+  "updated": "2026-09-05T21:58:06+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+      "outlier": true,
+      "date": "04/09/2026",
+      "publishedAt": "2026-09-04T04:36:50+00:00",
+      "headline": "Why isn’t GTA 6 launching on PC??",
+      "desc": "Why isn't GTA 6 launching on PC?? #carterpcs #tech #gaming.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Why isn’t GTA 6 launching on PC??') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=POgyH6cz8IM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCSsf39mzE-24xcgYhYgo2dw",
+      "outlier": true,
+      "date": "03/09/2026",
+      "publishedAt": "2026-09-03T14:22:50+00:00",
+      "headline": "Les Etoiles Police Dans GTA 6 !",
+      "desc": "Les Etoiles Police Dans GTA 6 !",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Les Etoiles Police Dans GTA 6 !') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=IhSpeIvIEfA"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
       "outlier": true,
       "date": "04/09/2026",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Makers Went Too Far?! 😱💀 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=nGk6ELvOW2M"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCjVmQP4XD2WqjYQWPIVMarA",
-      "outlier": true,
-      "date": "03/09/2026",
-      "publishedAt": "2026-09-03T19:42:40+00:00",
-      "headline": "Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller",
-      "desc": "Vídeo em alta sobre GTA 6 (920718 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Vz2_0FpgDwQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCp3Dx7dFeZgnNSenA---QHA",
-      "outlier": true,
-      "date": "02/09/2026",
-      "publishedAt": "2026-09-02T15:14:46+00:00",
-      "headline": "funniest real life isn&#39;t GTA moments #rankingshorts #funniestvideo #gta #gta6",
-      "desc": "ranking the top funniest \"Life isn't GTA\" moments which one deserves #1 Disclaimer: The videos on this channel are created ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('funniest real life isn&#39;t GTA moments #rankingshorts #funniestvideo #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Qafz2NBh96A"
     },
     {
       "cat": "lancamento",
@@ -595,6 +595,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCjVmQP4XD2WqjYQWPIVMarA",
+      "outlier": true,
+      "date": "03/09/2026",
+      "publishedAt": "2026-09-03T19:42:40+00:00",
+      "headline": "Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller",
+      "desc": "Vídeo em alta sobre GTA 6 (920718 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Vz2_0FpgDwQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCp3Dx7dFeZgnNSenA---QHA",
+      "outlier": true,
+      "date": "02/09/2026",
+      "publishedAt": "2026-09-02T15:14:46+00:00",
+      "headline": "funniest real life isn&#39;t GTA moments #rankingshorts #funniestvideo #gta #gta6",
+      "desc": "ranking the top funniest \"Life isn't GTA\" moments which one deserves #1 Disclaimer: The videos on this channel are created ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('funniest real life isn&#39;t GTA moments #rankingshorts #funniestvideo #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Qafz2NBh96A"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Thoughts on the GTA 6 Gameplay Reveal') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=b-If5Nq0log"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCQDVCHyeLuPu8icc53uurmQ",
-      "outlier": true,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T21:00:21+00:00",
-      "headline": "This Is Why GTA 6 Was Worth the 13 Year Wait #gta6 #gta #gtavi",
-      "desc": "If you like my videos Please subscribe.I appreciate all of you! SUBSCRIBE: https://www.youtube.com/c/TribbianiJoseph/videos ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('This Is Why GTA 6 Was Worth the 13 Year Wait #gta6 #gta #gtavi') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=7mbAoEUdcJ4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T10:23:38+00:00",
-      "headline": "GTA 6: Every New Gameplay Feature &amp; Mechanic YOU MISSED",
-      "desc": "0:00 – Intro 0:23 – What makes this breakdown different (Rob Nelson quotes/context) 0:59 – Opening mission & Booby Ike 1:17 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Every New Gameplay Feature &amp; Mechanic YOU MISSED') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=4Z_4yqWGRjQ"
     }
   ]
 }
