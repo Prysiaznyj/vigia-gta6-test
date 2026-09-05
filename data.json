@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T03:25:05+00:00",
+  "updated": "2026-09-05T08:08:43+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCTbbJU7XIQcgt8llXTBlu6A",
+      "outlier": true,
+      "date": "02/09/2026",
+      "publishedAt": "2026-09-02T18:20:30+00:00",
+      "headline": "Thank you Rockatar, now the game is literally Playable 😭🔥 #gta6 #gta6leaks #rockstar",
+      "desc": "Vídeo em alta sobre GTA 6 (691204 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Thank you Rockatar, now the game is literally Playable 😭🔥 #gta6 #gta6leaks #rockstar') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=gp_AqwB7jVs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
       "outlier": true,
       "date": "04/09/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('RDR2 es más Realista en Algunos detalles que GTA 6 #gta #rdr2') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=05vICm8xQ3o"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "02/09/2026",
-      "publishedAt": "2026-09-02T22:30:13+00:00",
-      "headline": "ABASTECER NO MEIO DA PERSEGUIÇÃO POLICIAL NO GTA 6 😂😂😂",
-      "desc": "Davy Jones confirma mecânica inovadora no GTA 6: Abastecer carros! #davyjones #ps5 #gta6 #gta #rockstar.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('ABASTECER NO MEIO DA PERSEGUIÇÃO POLICIAL NO GTA 6 😂😂😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=j4dV-Ga0EiQ"
     },
     {
       "cat": "lancamento",
@@ -595,6 +595,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "02/09/2026",
+      "publishedAt": "2026-09-02T22:30:13+00:00",
+      "headline": "ABASTECER NO MEIO DA PERSEGUIÇÃO POLICIAL NO GTA 6 😂😂😂",
+      "desc": "Davy Jones confirma mecânica inovadora no GTA 6: Abastecer carros! #davyjones #ps5 #gta6 #gta #rockstar.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('ABASTECER NO MEIO DA PERSEGUIÇÃO POLICIAL NO GTA 6 😂😂😂') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=j4dV-Ga0EiQ"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('😆!!! Rockstar y el detalle más realista del GTA 6 ¡¡¡😆 #gta #rockstar #gta6 #netflix #videojuegos') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=mACB5TBjvtw"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCcmud-fRHG0E9Z2uuihOeYg",
-      "outlier": true,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T12:39:00+00:00",
-      "headline": "В GTA 6 нашли локацию из RDR 😳 | Pop news!",
-      "desc": "Vídeo em alta sobre GTA 6 (1263123 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('В GTA 6 нашли локацию из RDR 😳 | Pop news!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=pzaGX9-OAp8"
     }
   ]
 }
