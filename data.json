@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-09T08:45:25+00:00",
+  "updated": "2026-09-09T16:05:35+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T13:11:47+00:00",
+      "headline": "Percebeu? GTA 6 confirma primeira conexão com GTA V em gameplay",
+      "desc": "Fonte: Estadão",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Percebeu? GTA 6 confirma primeira conexão com GTA V em gameplay' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWN6bkx1d01UWnNITHZIb0czX3JKeTVQZ0lybXFNY1RZc29rd2JXMjhhT2lXeVl6WVdOZFVLLXphZ1l2VGpNUl9BNjdlSHNDV1JJcmRxWTFpOGQ5bnhFOHV4S3dsQlV5cWNNU0s5N19ORmNOM1Zya19QNDlkTzlKVE1CME9TQmZxN2h4R1ZkR3drUlhGc3FwQXlCMXkyd2I1NTJocXYxeUVKWGlySlJoWlFSOEpTMWJ0Ym94MA?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'A BBC divulgou a duração do vídeo “Extended Look” do GTA 6 na Netflix, após a Rockstar ter confirmado que não haverá atraso' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVTFualBiTDBJRjhPcWVyRE1xSHJDX0JncUdMaUoyT1V2S2ZFN0JqWmRJWlhkNzVxQjFLNXlZeWNKemVJVlBjLWY0NjdpYnFtQjdmRzlVN3Y2UEQ3U21FZXVwMm11LU9VclU3LXV0dEJ5RWFfLUdFbnIzSl9XVDlGa3owMEpwSUJBUmtuV2IyRHUxeWVlekR4Ymd0WW1ZS1NnVkpRWFBHS3FTRGtGS1h6cnZlMk1OWGNKdXhQWk16bmVkN2wzZUJQc1ZYOEphTy1jYl9QWVhxSWk2SE5aQVlQTjYtclVOX3daTlF4Q1lDN1FhQXlSZmtEMTBB?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "20/08/2026",
-      "publishedAt": "2026-08-20T14:15:02+00:00",
-      "headline": "Novos vazamentos de GTA 6 surgem antes da revelação oficial da Rockstar",
-      "desc": "Fonte: Folha Vitória",
-      "signal": 4,
-      "hook": "Pergunta de abertura: 'Novos vazamentos de GTA 6 surgem antes da revelação oficial da Rockstar?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUW9HTGl4ZlFPQ1pZRUkxeGlUMll2b2NsX1VUWmRYNGxGdnZnMlVOVXNCaVlRZ1prTTBjOFptSTlCVVQ3V0hiLVJoYm01SW5scl9xbEZwVHFPUG1sVWxMeEF3dDBhQjF3QlVWYm1KcldQNDdfZEc1Wk53YnJnSHdzN1A1QTNrTGlCeElLT0VHandUTmhPcGhJRV92RXFqVXFQVi1kNmNBUS1xQ0NtSHRMOWxkeVU?oc=5"
     },
     {
       "cat": "viral",
