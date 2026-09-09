@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-08T22:25:27+00:00",
+  "updated": "2026-09-09T03:35:02+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T01:00:11+00:00",
+      "headline": "Jason e Lucia de GTA VI só serão um casal se o jogador investir na relação, confirma Rockstar",
+      "desc": "Fonte: Estadão",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Jason e Lucia de GTA VI só serão um casal se o jogador investir na relação, confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa2p5cndYWnluWGd0YmJUaFBFWkZpSXhDckljajRZazhWcDJHakJUQ0tkWkdhWXBJVlU2QWMwMHJxWUFOMkRJVFU5TzdWREN4V0NmSEd6amYxXzBOd3Y1Vm9hM2J4Z0FlSTFDcVhFc3o1c0JOajhtV2xzd3pBUVR2bWhhNVQtNEJFQmEtRDJFazVkWVVtWTFIa0h3a09uUG5tZ295dHc0enhDSXRUZkpsdGoyRDF6M2tFWXNKdFFoS3dYZnNfZzBfdE8tZmQ5ZEdTN3lnRWxiX0p3WExOYlYtM282UEc?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Pergunta de abertura: 'Novos vazamentos de GTA 6 surgem antes da revelação oficial da Rockstar?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUW9HTGl4ZlFPQ1pZRUkxeGlUMll2b2NsX1VUWmRYNGxGdnZnMlVOVXNCaVlRZ1prTTBjOFptSTlCVVQ3V0hiLVJoYm01SW5scl9xbEZwVHFPUG1sVWxMeEF3dDBhQjF3QlVWYm1KcldQNDdfZEc1Wk53YnJnSHdzN1A1QTNrTGlCeElLT0VHandUTmhPcGhJRV92RXFqVXFQVi1kNmNBUS1xQ0NtSHRMOWxkeVU?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T23:54:33+00:00",
-      "headline": "GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio",
-      "desc": "Fonte: GameVicio",
-      "signal": 4,
-      "hook": "Número na cara logo na primeira frase: 'GTA 6 Ultimate Edition por R$549,90 está liderando as pré-vendas, confirma Take-Two - GameVicio' — formato \"isso é muito ou pouco?\".",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHpGTDZNSDIyQ3JON2ZSWTAxMXlEZDllNFdiZE9kb1AwQVc1WXp2UU9xajkxdllCVzVwR0xrUktXYXpGbWZPR2tzYnp5Q3g0UUZXQnVrQ3dDLXdWd25laFZqSE1NMU85dHBFU2RIRDhOc3hjVWYyMjdCNHdTcHNCeTEyLXFUSE9oQWNiUNIBkgFBVV95cUxPTjlGbkQ5V1FLbWl1RGNxNlBadi1wM3FRNXpNU2Y3WWdpRTdNNWJValYwd3R0aDJVMnp0M3FrcmxmYi1nc0tBeUNEajRTdVM2ckxsVnFQdFUxSXZVNmZhS0w4QW1JZ0t0STJyZlVMUE5ndjdHNURTU0prbUx1RWwzLXhfRTI4RFRzX1YyS3dteThpZw?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UClCFtC7ir59eUWl_2LlCbYw",
+      "outlier": true,
+      "date": "07/09/2026",
+      "publishedAt": "2026-09-07T14:55:33+00:00",
+      "headline": "Is The ‘GTA-6’ BACKFLIP That Hard?🤷🏼",
+      "desc": "Vídeo em alta sobre GTA 6 (391837 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Is The ‘GTA-6’ BACKFLIP That Hard?🤷🏼') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=GYZTDi0ZVNQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCNcdPIcXl50_dPhd4Qe-VrA",
       "outlier": true,
       "date": "06/09/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Fake Fence vs GTA 6 Cops 😂🚔 #GTA6 #funny #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ung-imivdJ4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCEdb6xqsgCq9jNU0pVgOBdQ",
-      "outlier": true,
-      "date": "04/09/2026",
-      "publishedAt": "2026-09-04T22:06:57+00:00",
-      "headline": "NEW GTA 6 Details You Definitely Missed!",
-      "desc": "gaming.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('NEW GTA 6 Details You Definitely Missed!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=gncBn4uTap0"
     },
     {
       "cat": "lancamento",
@@ -610,6 +610,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCEdb6xqsgCq9jNU0pVgOBdQ",
+      "outlier": true,
+      "date": "04/09/2026",
+      "publishedAt": "2026-09-04T22:06:57+00:00",
+      "headline": "NEW GTA 6 Details You Definitely Missed!",
+      "desc": "gaming.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('NEW GTA 6 Details You Definitely Missed!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=gncBn4uTap0"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Makers Went Too Far?! 😱💀 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=nGk6ELvOW2M"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCjVmQP4XD2WqjYQWPIVMarA",
-      "outlier": true,
-      "date": "03/09/2026",
-      "publishedAt": "2026-09-03T19:42:40+00:00",
-      "headline": "Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller",
-      "desc": "Vídeo em alta sobre GTA 6 (920718 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Vz2_0FpgDwQ"
     }
   ]
 }
