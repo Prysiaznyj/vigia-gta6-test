@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T19:04:58+00:00",
+  "updated": "2026-09-10T22:19:10+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -156,6 +156,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "10/09/2026",
+      "publishedAt": "2026-09-10T20:10:29+00:00",
+      "headline": "GTA 6 Vazou a edição de colecionador, Gaveta reage a GTA 6 e controle especial",
+      "desc": "Livepix - https://livepix.gg/odavyjones PRÉ VENDA CONTROLE GTA VI PRETO https://link.amazon/B01pfsFo6 BRANCO ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Vazou a edição de colecionador, Gaveta reage a GTA 6 e controle especial') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=XpV9GnhhdaQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC6RBXQeIq7YSpHe9HIxAbPw",
+      "outlier": true,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T17:02:35+00:00",
+      "headline": "GTA 6’s UPDATED Community Map - EVERYTHING Changed",
+      "desc": "GTA 6's UPDATED Community Map – EVERYTHING Changed Donate to me here: https://streamlabs.com/datsaintsfan More of ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6’s UPDATED Community Map - EVERYTHING Changed') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=SXD9MzTzBy8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCn7xknPbWDjGQCzBLhtubiA",
       "outlier": true,
       "date": "09/09/2026",
@@ -270,36 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA VI: ¿Cómo puede verse ASÍ en una PS5?') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=zrmkmPl691E"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCC0WT0xvcSkTPZHH33CyIuw",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T23:42:37+00:00",
-      "headline": "Tengo MUCHAS preocupaciones sobre GTA 6",
-      "desc": "Título alternativo: \"YouTuber DESATADO Fantasea Sobre GTA 6 por 22 Minutos\". En este video El Último Círculo habla sobre sus ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Tengo MUCHAS preocupaciones sobre GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=WNtvA6hOEqQ"
     },
     {
       "cat": "viral",
@@ -450,6 +450,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6’s New Minimap Is Already Getting Criticized') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=qX0W_rbFyds"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -625,6 +640,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCC0WT0xvcSkTPZHH33CyIuw",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T23:42:37+00:00",
+      "headline": "Tengo MUCHAS preocupaciones sobre GTA 6",
+      "desc": "Título alternativo: \"YouTuber DESATADO Fantasea Sobre GTA 6 por 22 Minutos\". En este video El Último Círculo habla sobre sus ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Tengo MUCHAS preocupaciones sobre GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=WNtvA6hOEqQ"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Backflip Is Controlled By Players #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=PePLTefPBeM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCTbbJU7XIQcgt8llXTBlu6A",
-      "outlier": true,
-      "date": "02/09/2026",
-      "publishedAt": "2026-09-02T18:20:30+00:00",
-      "headline": "Thank you Rockatar, now the game is literally Playable 😭🔥 #gta6 #gta6leaks #rockstar",
-      "desc": "Vídeo em alta sobre GTA 6 (691204 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Thank you Rockatar, now the game is literally Playable 😭🔥 #gta6 #gta6leaks #rockstar') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=gp_AqwB7jVs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "04/09/2026",
-      "publishedAt": "2026-09-04T00:00:28+00:00",
-      "headline": "We Got New GTA 6 Screenshots! #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('We Got New GTA 6 Screenshots! #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=aiET7WC8_wA"
     }
   ]
 }
