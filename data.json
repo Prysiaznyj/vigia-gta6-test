@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:19:10+00:00",
+  "updated": "2026-09-11T03:30:48+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -156,21 +156,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "10/09/2026",
-      "publishedAt": "2026-09-10T20:10:29+00:00",
-      "headline": "GTA 6 Vazou a edição de colecionador, Gaveta reage a GTA 6 e controle especial",
-      "desc": "Livepix - https://livepix.gg/odavyjones PRÉ VENDA CONTROLE GTA VI PRETO https://link.amazon/B01pfsFo6 BRANCO ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Vazou a edição de colecionador, Gaveta reage a GTA 6 e controle especial') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=XpV9GnhhdaQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UC6RBXQeIq7YSpHe9HIxAbPw",
       "outlier": true,
       "date": "09/09/2026",
@@ -300,6 +285,36 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA VI: ¿Cómo puede verse ASÍ en una PS5?') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=zrmkmPl691E"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCzVXdulvpgEoI8yuFMmhxJw",
+      "outlier": true,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T13:18:22+00:00",
+      "headline": "GTA 6 BAD Features 😭",
+      "desc": "Vídeo em alta sobre GTA 6 (345559 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 BAD Features 😭') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=mi3fYmw9-HA"
     },
     {
       "cat": "viral",
@@ -435,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('FINNALY PARADE LGBT ADA DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Lh-zQRfzQEU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCz8SSubG8GjCL-ejKJmlV2g",
-      "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T21:53:16+00:00",
-      "headline": "GTA 6’s New Minimap Is Already Getting Criticized",
-      "desc": "Vídeo em alta sobre GTA 6 (1304728 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6’s New Minimap Is Already Getting Criticized') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=qX0W_rbFyds"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -640,6 +625,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCz8SSubG8GjCL-ejKJmlV2g",
+      "outlier": true,
+      "date": "05/09/2026",
+      "publishedAt": "2026-09-05T21:53:16+00:00",
+      "headline": "GTA 6’s New Minimap Is Already Getting Criticized",
+      "desc": "Vídeo em alta sobre GTA 6 (1304728 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6’s New Minimap Is Already Getting Criticized') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=qX0W_rbFyds"
     },
     {
       "cat": "viral",
