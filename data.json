@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-17T09:17:34+00:00",
+  "updated": "2026-09-17T16:27:30+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "17/09/2026",
+      "publishedAt": "2026-09-17T16:15:26+00:00",
+      "headline": "Rockstar anuncia o álbum oficial de GTA VI, com 34 músicas originais feitas para o game, e que chega junto com o game",
+      "desc": "Fonte: arkade.com.br",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Rockstar anuncia o álbum oficial de GTA VI, com 34 músicas originais feitas para o game, e que chega junto com o game' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2p3a0RIUnpxb1E3eEw3S084aE5FOE9ZNklnX1EwMW5KejNfajJGTTFKNTc4dEQyRWRnc2w5cDRHbGhnaTVLSXFpYzFIUWdHX21Tc1llYjNMQTdnbWZpZnhSWXpWZ0NoZFI3RGFlWHBjNGZhMVFXRGNLa0J4RDZlS0c0Q0lzNWxmU0VxZm1RWk14ZV9rTUo5aU1OLW5rSDBvTkNGRGhOdHRWcFJLUzNuUThjWjhoZFdwQkFXaVZ6cmdmZEE1VFkxTEpnYWl3dGZ2ZVZhOA?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "17/09/2026",
+      "publishedAt": "2026-09-17T13:23:08+00:00",
+      "headline": "GTA 6 ganha álbum oficial com 34 músicas inéditas; veja as primeiras faixas",
+      "desc": "Fonte: Rádio Itatiaia",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA 6 ganha álbum oficial com 34 músicas inéditas; veja as primeiras faixas' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORG5feDJiX1BYTjNZdnUtc3BPZjFaRTN4WHB1NFJ1dFhkQ2x0SHF3OEdiT2FUZE9DYWFVSEJINi1qTjJ0RTJ2dHpPNW4tX1JJV2s0Z05nQVlBWlpaNGdaSmIxR2pXbzRxVldDZ21Ka3NjR2NFQ2ROWk9WSkdkckNIN1hVMzVWZll6WmJiVzltU2pFeVBld1dJTHZQQkZSTmVhZ1dwSVI3MUhsRFZUSmc?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "17/09/2026",
+      "publishedAt": "2026-09-17T12:34:59+00:00",
+      "headline": "[ATUALIZADO] GTA 6 receberá álbum oficial com 34 músicas e edição em vinil",
+      "desc": "Fonte: Central Xbox",
+      "signal": 4,
+      "hook": "Curiosidade rápida: '[ATUALIZADO] GTA 6 receberá álbum oficial com 34 músicas e edição em vinil' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWxEOGRaTEVTTjZqRFNwMW4zZmYwUzR5LWJydDhYMlhlaTRhTGxVTTNPZWNyTG9wSk15OTk5NTRjUmw4RkRfZEpGa01VU2tlNzZVOF8yUlY3VFhJaVdQZnFRSndYNFd6SnVFSGJLYmpjRV9YQUR5d0w3X2tIa0k4czRrMDFSN1E2V1RYNWoyOVoyVm13T0lHd3hSQlZsN2M1cEx6dWlnMFEtcXc4dDA5TA?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -105,51 +150,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'GTA 6 | Primeiro dublador é confirmado no game; conheça' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTM0ZUhqS0JnZG1VS1VjWnlDN3AxSVFQQmdrMDl2X0pEeEhKVjRjaG9rUUE2cjl6YWx0VEd3WDhXaDRPVDZ6MUo5U2ZrSGZURmJpbEZSaFp1dEVOZXFRZFZRbUhteVpUVjRITUtFOTRLUzB5cHRiRS1wcDdlZFVmWExpNXd0eHF5dTNKQlBB?oc=5"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "09/09/2026",
-      "publishedAt": "2026-09-09T19:25:53+00:00",
-      "headline": "Horário de lançamento de GTA 6 é confirmado! Veja como jogar antes no Brasil",
-      "desc": "Fonte: Estadão",
-      "signal": 4,
-      "hook": "Abre direto com 'Horário de lançamento de GTA 6 é confirmado! Veja como jogar antes no Brasil' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjVhaDc3SlY5RzFycVN6YXpQR2M4Z1l2ZnBnRUYxQmFGSUstVk1fd000MVNtVWExcm9IM0lUay1GdVgzR0RqNWFyMWlHZV9ReWR0YmxidUJxeUY4QVR4Z1ZOanZhWHlxbGpyQS1idUJYbktRWXk2THBtSl8tX3BwTlZBMVJ3WEtzaUMwUmtRMmdqX2lxZk5RcGpwMHZ5TnNMUDRpdDh6bFR0V0xHdWdNY09PUTRhWTRhM2k5Y3c1Rl91Rlpm?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "09/09/2026",
-      "publishedAt": "2026-09-09T13:11:47+00:00",
-      "headline": "Percebeu? GTA 6 confirma primeira conexão com GTA V em gameplay",
-      "desc": "Fonte: Estadão",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Percebeu? GTA 6 confirma primeira conexão com GTA V em gameplay' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWN6bkx1d01UWnNITHZIb0czX3JKeTVQZ0lybXFNY1RZc29rd2JXMjhhT2lXeVl6WVdOZFVLLXphZ1l2VGpNUl9BNjdlSHNDV1JJcmRxWTFpOGQ5bnhFOHV4S3dsQlV5cWNNU0s5N19ORmNOM1Zya19QNDlkTzlKVE1CME9TQmZxN2h4R1ZkR3drUlhGc3FwQXlCMXkyd2I1NTJocXYxeUVKWGlySlJoWlFSOEpTMWJ0Ym94MA?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "09/09/2026",
-      "publishedAt": "2026-09-09T01:00:11+00:00",
-      "headline": "Jason e Lucia de GTA VI só serão um casal se o jogador investir na relação, confirma Rockstar",
-      "desc": "Fonte: Estadão",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Jason e Lucia de GTA VI só serão um casal se o jogador investir na relação, confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa2p5cndYWnluWGd0YmJUaFBFWkZpSXhDckljajRZazhWcDJHakJUQ0tkWkdhWXBJVlU2QWMwMHJxWUFOMkRJVFU5TzdWREN4V0NmSEd6amYxXzBOd3Y1Vm9hM2J4Z0FlSTFDcVhFc3o1c0JOajhtV2xzd3pBUVR2bWhhNVQtNEJFQmEtRDJFazVkWVVtWTFIa0h3a09uUG5tZ295dHc0enhDSXRUZkpsdGoyRDF6M2tFWXNKdFFoS3dYZnNfZzBfdE8tZmQ5ZEdTN3lnRWxiX0p3WExOYlYtM282UEc?oc=5"
     },
     {
       "cat": "viral",
@@ -302,6 +302,21 @@
       "url": "https://youtube.com/watch?v=u3yvQuFvRBI"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
+      "outlier": true,
+      "date": "16/09/2026",
+      "publishedAt": "2026-09-16T05:30:19+00:00",
+      "headline": "¿Cómo sería GTA 6 si lo hicieran otras Compañías? #gta #gta5 #gta6 #shorts",
+      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('¿Cómo sería GTA 6 si lo hicieran otras Compañías? #gta #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=CH4lInT2O9g"
+    },
+    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "youtube",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('CONTROLE DO GTA 6 TÁ CARO 😱😱😱') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=s3k77qcYF8Q"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "13/09/2026",
-      "publishedAt": "2026-09-13T11:00:37+00:00",
-      "headline": "Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=-hYcEKKEx4U"
     },
     {
       "cat": "lancamento",
@@ -640,6 +640,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "17/09/2026",
+      "publishedAt": "2026-09-17T12:32:58+00:00",
+      "headline": "GTA VI The Album Launching November 19th",
+      "desc": "Grand Theft Auto VI: The Album, a collection of 34 brand-new, original tracks from a genre-defying roster of the most exciting artists in the world, is available for pre-save now on all major music streaming services here . Six debut singles are available to listen to today: - Yu",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA VI The Album Launching November 19th') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1wisq9o/gta_vi_the_album_launching_november_19th/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "13/09/2026",
+      "publishedAt": "2026-09-13T11:00:37+00:00",
+      "headline": "Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=-hYcEKKEx4U"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Doors would be a bigger problem for Rockstar for GTA 6, Day 2 of #30days30gamedevinsights') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=rfLYOGJodN8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCf63l7Wp_wX7T-5ChM_Km9Q",
-      "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T08:00:23+00:00",
-      "headline": "Dus jij dacht dat GTA 6 jóuw game was?",
-      "desc": "Nog nooit was de hype rondom een game zó groot als bij GTA 6. Maar het rommelt in de game-wereld: spelers eisen structurele ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Dus jij dacht dat GTA 6 jóuw game was?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=WZj3-vwAPRE"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCtWY35eYO7jI9LnCRJxBGRQ",
-      "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T18:00:19+00:00",
-      "headline": "ЭТО ЛУЧШЕ GTA 6! ТАКОЙ ГРАФИКИ ВЫ НЕ ВИДЕЛИ! DLSS 5.0 в РОССИИ ОНЛАЙН! Я В ШОКЕ!",
-      "desc": "Начни играть на Россия Онлайн вместе со мной! Регистрируйся по промокоду BULKIN и начни свой старт с 50.000 рублей ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('ЭТО ЛУЧШЕ GTA 6! ТАКОЙ ГРАФИКИ ВЫ НЕ ВИДЕЛИ! DLSS 5.0 в РОССИИ ОНЛАЙН! Я В ШОКЕ!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=R8M2vO3U2hI"
     }
   ]
 }
