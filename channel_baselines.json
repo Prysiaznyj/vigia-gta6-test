@@ -515,9 +515,9 @@
     "calculadoEm": "2026-08-26T08:44:36+00:00"
   },
   "UCGCEcvPd1zbpjr00GXZuj9A": {
-    "medianViews": 100565,
+    "medianViews": 220381,
     "amostra": 15,
-    "calculadoEm": "2026-08-20T04:38:43+00:00"
+    "calculadoEm": "2026-09-17T22:42:50+00:00"
   },
   "UCXin0u5SrVEBjn5LhOoG97A": {
     "medianViews": 1047555,
@@ -795,9 +795,9 @@
     "calculadoEm": "2026-08-31T15:55:19+00:00"
   },
   "UCb0XWaQxh12XHy5_j_6jpCg": {
-    "medianViews": 395041,
+    "medianViews": 434769,
     "amostra": 15,
-    "calculadoEm": "2026-09-16T22:41:34+00:00"
+    "calculadoEm": "2026-09-17T22:42:49+00:00"
   },
   "UCQDVCHyeLuPu8icc53uurmQ": {
     "medianViews": 17916,
@@ -1215,19 +1215,19 @@
     "calculadoEm": "2026-09-15T09:15:46+00:00"
   },
   "UCsrWHWH8eHRjtWnY0TE3YNg": {
-    "medianViews": 260256,
+    "medianViews": 189398,
     "amostra": 15,
-    "calculadoEm": "2026-09-16T22:41:21+00:00"
+    "calculadoEm": "2026-09-17T22:42:37+00:00"
   },
   "UC181vPr4uyc8SqXnpZAJeZQ": {
-    "medianViews": 148854,
+    "medianViews": 155784,
     "amostra": 15,
-    "calculadoEm": "2026-09-16T22:41:20+00:00"
+    "calculadoEm": "2026-09-17T22:42:36+00:00"
   },
   "UCVWYcUxsxYh7oBk0_UHd90A": {
-    "medianViews": 6760,
+    "medianViews": 2057,
     "amostra": 15,
-    "calculadoEm": "2026-09-16T22:41:21+00:00"
+    "calculadoEm": "2026-09-17T22:42:37+00:00"
   },
   "UCtxpJ80NPJCvvAMjuhxGrdA": {
     "medianViews": 54709,
@@ -1240,9 +1240,9 @@
     "calculadoEm": "2026-09-17T16:27:21+00:00"
   },
   "UCJD5R47XWLmJ7nn18T2ZW4w": {
-    "medianViews": 564880,
+    "medianViews": 442989,
     "amostra": 15,
-    "calculadoEm": "2026-09-16T09:08:40+00:00"
+    "calculadoEm": "2026-09-17T22:42:50+00:00"
   },
   "UCmnXLf93mnMiC_UOI1eDQmg": {
     "medianViews": 35525,
@@ -1268,5 +1268,10 @@
     "medianViews": 54170,
     "amostra": 15,
     "calculadoEm": "2026-09-17T03:52:47+00:00"
+  },
+  "UCe4LM_eKc9ywRmVuBm5pjQg": {
+    "medianViews": 169669,
+    "amostra": 15,
+    "calculadoEm": "2026-09-17T22:42:49+00:00"
   }
 }
