@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T08:51:58+00:00",
+  "updated": "2026-09-18T16:00:16+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,8 +156,23 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
+      "outlier": true,
+      "date": "17/09/2026",
+      "publishedAt": "2026-09-17T12:00:22+00:00",
+      "headline": "Travis Scott – RHYNO (prod. by Guy-Manuel de Homem-Christo) (From Grand Theft Auto VI: The Album)",
+      "desc": "Listen to “RHYNO (prod. by Guy-Manuel de Homem-Christol)” by Travis Scott from 'Grand Theft Auto VI: The Album.' Featuring 34 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Travis Scott – RHYNO (prod. by Guy-Manuel de Homem-Christo) (From Grand Theft Auto VI: The Album)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=3Ev1PQEm7ns"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": false,
+      "outlier": true,
       "date": "18/09/2026",
       "publishedAt": "2026-09-18T04:03:55+00:00",
       "headline": "I Added GTA 6 Features to GTA 5",
@@ -290,16 +305,16 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "videoType": "curto",
+      "channelId": "UCa-CGirLOqXF1Kw2bgzQMsw",
       "outlier": true,
-      "date": "11/09/2026",
-      "publishedAt": "2026-09-11T03:34:12+00:00",
-      "headline": "I Made a GTA 6 Wishlist 7 Years Ago...",
-      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
+      "date": "15/09/2026",
+      "publishedAt": "2026-09-15T18:00:38+00:00",
+      "headline": "Esto fue lo que le Paso a la Única Copia de GTA 6 😱 @air_run",
+      "desc": "Vídeo em alta sobre GTA 6 (474285 views).",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('I Made a GTA 6 Wishlist 7 Years Ago...') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=_tBxgD89SR0"
+      "hook": "Mostra o clipe/post que tá bombando ('Esto fue lo que le Paso a la Única Copia de GTA 6 😱 @air_run') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Z0ev_DA5xhw"
     },
     {
       "cat": "viral",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Will Lucia Get Jealous Of Jason&#39;s Shoe Store Visits? - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=aG4rzIkFauo"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCmnXLf93mnMiC_UOI1eDQmg",
-      "outlier": true,
-      "date": "15/09/2026",
-      "publishedAt": "2026-09-15T10:00:20+00:00",
-      "headline": "Er wollte nicht auf GTA 6 warten 😂",
-      "desc": "shorts Er wollte nicht auf GTA 6 warten.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Er wollte nicht auf GTA 6 warten 😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=72olpj6EIGs"
     },
     {
       "cat": "lancamento",
@@ -640,6 +640,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "11/09/2026",
+      "publishedAt": "2026-09-11T03:34:12+00:00",
+      "headline": "I Made a GTA 6 Wishlist 7 Years Ago...",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('I Made a GTA 6 Wishlist 7 Years Ago...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=_tBxgD89SR0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCmnXLf93mnMiC_UOI1eDQmg",
+      "outlier": true,
+      "date": "15/09/2026",
+      "publishedAt": "2026-09-15T10:00:20+00:00",
+      "headline": "Er wollte nicht auf GTA 6 warten 😂",
+      "desc": "shorts Er wollte nicht auf GTA 6 warten.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Er wollte nicht auf GTA 6 warten 😂') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=72olpj6EIGs"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Easy Choice 😂😂😂 #gta6 #gta6memes') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=JFTH3FUMcXk"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "13/09/2026",
-      "publishedAt": "2026-09-13T00:00:35+00:00",
-      "headline": "Best Skin For The Worst Controller - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Best Skin For The Worst Controller - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=STMHU9210EA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCoCmiYSrkih6SMAHSSiMTHg",
-      "outlier": true,
-      "date": "13/09/2026",
-      "publishedAt": "2026-09-13T07:30:21+00:00",
-      "headline": "Bro, You Need An Eye Checkup 😭 #shorts #gta6",
-      "desc": "shorts #gta6 #memes #rockstargames.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Bro, You Need An Eye Checkup 😭 #shorts #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=UmH2T8_4zAo"
     }
   ]
 }
