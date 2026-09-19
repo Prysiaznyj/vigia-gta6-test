@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:38:43+00:00",
+  "updated": "2026-09-19T15:31:39+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -884,17 +884,17 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCRFSF9WS_g0wqm32kjJ-jNw",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
       "outlier": false,
-      "date": "18/09/2026",
-      "publishedAt": "2026-09-18T23:28:47+00:00",
-      "headline": "GTA 6 ALBUM RELEASING PHYSICALLY #shorts",
-      "desc": "W or L Rockstar?? #gta6 #ps5 #playstation #xboxseriesx #xbox #steam #gaming #skit #fyp #funny #shorts.",
+      "date": "19/09/2026",
+      "publishedAt": "2026-09-19T14:30:13+00:00",
+      "headline": "One of the writers on Grand Theft Auto VI: The Album has a very familiar name",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
       "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 ALBUM RELEASING PHYSICALLY #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=gqYsTp73IlU"
+      "hook": "Mostra o clipe/post que tá bombando ('One of the writers on Grand Theft Auto VI: The Album has a very familiar name') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1wknqfb/one_of_the_writers_on_grand_theft_auto_vi_the/"
     }
   ]
 }
