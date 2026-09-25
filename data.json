@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T16:45:59+00:00",
+  "updated": "2026-09-25T23:08:55+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCNOsqLNsdDPGHXb4ewz0_jw",
+      "outlier": true,
+      "date": "23/09/2026",
+      "publishedAt": "2026-09-23T16:15:10+00:00",
+      "headline": "🫨 В GTA 6 работает ДАЖЕ ЭТО?! #gta6 #gtaVI #shorts",
+      "desc": "В GTA 6 Rockstar проработала даже то, на что большинство игроков никогда не обратит внимания Датчик приближения ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('🫨 В GTA 6 работает ДАЖЕ ЭТО?! #gta6 #gtaVI #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=ElkUY5Jhzl0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCbrHGwrvxGjJoHIx4zUtiTg",
       "outlier": true,
       "date": "24/09/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 - Ep. 12 x Halo x Cyberpunk') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=akpE6c06Ki8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCDaM5npyBufSF9XF7XnDlsA",
-      "outlier": true,
-      "date": "21/09/2026",
-      "publishedAt": "2026-09-21T22:30:17+00:00",
-      "headline": "GTA 6 EM FAMÍLIA?? QUEM É O IMPOSTOR??",
-      "desc": "Aventuras Estranhas: A Noite Do Meteoro Garanta seu livro https://amzn.to/3aSd1qm #Shorts #Humor Salve, pessoal.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 EM FAMÍLIA?? QUEM É O IMPOSTOR??') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=n4Fp-MUxFjY"
     },
     {
       "cat": "lancamento",
@@ -705,6 +705,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCDaM5npyBufSF9XF7XnDlsA",
+      "outlier": true,
+      "date": "21/09/2026",
+      "publishedAt": "2026-09-21T22:30:17+00:00",
+      "headline": "GTA 6 EM FAMÍLIA?? QUEM É O IMPOSTOR??",
+      "desc": "Aventuras Estranhas: A Noite Do Meteoro Garanta seu livro https://amzn.to/3aSd1qm #Shorts #Humor Salve, pessoal.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 EM FAMÍLIA?? QUEM É O IMPOSTOR??') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=n4Fp-MUxFjY"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "longo",
       "channelId": "UCuM98BwdxBtyId7GtMmIDvw",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Worst Feeling Ever 😭 #ps5 #relatable #gta6 #gaming #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=eq43tvL81pY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC1YCNjgcdHV_fyamCr1Qrcw",
-      "outlier": true,
-      "date": "19/09/2026",
-      "publishedAt": "2026-09-19T15:46:42+00:00",
-      "headline": "DAVY JONES COMENTA SOBRE GTA6",
-      "desc": "Aprenda a animar: https://go.hotmart.com/H95824668E?dp=1 Patreon: https://www.patreon.com/cw/digonex Contato: ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('DAVY JONES COMENTA SOBRE GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=fk1ogNrYZJw"
     }
   ]
 }
