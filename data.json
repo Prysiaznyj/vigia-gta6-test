@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T22:27:11+00:00",
+  "updated": "2026-09-27T04:10:43+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,21 +156,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
-      "outlier": false,
-      "date": "26/09/2026",
-      "publishedAt": "2026-09-26T17:30:09+00:00",
-      "headline": "GTA 6 Collector&#39;s Edition is Pathetic",
-      "desc": "Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Collector&#39;s Edition is Pathetic') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=5Z7IZa-fGCc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UC5Pi8DHUItNgbGVhjh4kVgQ",
       "outlier": true,
       "date": "22/09/2026",
@@ -300,6 +285,36 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('TUDO QUE VOCÊ PRECISA SABER ANTES DE COMPRAR GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=0yhO15vKSRs"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC5jybIfS1lYg_zjyt7ujfyQ",
+      "outlier": true,
+      "date": "25/09/2026",
+      "publishedAt": "2026-09-25T19:45:21+00:00",
+      "headline": "Se ponen bellakos 💀… #videojuegos #rockstargames #gta5 #gta6 #rdr2",
+      "desc": "Vídeo em alta sobre GTA 6 (1070534 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Se ponen bellakos 💀… #videojuegos #rockstargames #gta5 #gta6 #rdr2') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=13Jf_eTiQtc"
     },
     {
       "cat": "viral",
@@ -435,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('There’s NO way😭 #gaming #gta6 #gamingnews #gta #skit') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=O6eB2I8bFPs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCX96eNmoKtO-mRwu0EJJmGA",
-      "outlier": true,
-      "date": "24/09/2026",
-      "publishedAt": "2026-09-24T19:58:12+00:00",
-      "headline": "GTA 6 is gonna break my PS5 😭 | #Marvel Television&#39;s #Loki (2021-2023) #edit",
-      "desc": "Yo do y'all even have cockroaches in you Playstations?? If so you gotta clean that ish out ABOUT LOKI (via Wikipedia) Loki ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 is gonna break my PS5 😭 | #Marvel Television&#39;s #Loki (2021-2023) #edit') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=MyLLINzq-zY"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -700,6 +685,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCX96eNmoKtO-mRwu0EJJmGA",
+      "outlier": true,
+      "date": "24/09/2026",
+      "publishedAt": "2026-09-24T19:58:12+00:00",
+      "headline": "GTA 6 is gonna break my PS5 😭 | #Marvel Television&#39;s #Loki (2021-2023) #edit",
+      "desc": "Yo do y'all even have cockroaches in you Playstations?? If so you gotta clean that ish out ABOUT LOKI (via Wikipedia) Loki ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 is gonna break my PS5 😭 | #Marvel Television&#39;s #Loki (2021-2023) #edit') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=MyLLINzq-zY"
     },
     {
       "cat": "viral",
