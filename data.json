@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-28T04:12:52+00:00",
+  "updated": "2026-09-28T16:32:17+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "28/09/2026",
+      "publishedAt": "2026-09-28T10:37:37+00:00",
+      "headline": "GTA 6: Estes são os 89 carros já confirmados no jogo",
+      "desc": "Fonte: Eurogamer.pt",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA 6: Estes são os 89 carros já confirmados no jogo' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGVoQ0FtWDRqZDNlajRtM012NG5oQ2FLWk84Zi0zaXoyR1dZVzJPOU1Mb0E1ZXFwVVBiSEcxRXZvTVl2LTlyWk5OX2VLRmd0SzRuRlhTYVdwMm9PR01kYkF0Y0FCaGF2czg5T2pqS0Y4Z2tseTUwWFJIQURKd1IwYnFR?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: '\"Estou muito feliz por estar envolvido\": primeiro grande membro do elenco confirma participação em GTA 6, aparentemente fugindo do roteiro da Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMVZrLURuX1RYN2ZSSHNhVGZVbm1VNkZ0YVQyT25HT05UVHU3NzdaeXZuUVVoOTBLOEozWlhsSHhsVnlFNGc0QnJfN2U1RjE1UVJtS0RXVDlyVWg3clNaUHYwY3kzb0NzMDJrOWhPNndUSnhOdmpUaE1ENW95eWl3b0ExakxZRUs1Z0pfVHVneG5SZ19hci1TUm1uaTRRdDZNNzBHTnhZMjlqY3RabEV1bjFwQ0lVeDRyYldQR2pNXzV5NVJaRXFRWm9jODR1dUw0aWxpTFIyc2hYNEVBemc?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/09/2026",
-      "publishedAt": "2026-09-14T14:50:05+00:00",
-      "headline": "GTA 6: Ator confirma participação e foge do roteiro de sigilo da Rockstar Games",
-      "desc": "Fonte: gamerpoint.com.br",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'GTA 6: Ator confirma participação e foge do roteiro de sigilo da Rockstar Games' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR29TRE9VYVdFMWJQa25qaVdTbC1iZTlGX0VSVTR0b1ZQUVh2Z2pyX3JVMnRIekJTYkI2bmxPZFg2ZjlJcl9RN0tvT25qLXNwWXktUlFWTWlWbnQ3SnEzazVFdmNmVW1JSE5mN2VXcm1WNEl5X1RiRU55aTdmTmsyT1JOeTJkVnlrMGtPNmdSWjFQcWI1TlVKTTFWQWwzSmM1Rkx1UTNvMk5hcmtZaUVCVmZLLUtWLVZVb0E?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UChWY3HddivlKeOLHEVyb1tw",
+      "outlier": true,
+      "date": "25/09/2026",
+      "publishedAt": "2026-09-25T17:56:46+00:00",
+      "headline": "The GTA 6 collectors edition is not good. IMO.",
+      "desc": "Vídeo em alta sobre GTA 6 (251204 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('The GTA 6 collectors edition is not good. IMO.') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=1EIGS9qzLhw"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCgwmbLePv-dEjiwz1xq3S7w",
       "outlier": true,
       "date": "26/09/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('MARANZA vs POLIZIA!😳 #gta #gta6 #viral #fyp') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=T6P1NCD1pHg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCDzBJChUhElaBLerwchwsZg",
-      "outlier": true,
-      "date": "24/09/2026",
-      "publishedAt": "2026-09-24T22:09:32+00:00",
-      "headline": "400€ por esto: GTA VI Collector&#39;s Edition #gta6 #gaming #coleccionista #illojuan",
-      "desc": "Ya es oficial la edición coleccionista de GTA VI y es una auténtica locura! Illojuan analiza al detalle todo el contenido de la caja, ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('400€ por esto: GTA VI Collector&#39;s Edition #gta6 #gaming #coleccionista #illojuan') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=mW2kbrKiaMM"
     },
     {
       "cat": "lancamento",
@@ -691,6 +691,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCDzBJChUhElaBLerwchwsZg",
+      "outlier": true,
+      "date": "24/09/2026",
+      "publishedAt": "2026-09-24T22:09:32+00:00",
+      "headline": "400€ por esto: GTA VI Collector&#39;s Edition #gta6 #gaming #coleccionista #illojuan",
+      "desc": "Ya es oficial la edición coleccionista de GTA VI y es una auténtica locura! Illojuan analiza al detalle todo el contenido de la caja, ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('400€ por esto: GTA VI Collector&#39;s Edition #gta6 #gaming #coleccionista #illojuan') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=mW2kbrKiaMM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCJrpAi71kO27XtIRjQneU2A",
       "outlier": true,
       "date": "24/09/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 EM FAMÍLIA?? QUEM É O IMPOSTOR??') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=n4Fp-MUxFjY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCuM98BwdxBtyId7GtMmIDvw",
-      "outlier": true,
-      "date": "25/09/2026",
-      "publishedAt": "2026-09-25T01:45:54+00:00",
-      "headline": "GTA 5 Live Parkour | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming #gta6",
-      "desc": "GTA 5 Live Parkour | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming #gta6 Welcome to MRRAJAPLAY LIVE – where ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 5 Live Parkour | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=nd42hTdlC1Y"
     }
   ]
 }
