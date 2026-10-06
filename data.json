@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T01:10:54+00:00",
+  "updated": "2026-10-06T11:04:22+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -302,6 +302,36 @@
       "url": "https://youtube.com/watch?v=z3bwDv-n7eY"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "05/10/2026",
+      "publishedAt": "2026-10-05T16:00:17+00:00",
+      "headline": "杰森怎么越狱的？！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森怎么越狱的？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=grYFjHRoSZo"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCqRFLkUkMrNbzokXqRxE_Ng",
+      "outlier": true,
+      "date": "03/10/2026",
+      "publishedAt": "2026-10-03T11:45:24+00:00",
+      "headline": "Trevor Heard “GTA 6” and Went Silent 💔",
+      "desc": "Trevor Heard “GTA 6” and Went Silent •Trevor Wasn't Ready for This | GTA 5 •“GTA 6 Chahiye…” Trevor's Reaction •They ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Trevor Heard “GTA 6” and Went Silent 💔') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=ygsaaUwki7M"
+    },
+    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "youtube",
@@ -345,21 +375,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('谁被关起来了？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=XND6YThe9cI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "04/10/2026",
-      "publishedAt": "2026-10-04T14:00:10+00:00",
-      "headline": "杰森得救了吗？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森得救了吗？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=U2PPxmnDnus"
     },
     {
       "cat": "viral",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Yo solo quería jugar al GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=XANQZXBLofg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
-      "outlier": true,
-      "date": "01/10/2026",
-      "publishedAt": "2026-10-01T11:00:25+00:00",
-      "headline": "KITA DAPAT GTA 5,5 SEBELUM GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #gta #gtav #nopixelv",
-      "desc": "Player PC nunda gta 6 dulu,main gta 5,5   Game: GTA V.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('KITA DAPAT GTA 5,5 SEBELUM GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #gta #gtav #nopixelv') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=6o8Z_JUGjeU"
     },
     {
       "cat": "lancamento",
@@ -720,6 +720,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
+      "outlier": true,
+      "date": "01/10/2026",
+      "publishedAt": "2026-10-01T11:00:25+00:00",
+      "headline": "KITA DAPAT GTA 5,5 SEBELUM GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #gta #gtav #nopixelv",
+      "desc": "Player PC nunda gta 6 dulu,main gta 5,5   Game: GTA V.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('KITA DAPAT GTA 5,5 SEBELUM GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #gta #gtav #nopixelv') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=6o8Z_JUGjeU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "longo",
       "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('&#39;VFX Artists Breakdown GTA 6&#39;s IMPOSSIBLE Graphics&#39; From Corridor Crew - Luke Reacts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=3xcpD2Oag_g"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCYBetkejPxK8t_41zueazcA",
-      "outlier": true,
-      "date": "20/09/2026",
-      "publishedAt": "2026-09-20T19:04:33+00:00",
-      "headline": "GTA 6 - ALL NEW INFO In 13 Minutes!",
-      "desc": "GTA 6 - EVERYTHING WE KNOW (IN 13 MINUTES) For more gta 6 videos subscribe Video Sources Dope Gameplays ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 - ALL NEW INFO In 13 Minutes!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Jq3n90n2hrc"
     }
   ]
 }
