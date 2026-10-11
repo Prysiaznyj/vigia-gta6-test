@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:44:32+00:00",
+  "updated": "2026-10-11T19:59:12+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "09/10/2026",
+      "publishedAt": "2026-10-09T19:00:05+00:00",
+      "headline": "Can You Skip Work For GTA 6? - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "I have a NEW Twitch Channel: DarkViperAU 24/7! https://www.twitch.tv/darkviperau247 Do you ever want to watch a random ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Can You Skip Work For GTA 6? - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=rNwE-LD2770"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCEuGmVYVw1hiYt8pJl7qvAw",
       "outlier": true,
       "date": "10/10/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Dein Sohn Spricht In GTA 6 Nie Mit Fremden 🎮 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Eez0GL4WyKI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
-      "outlier": true,
-      "date": "07/10/2026",
-      "publishedAt": "2026-10-07T23:00:27+00:00",
-      "headline": "BISA KETEMU HAL VIRAL DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav",
-      "desc": "Asik banget ini fitur Rockstar Game: POU.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('BISA KETEMU HAL VIRAL DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=4Sx0Yz4Ey_U"
     },
     {
       "cat": "lancamento",
@@ -720,6 +720,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
+      "outlier": true,
+      "date": "07/10/2026",
+      "publishedAt": "2026-10-07T23:00:27+00:00",
+      "headline": "BISA KETEMU HAL VIRAL DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav",
+      "desc": "Asik banget ini fitur Rockstar Game: POU.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('BISA KETEMU HAL VIRAL DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=4Sx0Yz4Ey_U"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "longo",
       "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('La PRIMERA MEGA RAMPA de GTA 6 🚗😱') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=YcXxC8KSY_4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
-      "outlier": true,
-      "date": "06/10/2026",
-      "publishedAt": "2026-10-06T07:18:55+00:00",
-      "headline": "Éramos demasiado jóvenes para entender a Trevor en GTA 5 #gta #gta5 #gta6 #shorts",
-      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Éramos demasiado jóvenes para entender a Trevor en GTA 5 #gta #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Dd1D1JMGIJ8"
     }
   ]
 }
