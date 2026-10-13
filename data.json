@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:59:40+00:00",
+  "updated": "2026-10-13T23:39:02+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWjBDbi02NWR3VHo3b3BpaHdaOUlLMjMzc2lzUjBfVzdLTUZVd05Na1JRU2xmMERBQmhiT05XX0x3Y3FFYzAxclBnR2Rjem5tOUkxTEo3T21tc1ZnSXpWVUdXRkl1R05tR2t2RWdXelg1aHdwRUdjMNIBfkFVX3lxTE12RlYxcUJmTFNQRnBfejRaTUdEQ2huVTBGMk91bXROeVBubUdzZTNMOEEzUlB1bmkzZmlLVU1SdlhBRDlzcmJ5Q2FnSlhQRzk5aW05WFpzODc2eW5PUUZGS0NMa1IxbHJoUlNVQzhHX3lxSmQzdkc0QWdLYlAzZw?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCqFxTO3kiOaKtDGoFt7HimQ",
+      "outlier": true,
+      "date": "12/10/2026",
+      "publishedAt": "2026-10-12T19:00:12+00:00",
+      "headline": "The World Isn&#39;t Ready For GTA 6",
+      "desc": "How GTA 6 will change the world, from 30 million people skipping work on launch day to Miami turning into Vice City. And my ...",
+      "signal": 5,
+      "hook": "Abre direto com 'The World Isn&#39;t Ready For GTA 6' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=UpNCw7eWOng"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -287,34 +302,34 @@
       "url": "https://youtube.com/watch?v=0VhNvKNUcuc"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "boatos",
+      "tagLabel": "Boatos",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "videoType": "curto",
+      "channelId": "UCTacW7OV5SFpRMoZxoK9HFg",
       "outlier": true,
-      "date": "04/10/2026",
-      "publishedAt": "2026-10-04T03:39:58+00:00",
-      "headline": "GTA 6 NEWS: Rockstar Isn&#39;t Censoring ANYTHING This Time...",
-      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg 00:00 GTA 6's PEGI 18 Rating 01:13 New Drug ...",
+      "date": "12/10/2026",
+      "publishedAt": "2026-10-12T16:15:31+00:00",
+      "headline": "GTA 6 Leaker VS. Rockstar Games 😳",
+      "desc": "Fan-made clip. Credits belong to the official Unsubscribe Podcast channel. Episode 283.",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 NEWS: Rockstar Isn&#39;t Censoring ANYTHING This Time...') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=WqKxCjL8OVs"
+      "hook": "Pergunta de abertura: 'GTA 6 Leaker VS. Rockstar Games 😳?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=oG_I-iwsZcs"
     },
     {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": false,
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T14:00:08+00:00",
-      "headline": "杰森为什么装傻？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "channelId": "UCN3tPtdDDeIeYXnWpcb3vDA",
+      "outlier": true,
+      "date": "11/10/2026",
+      "publishedAt": "2026-10-11T11:15:35+00:00",
+      "headline": "😨 ХАКЕР GTA 6 совсем АХУ*Л - НОВЫЙ СЛИВ С ЛЮСИЕЙ",
+      "desc": "Телеграм - https://t.me/okrestn TikTok -https://www.tiktok.com/@okrestnyy_yt ______ Разбираемся в последних интересных ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森为什么装傻？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=NIJ2NAQ91ug"
+      "hook": "Mostra o clipe/post que tá bombando ('😨 ХАКЕР GTA 6 совсем АХУ*Л - НОВЫЙ СЛИВ С ЛЮСИЕЙ') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=IJR-9UHZKOI"
     },
     {
       "cat": "viral",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'Cyberleek Returns, The Leaks Are Crazy... - Weekly Updates #gta6 #gtavi #gtaonline?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=BsahSi5JTok"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCjeGsPeeCvMfa_CK2pEwMkQ",
-      "outlier": true,
-      "date": "10/10/2026",
-      "publishedAt": "2026-10-10T04:24:18+00:00",
-      "headline": "출시 직전에 25분 또 털린 GTA 6ㄷㄷㄷ",
-      "desc": "출시 6주 앞둔 GTA 6 개발 빌드 25분 영상 유출 사건.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('출시 직전에 25분 또 털린 GTA 6ㄷㄷㄷ') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=MEmiD529xEs"
     },
     {
       "cat": "lancamento",
@@ -720,6 +720,36 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "04/10/2026",
+      "publishedAt": "2026-10-04T03:39:58+00:00",
+      "headline": "GTA 6 NEWS: Rockstar Isn&#39;t Censoring ANYTHING This Time...",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg 00:00 GTA 6's PEGI 18 Rating 01:13 New Drug ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 NEWS: Rockstar Isn&#39;t Censoring ANYTHING This Time...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=WqKxCjL8OVs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCjeGsPeeCvMfa_CK2pEwMkQ",
+      "outlier": true,
+      "date": "10/10/2026",
+      "publishedAt": "2026-10-10T04:24:18+00:00",
+      "headline": "출시 직전에 25분 또 털린 GTA 6ㄷㄷㄷ",
+      "desc": "출시 6주 앞둔 GTA 6 개발 빌드 25분 영상 유출 사건.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('출시 직전에 25분 또 털린 GTA 6ㄷㄷㄷ') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=MEmiD529xEs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "curto",
       "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
       "outlier": true,
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Dein Sohn Spricht In GTA 6 Nie Mit Fremden 🎮 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Eez0GL4WyKI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
-      "outlier": true,
-      "date": "07/10/2026",
-      "publishedAt": "2026-10-07T23:00:27+00:00",
-      "headline": "BISA KETEMU HAL VIRAL DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav",
-      "desc": "Asik banget ini fitur Rockstar Game: POU.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('BISA KETEMU HAL VIRAL DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=4Sx0Yz4Ey_U"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "outlier": true,
-      "date": "30/09/2026",
-      "publishedAt": "2026-09-30T12:00:36+00:00",
-      "headline": "GTA 6: Hurricane Heist and the Perfect Gameplay Loop | GTFM",
-      "desc": "Game Informer just revealed a 14-page GTA 6 cover story that details Grand Theft Auto 6's brand new weather system, expanded ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Hurricane Heist and the Perfect Gameplay Loop | GTFM') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=w-WjtpGeWDA"
     }
   ]
 }
