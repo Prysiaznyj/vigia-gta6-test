@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-13T11:29:16+00:00",
+  "updated": "2026-10-13T18:59:40+00:00",
   "items": [
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/10/2026",
+      "publishedAt": "2026-10-13T17:24:23+00:00",
+      "headline": "GTA 6 no PC no início de 2027, rumor da GamesBeat sem confirmação",
+      "desc": "Fonte: Pasquale Pillitteri",
+      "signal": 4,
+      "hook": "Pergunta de abertura: 'GTA 6 no PC no início de 2027, rumor da GamesBeat sem confirmação?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzB3YkM5c21GYXNoT3NScDBLcHVVLXNnSTRtQWxUNHlqSjVhdWpna1R4c0N1aVhYVGk3cm96c1NKZllTb0J6RHNLczltTWcybEZIN1JlSllCWjVNYjFwUFRkZWZvWXJiY0JjQ0RvYngzRGo0NGRhRm5PeGExc0dnTGQ1eTRENjZFbHVlWVBwdVFVZG8?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'GTA VI tem classificação indicativa confirmada' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWjBDbi02NWR3VHo3b3BpaHdaOUlLMjMzc2lzUjBfVzdLTUZVd05Na1JRU2xmMERBQmhiT05XX0x3Y3FFYzAxclBnR2Rjem5tOUkxTEo3T21tc1ZnSXpWVUdXRkl1R05tR2t2RWdXelg1aHdwRUdjMNIBfkFVX3lxTE12RlYxcUJmTFNQRnBfejRaTUdEQ2huVTBGMk91bXROeVBubUdzZTNMOEEzUlB1bmkzZmlLVU1SdlhBRDlzcmJ5Q2FnSlhQRzk5aW05WFpzODc2eW5PUUZGS0NMa1IxbHJoUlNVQzhHX3lxSmQzdkc0QWdLYlAzZw?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "01/10/2026",
-      "publishedAt": "2026-10-01T09:24:43+00:00",
-      "headline": "Modder de GTA 5 provoca Rockstar com versão não oficial para Switch e recebe uma notificação da Take-Two",
-      "desc": "Fonte: IGN Brasil",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Modder de GTA 5 provoca Rockstar com versão não oficial para Switch e recebe uma notificação da Take-Two' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUFRLdVZleWVMM0hOUHB0U1hLQ2p0dnQyejRXS3ZUZDFud0RjS2hadHByUmVtMVJESlpqOEVpWE1VQ1FDZFRIM2pSdUlmYktQd3FBTlBJNXh1YjJlNGtVanh5Sldkcmk1UEVDemIyMlhaZ0tRSHhDbXZYcUw4dGFaMzQ0dlJuS1VFa3prY0Iwai1ibnpiaDNMMWNJSm5YbTlxSzZ3dXg3cFA3M0NyNnFGbEttTlBueTRyVWJQZjZ1RE9PZG1QNEM4cng1UDRQN2dHLWVNYWdja1J0SnpFLVE?oc=5"
     },
     {
       "cat": "viral",
@@ -307,6 +307,36 @@
       "source": "youtube",
       "videoType": "curto",
       "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": false,
+      "date": "13/10/2026",
+      "publishedAt": "2026-10-13T14:00:08+00:00",
+      "headline": "杰森为什么装傻？！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森为什么装傻？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=NIJ2NAQ91ug"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCXyWOyppwv9Gpyg2ZrveFvQ",
+      "outlier": true,
+      "date": "11/10/2026",
+      "publishedAt": "2026-10-11T19:50:33+00:00",
+      "headline": "What It Takes to Play GTA… Then vs Now #gta5 #gta6 #gta",
+      "desc": "What It Takes to Play GTA… Then vs Now #gta #gta5 #gta6 Same gamer. Different eras. One question: “What do I need to play ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('What It Takes to Play GTA… Then vs Now #gta5 #gta6 #gta') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Lcjra-seZvk"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
       "outlier": true,
       "date": "12/10/2026",
       "publishedAt": "2026-10-12T16:00:35+00:00",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('출시 직전에 25분 또 털린 GTA 6ㄷㄷㄷ') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=MEmiD529xEs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "09/10/2026",
-      "publishedAt": "2026-10-09T19:00:05+00:00",
-      "headline": "Can You Skip Work For GTA 6? - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "I have a NEW Twitch Channel: DarkViperAU 24/7! https://www.twitch.tv/darkviperau247 Do you ever want to watch a random ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Can You Skip Work For GTA 6? - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=rNwE-LD2770"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCEuGmVYVw1hiYt8pJl7qvAw",
-      "outlier": true,
-      "date": "10/10/2026",
-      "publishedAt": "2026-10-10T15:26:17+00:00",
-      "headline": "GTA 6 Gameplay: Spiderman vs Venom | Match 4 🤣 #gaming",
-      "desc": "Spider-Man vs Venom in GTA 6! 🕷️   Get ready for an epic superhero showdown packed with funny moments, crazy action, and ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Gameplay: Spiderman vs Venom | Match 4 🤣 #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=tHoN4uQyOms"
     },
     {
       "cat": "lancamento",
@@ -717,6 +717,36 @@
       "url": null
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "09/10/2026",
+      "publishedAt": "2026-10-09T19:00:05+00:00",
+      "headline": "Can You Skip Work For GTA 6? - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "I have a NEW Twitch Channel: DarkViperAU 24/7! https://www.twitch.tv/darkviperau247 Do you ever want to watch a random ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Can You Skip Work For GTA 6? - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=rNwE-LD2770"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCEuGmVYVw1hiYt8pJl7qvAw",
+      "outlier": true,
+      "date": "10/10/2026",
+      "publishedAt": "2026-10-10T15:26:17+00:00",
+      "headline": "GTA 6 Gameplay: Spiderman vs Venom | Match 4 🤣 #gaming",
+      "desc": "Spider-Man vs Venom in GTA 6! 🕷️   Get ready for an epic superhero showdown packed with funny moments, crazy action, and ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Gameplay: Spiderman vs Venom | Match 4 🤣 #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=tHoN4uQyOms"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Hurricane Heist and the Perfect Gameplay Loop | GTFM') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=w-WjtpGeWDA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCoCmiYSrkih6SMAHSSiMTHg",
-      "outlier": true,
-      "date": "07/10/2026",
-      "publishedAt": "2026-10-07T10:30:21+00:00",
-      "headline": "Is GTA 6 Animation Actually Better? #shorts #gta6",
-      "desc": "shorts #gta6 #memes #rockstargames.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Is GTA 6 Animation Actually Better? #shorts #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=6dkfppu_p64"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "08/10/2026",
-      "publishedAt": "2026-10-08T11:00:18+00:00",
-      "headline": "Game Development Is Going Nuts - Weekly Updates #gta5 #gta6 #gtaonline",
-      "desc": "I have a NEW Twitch Channel: DarkViperAU 24/7! https://www.twitch.tv/darkviperau247 Do you ever want to watch a random ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Game Development Is Going Nuts - Weekly Updates #gta5 #gta6 #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=oSUP_iEGN4s"
     }
   ]
 }
