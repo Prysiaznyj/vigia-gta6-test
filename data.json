@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:14:22+00:00",
+  "updated": "2026-10-16T22:38:32+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCu_9Ypm6npz5QiQOO7j2ffw",
+      "outlier": true,
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T04:24:35+00:00",
+      "headline": "😱 Does GTA 5’s Police REALLY Go to GTA 6? 👮🤯",
+      "desc": "Does GTA 5's Police REALLY Go to GTA 6? Is this a real Rockstar Games secret or just a gaming myth? Watch till the end to ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('😱 Does GTA 5’s Police REALLY Go to GTA 6? 👮🤯') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=lzzgVYHV-mQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC2xFKdG6sG0C68mP11wMbng",
       "outlier": true,
       "date": "15/10/2026",
@@ -405,21 +420,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'Will There Be A GTA 6 Build Leak? - Weekly Updates #gta6 #gtavi #gtaonline?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=O-w8YQZOyeU"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "outlier": true,
-      "date": "12/10/2026",
-      "publishedAt": "2026-10-12T06:35:56+00:00",
-      "headline": "The GTA 6 leaker is STILL posting..",
-      "desc": "The GTA 6 leaker is STILL posting.. #carterpcs #tech #gaming.",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'The GTA 6 leaker is STILL posting..?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=te3oi5FxYyA"
     },
     {
       "cat": "boatos",
