@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-18T03:30:13+00:00",
+  "updated": "2026-10-18T08:39:50+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "18/10/2026",
+      "publishedAt": "2026-10-18T08:13:32+00:00",
+      "headline": "5 carros clássicos já confirmados que você vai querer pilotar em GTA 6",
+      "desc": "Análises dos trailers revelam modelos clássicos icônicos retornando repaginados com a física da nova geração.",
+      "signal": 4,
+      "hook": "Se você curte acelerar clássicos, esses cinco carros confirmados em GTA 6 vão te deixar maluco.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWExRzd5MklPWWRjc2tva0VEdUZtLW9DcjFxRDdZNE9NaEpucEFCWEN5S0tsSmtXN2NmUDljZE9oQ0E2NEJiTlJxa09GVWpmTjdsZVhZRWtTcmxESnduQ1l0Ml8tWS1DSnNxYUhNazY5R0ZWZGZfaFh1RFc4MjQ4dzNndkdyMzRfZkJLWHNkMUlWa1pPQzQzQ1FIUmc2QVFiVUkzNDg0QTU2Zw?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -137,21 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1ZFRi00YWFwaDVjaDU5eXVPbEJkVnJNbFlXMDVBeUltRFJScUJ3TlVZV1l1T1lva0toY2VnZXJqYVo2VVFKUi1fZUxDZV80VzQ4SldSeHN6R1RTYVhWMVQxek50bWVmVzlHYkVKWUplSlB2NklobFBwUXZEQlhVenFKNkNLVkRCaFlELXhTS1RZRXJvWEU5a3pobmtXd0piTy10NXVSYld0aGlfWERJMld5dGc?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "05/10/2026",
-      "publishedAt": "2026-10-05T22:38:37+00:00",
-      "headline": "Rockstar confirma o tamanho do mapa ‘GTA 6’; confira",
-      "desc": "Fonte: Rolling Stone Brasil",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Rockstar confirma o tamanho do mapa ‘GTA 6’; confira' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkFyYXBwWGd4X3BhYWZCa0lWQ1BTTW1RQUNJaS1LVWVyMjhoMGlGcEowX2JQWE9IZ0xlcFBobzBoUFV1RkREQ000Ym5jQ3I1RmNEaHlzTXp0ZkVsUlZRNXFJd0RJVUlqNVM3VmoyMUU2VkkxcTRSYU9JWGNteXFNSEM2TTAweUtieDJxc3Zpa2JqUQ?oc=5"
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -285,6 +285,21 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'GTA 6&#39;S BIGGEST LEAK EVER JUST HAPPENED...?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=hma6VytnSA0"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "viral",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('When Everyone Quit ROBLOX For GTA 6... #steak #edit #caylus') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=wMeu0FY7OzU"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "vendas",
