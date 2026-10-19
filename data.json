@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:17:23+00:00",
+  "updated": "2026-10-19T03:40:37+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "18/10/2026",
+      "publishedAt": "2026-10-18T15:00:17+00:00",
+      "headline": "杰森和露西亚的配合！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森和露西亚的配合！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=IBbNHdXDOxc"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
       "outlier": true,
       "date": "18/10/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森救下他们了吗？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=q62n1Jtu74k"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCs_K2D1NWhhOtbEPpfifBqw",
-      "outlier": true,
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T14:15:43+00:00",
-      "headline": "『グランド・セフト・オートVI』ローンチトレーラー",
-      "desc": "アメリカ、バイスシティ。 ジェイソンとルシアは、自分たちの人生には常に向かい風が吹いていることを自覚していた。しかし、 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('『グランド・セフト・オートVI』ローンチトレーラー') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=MNPmV5nWvC4"
     },
     {
       "cat": "lancamento",
@@ -736,6 +736,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCs_K2D1NWhhOtbEPpfifBqw",
+      "outlier": true,
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T14:15:43+00:00",
+      "headline": "『グランド・セフト・オートVI』ローンチトレーラー",
+      "desc": "アメリカ、バイスシティ。 ジェイソンとルシアは、自分たちの人生には常に向かい風が吹いていることを自覚していた。しかし、 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('『グランド・セフト・オートVI』ローンチトレーラー') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=MNPmV5nWvC4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCu_9Ypm6npz5QiQOO7j2ffw",
       "outlier": true,
       "date": "15/10/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'GTA 6 Leaker VS. Rockstar Games 😳?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=oG_I-iwsZcs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCN3tPtdDDeIeYXnWpcb3vDA",
-      "outlier": true,
-      "date": "11/10/2026",
-      "publishedAt": "2026-10-11T11:15:35+00:00",
-      "headline": "😨 ХАКЕР GTA 6 совсем АХУ*Л - НОВЫЙ СЛИВ С ЛЮСИЕЙ",
-      "desc": "Телеграм - https://t.me/okrestn TikTok -https://www.tiktok.com/@okrestnyy_yt ______ Разбираемся в последних интересных ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('😨 ХАКЕР GTA 6 совсем АХУ*Л - НОВЫЙ СЛИВ С ЛЮСИЕЙ') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=IJR-9UHZKOI"
     }
   ]
 }
