@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T03:47:11+00:00",
+  "updated": "2026-10-23T09:09:51+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -300,6 +300,21 @@
       "signal": 5,
       "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
+      "outlier": true,
+      "date": "22/10/2026",
+      "publishedAt": "2026-10-22T00:00:46+00:00",
+      "headline": "GTA 5 vs GTA 6: Driving Over a Bush 🌳",
+      "desc": "Vídeo em alta sobre GTA 6 (981308 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 5 vs GTA 6: Driving Over a Bush 🌳') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=thH5-Qf0oMw"
     },
     {
       "cat": "viral",
@@ -874,27 +889,12 @@
       "channelId": null,
       "outlier": false,
       "date": "23/10/2026",
-      "publishedAt": "2026-10-23T02:20:50+00:00",
-      "headline": "Favorite memory/theory in the last few years on this Reddit?",
-      "desc": "One month feels like a dream,we have seen it all in this sub Reddit. I don’t think this app has ever had a community like the one that was built here. We’ve all suffered, cried , shed blood and celebrated when that extended look was announced we have all grown so much. With that",
+      "publishedAt": "2026-10-23T08:25:27+00:00",
+      "headline": "GTA vi release schedule in a nutshell;",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
       "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Favorite memory/theory in the last few years on this Reddit?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xd1t26/favorite_memorytheory_in_the_last_few_years_on/"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "22/10/2026",
-      "publishedAt": "2026-10-22T23:15:35+00:00",
-      "headline": "Has GTA ever had a flashback mission?",
-      "desc": "One of the theories from the launch trailer is that this shot is a flashback from Jason's military past. But has GTA, or even Red Dead Redemption, ever had a flashback mission? I'm not counting the opening mission from GTA 5 because I don't think that mission can be considered a",
-      "signal": 4,
-      "hook": "Abre direto com 'Has GTA ever had a flashback mission?' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xcxvmb/has_gta_ever_had_a_flashback_mission/"
+      "hook": "Mostra o clipe/post que tá bombando ('GTA vi release schedule in a nutshell;') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xd8bpa/gta_vi_release_schedule_in_a_nutshell/"
     }
   ]
 }
