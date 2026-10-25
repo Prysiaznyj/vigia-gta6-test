@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:46:03+00:00",
+  "updated": "2026-10-25T22:22:16+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Lançamento",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC6C1dyHHOMVIBAze8dWfqCw",
+      "outlier": true,
+      "date": "23/10/2026",
+      "publishedAt": "2026-10-23T15:24:39+00:00",
+      "headline": "Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!",
+      "desc": "Spiele für Steam, Uplay und Co. jetzt digital bei Gamesplanet.com kaufen: http://bit.ly/2of1MR0 (WERBUNG*) Der Launch Trailer ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=d_2mHTSaYRs"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCXa_bzvv7Oo1glaW9FldDhQ",
       "outlier": true,
       "date": "20/10/2026",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=hma6VytnSA0"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "videoType": "curto",
+      "channelId": "UCcrpxUHX7Z0ezQL96mSPD6g",
       "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "date": "24/10/2026",
+      "publishedAt": "2026-10-24T09:18:35+00:00",
+      "headline": "😭 Trevor Crying Over GTA 5 Posters 💔 GTA 6 #trading#viral#viral#short",
+      "desc": "Trevor Cries as People Tear Down GTA 5 Posters! | GTA 5 vs GTA 6 Trevor Philips is heartbroken when he sees people tearing ...",
       "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
+      "hook": "Mostra o clipe/post que tá bombando ('😭 Trevor Crying Over GTA 5 Posters 💔 GTA 6 #trading#viral#viral#short') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=tpOqtW9VIPU"
     },
     {
       "cat": "viral",
@@ -437,19 +452,19 @@
       "url": "https://youtube.com/watch?v=F7qfmMj4XEo"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
       "outlier": true,
-      "date": "23/10/2026",
-      "publishedAt": "2026-10-23T17:00:37+00:00",
-      "headline": "杰森和汤米的爱恨情仇！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森和汤米的爱恨情仇！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Pp7bGmeVtWs"
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -723,6 +738,21 @@
       "videoType": "curto",
       "channelId": "UC2xFKdG6sG0C68mP11wMbng",
       "outlier": true,
+      "date": "23/10/2026",
+      "publishedAt": "2026-10-23T17:00:37+00:00",
+      "headline": "杰森和汤米的爱恨情仇！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森和汤米的爱恨情仇！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Pp7bGmeVtWs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
       "date": "22/10/2026",
       "publishedAt": "2026-10-22T16:00:06+00:00",
       "headline": "他们看见了什么？！#gta #gta6#shorts",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('他们看到什么了#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=5tMK1WMU3u0"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
-      "outlier": true,
-      "date": "21/10/2026",
-      "publishedAt": "2026-10-21T12:00:15+00:00",
-      "headline": "露西娅变成什么了#GTA #GTA6",
-      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('露西娅变成什么了#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=1TSAUK2MqPM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCLlYA9UQwHKnri33vPQpuMw",
-      "outlier": true,
-      "date": "21/10/2026",
-      "publishedAt": "2026-10-21T04:41:16+00:00",
-      "headline": "Do GTA 5 Planes Go To GTA 6 ?",
-      "desc": "Vídeo em alta sobre GTA 6 (2864650 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Do GTA 5 Planes Go To GTA 6 ?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=n3Q2R14vf2w"
     }
   ]
 }
