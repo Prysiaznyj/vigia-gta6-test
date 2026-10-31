@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:46:37+00:00",
+  "updated": "2026-10-31T23:09:19+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "outlier": true,
+      "date": "31/10/2026",
+      "publishedAt": "2026-10-31T13:00:37+00:00",
+      "headline": "露西娅和杰森争锋相对。#GTA #GTA6",
+      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('露西娅和杰森争锋相对。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Tjwm1TC7dik"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCEC6HIEokfzYFOyf05chauA",
       "outlier": true,
       "date": "30/10/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森被识破了。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=0--uUKKoNrM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
-      "outlier": true,
-      "date": "29/10/2026",
-      "publishedAt": "2026-10-29T11:00:18+00:00",
-      "headline": "他们为什么会这么害怕？#GTA #GTA6",
-      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('他们为什么会这么害怕？#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=YPBqrkfGSUs"
     },
     {
       "cat": "lancamento",
@@ -736,6 +736,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "outlier": true,
+      "date": "29/10/2026",
+      "publishedAt": "2026-10-29T11:00:18+00:00",
+      "headline": "他们为什么会这么害怕？#GTA #GTA6",
+      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('他们为什么会这么害怕？#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=YPBqrkfGSUs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCmYs3NUBSDzfX33rOi-hghg",
       "outlier": true,
       "date": "28/10/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('露西娅是谁？#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Auh-fbCO-q8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UChH6wz2JZr_nPgRBZwpmnbg",
-      "outlier": true,
-      "date": "24/10/2026",
-      "publishedAt": "2026-10-24T19:00:00+00:00",
-      "headline": "有点意思！！！#shorts #GTA #GTA6 #Funny",
-      "desc": "欢迎来到侠盗小队GTA Squad！ 这里是一个充满疯狂冒险、刺激挑战、爆笑瞬间和精彩反转的世界！ ❤️ 甜蜜爱情、珍贵友情与 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('有点意思！！！#shorts #GTA #GTA6 #Funny') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=PF18f06rjQo"
     }
   ]
 }
