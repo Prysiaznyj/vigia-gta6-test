@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T05:04:42+00:00",
+  "updated": "2026-11-09T18:29:24+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCiLheImv1DkPWvua5UBk0Ig",
+      "outlier": true,
+      "date": "07/11/2026",
+      "publishedAt": "2026-11-07T12:19:00+00:00",
+      "headline": "Finally Mom Bought Us PS5 For GTA 6 🤩",
+      "desc": "Finally Mom Bought Us PS5 For GTA 6 #gta6 #ps5 #gtavi GTA 6, GTA VI, GTA 6 India, GTA 6 Hindi, PS5, PlayStation 5, buying ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Finally Mom Bought Us PS5 For GTA 6 🤩') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=SmZOt1SbtIg"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCDI3E07f-OTKNYYm_KUgVOg",
       "outlier": true,
       "date": "08/11/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('不要随便欺负他人。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=oqpXq8dgUxM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
-      "outlier": true,
-      "date": "04/11/2026",
-      "publishedAt": "2026-11-04T12:00:21+00:00",
-      "headline": "杰森和露西娅联合作战。#GTA #GTA6",
-      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森和露西娅联合作战。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=EWQUiavwPk0"
     },
     {
       "cat": "lancamento",
@@ -749,6 +749,36 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "09/11/2026",
+      "publishedAt": "2026-11-09T16:04:50+00:00",
+      "headline": "[Countdown] GTA VI Release Begins",
+      "desc": "This post contains content not supported on old Reddit. Click here to view the full post",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('[Countdown] GTA VI Release Begins') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xrvkxj/countdown_gta_vi_release_begins/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "outlier": true,
+      "date": "04/11/2026",
+      "publishedAt": "2026-11-04T12:00:21+00:00",
+      "headline": "杰森和露西娅联合作战。#GTA #GTA6",
+      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森和露西娅联合作战。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=EWQUiavwPk0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('AGORA O MANO VAI DESCANSAR KKKK #shorts #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=VkkHR7tHZJI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCN3tPtdDDeIeYXnWpcb3vDA",
-      "outlier": true,
-      "date": "03/11/2026",
-      "publishedAt": "2026-11-03T12:29:44+00:00",
-      "headline": "🤔 Ты ТЕРЯЕШЬ ДЕНЬГИ не ИГРАЯ в GTA 6?",
-      "desc": "Телеграм - https://t.me/okrestn TikTok - https://www.tiktok.com/@okrestnyy_yt ______ В сети завирусился интересный ролик о ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🤔 Ты ТЕРЯЕШЬ ДЕНЬГИ не ИГРАЯ в GTA 6?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=kTFTrKUzUBE"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "02/11/2026",
-      "publishedAt": "2026-11-02T20:00:29+00:00",
-      "headline": "QUANTO TEMPO PRA ATRAVESSAR O MAPA DO GTA 6?",
-      "desc": "Acompanhe o Flow Games em todas as mídias: https://linkin.bio/flowgamestv/ Acesse o nosso portal de notícias: ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('QUANTO TEMPO PRA ATRAVESSAR O MAPA DO GTA 6?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=lf1uEAJkp8c"
     }
   ]
 }
