@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:40:59+00:00",
+  "updated": "2026-11-11T05:06:44+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCdFhdWnY4JZH047gZ4fgxeA",
+      "outlier": true,
+      "date": "09/11/2026",
+      "publishedAt": "2026-11-09T10:17:45+00:00",
+      "headline": "The GTA 6 Ferrari spotted driving around Miami is now in Londons biggest stores Selfridges 🌴 #gta6",
+      "desc": "Vídeo em alta sobre GTA 6 (2530996 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('The GTA 6 Ferrari spotted driving around Miami is now in Londons biggest stores Selfridges 🌴 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=8EsgowDBUTE"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
       "outlier": true,
       "date": "08/11/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Coughing 2 Weeks Before GTA 6 #gta6 #rockstar #comedy #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=yoYZO1lONSg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "06/11/2026",
-      "publishedAt": "2026-11-06T17:30:24+00:00",
-      "headline": "We Are THAT Close - GTA 6 News #gta6 #gtavi #gtaonline",
-      "desc": "DARKVIPERAU'S $6767 USD GTA 6 GIVEAWAY! Enter here: https://go.darkviper.au/giveaway GTA 6 is coming and I'm marrying ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('We Are THAT Close - GTA 6 News #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=mxYrC9Ixrcg"
     },
     {
       "cat": "vendas",
@@ -766,6 +766,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "06/11/2026",
+      "publishedAt": "2026-11-06T17:30:24+00:00",
+      "headline": "We Are THAT Close - GTA 6 News #gta6 #gtavi #gtaonline",
+      "desc": "DARKVIPERAU'S $6767 USD GTA 6 GIVEAWAY! Enter here: https://go.darkviper.au/giveaway GTA 6 is coming and I'm marrying ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('We Are THAT Close - GTA 6 News #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=mxYrC9Ixrcg"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCzLFIPtShz979JQsJGOof0Q",
       "outlier": true,
       "date": "06/11/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森保护露西娅。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=IV0fp-OnBzo"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "08/11/2026",
-      "publishedAt": "2026-11-08T17:28:28+00:00",
-      "headline": "Pre-load FAQ's and Bugs",
-      "desc": "https://preview.redd.it/5thoy2o6bf0i1.png?width=3832&format=png&auto=webp&s=f1c76d3fc24c605ff685d509067cdef39588c6e3 As we begin the pre-loading there are going to be a lot of questions, and most of those answers will be in here. For PS5 the pre-loading begins at midnight in your",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Pre-load FAQ's and Bugs') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xr3uqg/preload_faqs_and_bugs/"
     }
   ]
 }
