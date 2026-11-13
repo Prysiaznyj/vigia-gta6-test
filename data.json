@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:56:47+00:00",
+  "updated": "2026-11-13T19:22:23+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -458,6 +458,21 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
+      "date": "13/11/2026",
+      "publishedAt": "2026-11-13T15:49:01+00:00",
+      "headline": "Official GTA VI Support Articles (Pre-order, Pre-load, and Launch Day)",
+      "desc": "Pre-order Support Pre-load Support",
+      "signal": 5,
+      "hook": "Número na cara logo na primeira frase: 'Official GTA VI Support Articles (Pre-order, Pre-load, and Launch Day)' — formato \"isso é muito ou pouco?\".",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xvbbze/official_gta_vi_support_articles_preorder_preload/"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
       "date": "10/11/2026",
       "publishedAt": "2026-11-10T15:43:51+00:00",
       "headline": "PlayStation: “Grand Theft Auto VI is the most pre-ordered game in PlayStation Store history!”, PS5 features trailer.",
@@ -850,21 +865,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Finally Mom Bought Us PS5 For GTA 6 🤩') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=SmZOt1SbtIg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCDI3E07f-OTKNYYm_KUgVOg",
-      "outlier": true,
-      "date": "08/11/2026",
-      "publishedAt": "2026-11-08T01:11:44+00:00",
-      "headline": "GTA 6 AYUDA 🤣👁️ #mrrelevante #videojuegos",
-      "desc": "MOMENTOS ÉPICOS DE INTERNET! ¡GTA 6 ESTÁ A SOLAMENTE 12 DÍAS! ¡SEÑORES, ESTO YA NO ES UN SIMULACRO!",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 AYUDA 🤣👁️ #mrrelevante #videojuegos') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=JcGoUAmRSZc"
     },
     {
       "cat": "viral",
