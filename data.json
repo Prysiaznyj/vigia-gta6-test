@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:16:11+00:00",
+  "updated": "2026-11-14T17:45:38+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCdoDYkupTElV62K7ttA_E4w",
+      "outlier": true,
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T15:38:53+00:00",
+      "headline": "GTA 6 UNBOXING 😍 #Shorts",
+      "desc": "TechBar #India #Hindi #gta #gta5 #gta6 Amazon Buy Link - https://amzn.to/3KufrR2 Follow TechBar Facebook: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 UNBOXING 😍 #Shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=dwyiMjmCG8U"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCOuu0hRNYrfjh3VNS8FdxNQ",
       "outlier": true,
       "date": "12/11/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('When GTA 6 Finally Comes Out 🤣') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=9VQCQmab6l0"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCga6uMv6x1mMOwolhD9cXAA",
-      "outlier": true,
-      "date": "10/11/2026",
-      "publishedAt": "2026-11-10T15:42:34+00:00",
-      "headline": "When Electricity is Important 🥲 #gta6",
-      "desc": "Vídeo em alta sobre GTA 6 (6452891 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('When Electricity is Important 🥲 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=f8tl2MenR-E"
     },
     {
       "cat": "vendas",
@@ -781,6 +781,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCga6uMv6x1mMOwolhD9cXAA",
+      "outlier": true,
+      "date": "10/11/2026",
+      "publishedAt": "2026-11-10T15:42:34+00:00",
+      "headline": "When Electricity is Important 🥲 #gta6",
+      "desc": "Vídeo em alta sobre GTA 6 (6452891 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('When Electricity is Important 🥲 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=f8tl2MenR-E"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCuO9FCnhKTp0rHw3Oi5f8Cg",
       "outlier": true,
       "date": "10/11/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('露西亚离开时候发生了什么？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Bhw-u0TVErY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCyLJyetGleLEx-3IwgUIqtQ",
-      "outlier": true,
-      "date": "09/11/2026",
-      "publishedAt": "2026-11-09T11:00:26+00:00",
-      "headline": "When Lil Bro Tries To Buy GTA 6!  #roblox #robloxanimation #gta6 #gtavi",
-      "desc": "roblox #robloxanimation #robloxedit #robloxmeme #robloxcutestory #cutestory #cute #gta6 #gtavi.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('When Lil Bro Tries To Buy GTA 6!  #roblox #robloxanimation #gta6 #gtavi') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=fK5MOejbbvE"
     }
   ]
 }
